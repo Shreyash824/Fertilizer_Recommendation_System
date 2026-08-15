@@ -1,0 +1,3001 @@
+Temperature,Humidity,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorous,Fertilizer Name
+10.8,39.3,21.2,clay,beans,162.4,152.9,51.5,No Fertilizer Needed
+22.7,22.1,20.9,red,maize,80.0,44.9,40.0,DAP
+26.3,35.4,39.5,alluvial,beans,124.4,114.5,40.0,No Fertilizer Needed
+18.3,35.1,48.2,loamy,onion,90.0,61.9,40.0,Urea
+17.9,23.0,33.0,red,grapes,60.0,80.0,40.0,10-26-26
+28.6,80.3,38.9,alluvial,banana,114.2,200.0,40.0,10-26-26
+35.7,80.7,29.0,clay,banana,124.2,200.0,58.5,10-26-26
+30.1,69.1,44.2,sandy,grapes,60.0,80.0,40.0,10-26-26
+23.9,38.9,56.3,sandy,soybean,52.0,40.0,40.0,DAP
+34.7,76.4,30.1,sandy,wheat,100.0,46.5,50.0,Urea
+29.7,47.7,55.7,sandy,mango,60.0,40.0,30.0,DAP
+17.9,60.9,54.9,red,sweet potato,60.0,98.8,40.0,DAP
+12.7,23.3,15.5,black,sorghum,114.9,120.0,47.2,No Fertilizer Needed
+21.4,89.7,36.5,black,maize,151.0,64.5,49.8,No Fertilizer Needed
+36.5,72.6,48.4,alluvial,cotton,90.0,56.2,45.0,DAP
+36.3,38.4,35.0,alluvial,rice,120.0,120.3,60.0,Urea
+25.2,33.9,28.7,alluvial,banana,100.0,200.0,47.9,10-26-26
+19.7,21.4,56.5,red,rice,120.0,52.3,60.0,DAP
+36.3,86.3,14.3,sandy,wheat,100.0,55.2,50.0,DAP
+29.8,86.3,18.3,sandy,sugarcane,150.0,64.4,60.0,Urea
+30.7,69.9,29.9,alluvial,sweet potato,111.0,123.0,40.0,No Fertilizer Needed
+17.4,24.5,11.1,clay,chickpea,137.8,53.3,47.5,No Fertilizer Needed
+16.9,83.4,53.0,clay,beans,72.6,127.8,40.0,No Fertilizer Needed
+14.0,85.5,38.6,red,tomato,100.0,100.0,50.0,Urea
+12.9,50.2,31.2,clay,tomato,126.0,128.3,53.8,No Fertilizer Needed
+11.8,71.0,50.0,clay,beans,77.8,112.8,40.0,No Fertilizer Needed
+15.5,52.4,53.7,black,sugarcane,150.0,178.6,60.0,Urea
+29.6,57.8,10.7,clay,cotton,90.0,79.1,54.9,Urea
+24.4,80.5,55.1,black,onion,90.0,115.7,40.0,DAP
+22.7,87.0,59.8,loamy,chickpea,92.0,46.6,40.0,No Fertilizer Needed
+39.1,60.5,37.1,sandy,banana,100.0,200.0,40.0,10-26-26
+14.7,87.3,14.0,red,sorghum,80.0,77.1,40.0,Urea
+13.6,82.3,22.3,black,soybean,111.4,119.6,40.7,No Fertilizer Needed
+25.7,85.4,20.2,red,coffee,100.0,60.0,40.0,DAP
+19.0,42.1,47.6,alluvial,pigeon peas,52.6,131.9,40.0,No Fertilizer Needed
+26.1,55.4,16.6,clay,cotton,110.1,80.0,45.0,DAP
+23.1,58.0,25.1,sandy,banana,100.0,200.0,40.0,10-26-26
+19.0,66.4,56.9,red,pigeon peas,40.6,38.7,40.0,DAP
+18.2,62.3,45.9,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+37.2,79.2,14.6,loamy,pearl millet,80.1,35.3,30.0,DAP
+39.4,31.3,32.1,alluvial,sugarcane,150.0,60.0,60.0,DAP
+11.1,45.8,37.6,red,sugarcane,150.0,60.0,60.0,Urea
+16.3,37.5,15.1,loamy,wheat,112.2,65.5,50.0,DAP
+14.6,85.1,53.2,alluvial,tea,140.7,121.3,43.1,No Fertilizer Needed
+32.1,43.3,56.5,sandy,rice,120.0,57.5,60.0,Urea
+33.6,27.6,53.6,sandy,groundnut,59.6,57.7,40.0,DAP
+19.2,75.7,21.4,loamy,chickpea,44.1,59.6,40.0,DAP
+20.5,55.7,44.0,loamy,maize,117.9,37.1,40.0,DAP
+27.4,88.8,11.9,sandy,groundnut,47.8,56.4,40.0,DAP
+39.5,28.1,55.0,red,onion,90.0,60.9,40.0,Urea
+30.6,85.8,46.9,red,sorghum,80.0,95.5,40.0,Urea
+19.4,79.4,46.0,red,mango,60.0,59.1,30.0,DAP
+18.9,28.9,31.0,alluvial,watermelon,137.2,123.3,40.0,No Fertilizer Needed
+19.0,58.4,10.0,red,tea,120.0,80.0,40.0,Urea
+23.9,51.0,20.7,loamy,beans,84.6,94.7,41.0,No Fertilizer Needed
+12.5,56.1,41.6,alluvial,potato,120.0,109.6,60.0,Urea
+16.7,33.9,11.2,loamy,pigeon peas,64.0,98.7,40.0,No Fertilizer Needed
+22.4,64.1,19.7,black,maize,122.1,95.9,40.0,No Fertilizer Needed
+10.2,72.6,48.5,alluvial,beans,55.9,57.8,40.0,No Fertilizer Needed
+11.5,37.4,52.4,black,sorghum,96.9,153.1,47.6,No Fertilizer Needed
+19.5,72.9,32.1,red,sweet potato,86.5,80.0,40.0,10-26-26
+36.9,72.1,33.7,black,sweet potato,76.2,149.1,40.0,DAP
+28.8,39.2,13.9,black,sorghum,80.0,106.2,40.0,DAP
+14.2,36.2,44.7,clay,sweet potato,158.4,98.4,40.0,No Fertilizer Needed
+22.5,34.5,31.0,black,sweet potato,144.0,156.9,40.0,No Fertilizer Needed
+24.3,86.0,24.9,black,coffee,100.0,175.8,50.9,Urea
+32.0,76.0,54.9,alluvial,sweet potato,93.1,85.7,40.0,DAP
+30.1,75.9,46.2,loamy,watermelon,117.6,108.6,41.6,No Fertilizer Needed
+37.2,61.4,43.1,clay,sweet potato,74.3,150.0,40.3,No Fertilizer Needed
+17.8,42.9,32.7,clay,potato,120.0,100.0,60.6,Urea
+35.0,52.9,47.5,loamy,onion,90.0,60.0,42.6,Urea
+11.2,22.2,22.4,alluvial,maize,127.3,63.5,40.0,No Fertilizer Needed
+13.4,86.3,33.3,alluvial,pearl millet,70.5,96.5,30.0,No Fertilizer Needed
+38.9,27.6,11.3,sandy,cotton,90.0,64.1,45.0,Urea
+15.9,61.4,51.5,alluvial,watermelon,80.0,69.1,40.0,Urea
+34.2,75.7,38.3,red,pigeon peas,34.3,76.2,40.0,DAP
+29.4,20.9,31.0,red,maize,80.0,55.9,40.0,DAP
+14.6,32.3,36.1,alluvial,chickpea,108.9,124.8,40.0,No Fertilizer Needed
+23.1,71.2,23.4,black,pearl millet,138.4,74.7,48.7,No Fertilizer Needed
+32.5,59.9,43.4,sandy,chickpea,36.1,35.6,40.0,DAP
+20.6,38.1,24.0,sandy,pearl millet,60.0,46.0,30.0,Urea
+12.6,70.4,34.4,sandy,sorghum,80.0,50.1,40.0,DAP
+33.8,26.5,21.1,black,pearl millet,121.6,141.5,30.0,No Fertilizer Needed
+25.9,49.8,47.3,red,pearl millet,60.0,49.8,30.7,Urea
+13.6,33.5,16.0,sandy,groundnut,45.1,40.0,40.0,10-26-26
+24.5,70.7,58.8,alluvial,tomato,100.0,100.0,50.0,10-26-26
+16.8,32.6,10.7,loamy,tomato,100.0,108.1,50.0,DAP
+30.9,28.8,53.4,loamy,sweet potato,86.2,80.0,40.2,No Fertilizer Needed
+23.2,32.9,12.6,black,pearl millet,147.8,174.0,35.4,No Fertilizer Needed
+12.2,64.1,12.7,black,watermelon,80.0,104.0,40.0,Urea
+26.7,49.1,39.8,clay,soybean,146.5,95.3,55.9,No Fertilizer Needed
+35.8,89.3,25.3,loamy,chickpea,97.9,90.5,40.0,No Fertilizer Needed
+16.3,66.2,17.9,alluvial,tomato,100.0,100.0,50.0,10-26-26
+27.8,40.4,21.6,alluvial,chickpea,114.4,82.9,40.0,No Fertilizer Needed
+37.7,75.1,41.3,sandy,pigeon peas,50.8,40.1,40.0,DAP
+29.4,83.6,51.3,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+23.2,52.8,25.2,loamy,coffee,100.0,75.5,40.0,DAP
+27.9,82.3,46.7,clay,chickpea,144.5,78.3,40.0,No Fertilizer Needed
+27.6,21.5,48.2,red,pigeon peas,86.9,83.0,40.0,No Fertilizer Needed
+25.6,51.0,23.9,black,potato,153.7,172.9,60.0,DAP
+20.4,43.3,43.5,black,maize,139.1,156.6,40.0,No Fertilizer Needed
+38.4,76.9,37.5,alluvial,banana,100.0,200.0,40.0,10-26-26
+34.7,20.1,53.5,red,watermelon,80.0,66.5,40.0,DAP
+28.8,73.2,20.2,black,tea,120.0,122.1,52.3,Urea
+10.9,64.1,50.0,clay,pearl millet,158.8,54.0,35.0,No Fertilizer Needed
+16.7,78.9,15.7,clay,onion,190.9,69.8,50.1,No Fertilizer Needed
+31.2,49.1,34.1,red,banana,100.0,200.0,40.0,10-26-26
+25.2,81.6,53.2,red,tomato,100.0,100.0,50.0,Urea
+34.6,39.8,24.9,loamy,sorghum,94.8,71.7,44.0,No Fertilizer Needed
+26.2,44.2,37.6,black,sugarcane,150.0,106.4,60.0,Urea
+17.2,46.8,52.8,alluvial,tomato,100.0,100.0,50.0,DAP
+39.7,75.5,42.6,black,watermelon,80.0,80.0,53.7,Urea
+36.1,81.2,32.0,loamy,coffee,100.0,89.2,40.0,DAP
+39.1,25.2,49.1,alluvial,onion,90.0,77.8,40.0,Urea
+35.6,80.2,29.0,loamy,maize,80.0,92.0,40.0,Urea
+28.5,36.4,44.2,clay,sweet potato,101.8,80.0,40.0,10-26-26
+31.1,27.0,18.3,alluvial,cotton,90.0,71.2,45.0,DAP
+20.8,50.1,22.2,loamy,wheat,100.0,48.5,50.0,DAP
+28.3,46.8,44.2,clay,potato,130.2,100.0,60.0,10-26-26
+23.8,66.7,54.9,loamy,beans,83.9,76.0,40.0,No Fertilizer Needed
+38.4,89.1,25.0,black,maize,150.0,124.7,43.4,No Fertilizer Needed
+40.0,79.7,15.3,sandy,banana,100.0,200.0,40.0,10-26-26
+39.3,66.1,23.7,clay,banana,139.4,200.0,51.9,10-26-26
+32.4,78.3,55.1,red,wheat,100.0,85.6,50.0,DAP
+15.7,37.5,47.8,alluvial,soybean,120.3,54.3,40.0,No Fertilizer Needed
+29.4,41.6,32.0,alluvial,cotton,102.0,50.1,45.0,DAP
+32.4,32.3,16.6,loamy,banana,100.0,200.0,43.1,10-26-26
+17.7,77.7,34.1,sandy,groundnut,57.3,40.0,40.0,DAP
+38.9,29.9,58.3,black,cotton,139.3,195.3,45.0,No Fertilizer Needed
+12.7,47.6,23.2,loamy,sweet potato,60.0,91.2,40.0,DAP
+21.4,64.7,28.6,red,groundnut,77.1,73.3,40.0,No Fertilizer Needed
+37.5,35.5,13.2,loamy,sweet potato,116.1,80.0,41.3,10-26-26
+14.2,86.2,25.2,clay,onion,129.5,152.3,40.0,DAP
+23.6,66.9,47.2,black,sugarcane,150.0,163.2,60.0,DAP
+29.6,78.4,40.8,black,sugarcane,150.0,156.2,60.0,DAP
+23.3,36.5,28.1,black,tomato,152.0,184.7,50.0,DAP
+11.8,39.3,58.4,loamy,beans,127.4,41.9,40.0,No Fertilizer Needed
+29.2,88.0,12.5,alluvial,tomato,100.0,112.8,50.0,Urea
+34.9,58.8,39.3,clay,tomato,172.8,139.6,50.0,No Fertilizer Needed
+18.3,88.9,59.4,clay,tea,135.9,80.0,56.9,No Fertilizer Needed
+10.4,75.3,21.9,sandy,rice,120.0,40.0,60.0,Urea
+13.4,24.4,32.4,red,onion,90.0,62.0,40.0,Urea
+11.3,74.8,53.3,red,soybean,66.7,96.6,40.0,DAP
+35.4,49.8,15.4,black,wheat,123.8,184.4,50.0,DAP
+14.5,28.8,41.2,red,mango,71.0,57.2,30.9,No Fertilizer Needed
+18.8,55.4,31.5,red,tea,120.0,80.0,40.0,DAP
+36.0,50.1,54.4,alluvial,sweet potato,85.8,80.0,43.7,No Fertilizer Needed
+22.8,66.6,28.7,loamy,cotton,90.0,40.0,45.0,Urea
+23.0,72.1,28.6,clay,maize,80.6,160.1,40.0,DAP
+30.1,48.8,53.7,loamy,sweet potato,126.7,103.7,40.0,No Fertilizer Needed
+28.0,44.6,38.9,loamy,wheat,100.0,51.8,50.0,Urea
+35.4,45.7,48.1,loamy,cotton,93.7,98.4,45.0,DAP
+30.2,59.0,40.4,red,tea,120.0,80.0,40.0,Urea
+32.9,84.5,27.6,alluvial,groundnut,63.2,101.2,40.0,DAP
+32.2,88.0,14.6,sandy,maize,80.0,41.4,40.0,DAP
+19.3,42.7,57.1,loamy,potato,120.0,100.0,60.0,10-26-26
+30.2,39.0,43.1,clay,tea,128.6,83.2,40.9,No Fertilizer Needed
+20.4,27.8,43.9,clay,sorghum,143.1,87.2,44.7,No Fertilizer Needed
+39.5,23.8,20.2,black,soybean,148.3,166.2,46.3,No Fertilizer Needed
+13.6,54.8,31.5,loamy,banana,100.0,200.0,40.0,10-26-26
+34.2,25.0,53.1,alluvial,sweet potato,60.0,124.9,40.0,DAP
+22.9,48.3,42.0,red,mango,60.0,96.7,30.0,DAP
+23.8,68.3,28.1,red,potato,120.0,100.0,60.0,DAP
+12.4,80.9,47.3,red,watermelon,80.0,60.0,40.0,Urea
+25.9,33.6,48.8,clay,beans,110.4,125.1,64.1,No Fertilizer Needed
+13.1,37.9,18.7,sandy,sugarcane,150.0,60.0,60.0,Urea
+23.9,59.5,39.0,black,beans,120.5,149.8,50.6,No Fertilizer Needed
+35.9,63.9,17.5,loamy,tea,120.0,80.0,40.0,Urea
+11.7,55.5,25.5,red,groundnut,62.0,87.6,40.0,DAP
+35.9,79.9,40.8,alluvial,maize,94.9,91.9,40.0,DAP
+37.3,60.0,19.4,black,wheat,112.5,192.3,50.0,DAP
+34.3,78.6,59.1,clay,chickpea,74.4,56.9,50.1,No Fertilizer Needed
+25.7,62.7,28.2,black,chickpea,145.4,167.6,40.0,No Fertilizer Needed
+11.6,64.2,26.7,red,pigeon peas,53.8,57.6,40.0,DAP
+35.5,87.5,40.1,alluvial,groundnut,60.2,101.7,40.0,DAP
+39.0,68.9,29.6,loamy,grapes,95.6,80.0,42.1,10-26-26
+33.7,76.9,43.5,alluvial,watermelon,126.3,103.7,40.7,No Fertilizer Needed
+29.4,49.6,28.1,clay,sorghum,112.0,76.6,40.0,DAP
+16.8,29.6,13.9,sandy,pearl millet,60.0,55.7,30.0,DAP
+29.9,81.3,40.9,clay,sorghum,143.6,72.8,40.0,No Fertilizer Needed
+31.6,23.1,28.2,sandy,tea,120.0,80.0,40.0,Urea
+26.0,41.7,50.4,sandy,chickpea,42.1,37.6,40.0,DAP
+23.9,39.7,29.1,black,coffee,104.4,173.3,53.7,No Fertilizer Needed
+36.2,23.7,34.0,sandy,tea,120.0,80.0,40.0,Urea
+18.6,73.4,23.6,clay,sorghum,185.2,101.7,40.0,No Fertilizer Needed
+36.5,85.1,30.7,black,soybean,90.6,115.1,40.0,No Fertilizer Needed
+16.7,42.3,15.0,loamy,maize,106.3,46.0,40.0,DAP
+37.5,53.1,51.6,loamy,wheat,110.3,81.2,50.0,DAP
+17.7,78.4,37.4,clay,maize,161.2,65.0,44.7,No Fertilizer Needed
+19.0,23.3,31.0,sandy,banana,100.0,200.0,40.0,10-26-26
+26.1,64.2,38.8,red,pearl millet,80.0,31.6,30.0,DAP
+27.1,33.1,43.4,sandy,grapes,60.0,80.0,40.0,DAP
+33.6,55.5,11.0,red,sweet potato,90.4,80.0,40.0,10-26-26
+32.4,45.0,13.4,loamy,grapes,63.7,80.0,40.0,10-26-26
+32.7,29.3,27.6,alluvial,coffee,100.0,116.7,40.0,Urea
+39.4,53.5,19.1,black,pigeon peas,63.2,190.4,44.4,No Fertilizer Needed
+16.0,75.4,54.3,loamy,wheat,100.0,64.9,50.0,DAP
+17.6,72.7,19.6,black,sweet potato,86.5,179.9,46.8,No Fertilizer Needed
+13.7,45.8,54.5,loamy,mango,108.9,64.0,40.8,No Fertilizer Needed
+30.8,45.7,49.9,black,potato,120.0,120.3,60.0,DAP
+39.9,32.6,24.7,red,onion,90.0,60.0,40.0,Urea
+31.5,31.7,32.2,red,chickpea,61.7,93.0,40.0,No Fertilizer Needed
+18.2,88.6,57.4,black,tea,120.0,112.0,41.4,Urea
+38.6,30.0,40.4,sandy,pigeon peas,56.2,30.0,40.0,DAP
+20.9,86.5,11.6,loamy,beans,55.8,62.8,40.0,DAP
+27.2,57.1,29.9,clay,chickpea,150.7,65.3,40.0,No Fertilizer Needed
+25.5,83.9,15.9,black,potato,130.4,100.0,60.0,DAP
+30.8,89.9,20.0,loamy,tea,120.0,80.0,40.0,Urea
+34.3,87.7,59.3,clay,chickpea,153.2,114.4,52.9,No Fertilizer Needed
+35.5,69.8,56.4,loamy,banana,100.0,200.0,40.0,10-26-26
+33.8,36.6,34.7,sandy,cotton,90.0,42.0,45.0,Urea
+28.4,26.0,25.5,sandy,sweet potato,66.0,80.0,40.0,10-26-26
+12.2,88.1,42.1,red,onion,90.0,60.0,40.0,Urea
+27.6,73.7,16.5,alluvial,sweet potato,94.5,116.8,45.1,No Fertilizer Needed
+19.1,31.3,56.7,sandy,sorghum,80.0,44.4,40.0,Urea
+17.5,64.5,37.5,clay,banana,100.0,200.0,40.0,10-26-26
+15.1,85.9,17.7,alluvial,sorghum,109.7,96.5,40.1,No Fertilizer Needed
+34.8,22.0,12.3,clay,coffee,149.6,125.8,47.0,No Fertilizer Needed
+28.5,22.1,54.4,black,coffee,106.3,103.8,41.6,No Fertilizer Needed
+22.2,51.7,44.4,alluvial,soybean,60.9,83.8,40.0,No Fertilizer Needed
+14.3,80.3,26.0,red,mango,98.2,58.4,30.0,No Fertilizer Needed
+26.8,42.3,33.3,red,grapes,60.0,80.0,40.0,10-26-26
+35.9,49.3,58.1,black,banana,143.7,200.0,48.0,No Fertilizer Needed
+32.9,54.9,35.7,sandy,mango,60.0,40.0,30.0,10-26-26
+23.7,36.9,39.2,red,watermelon,80.0,71.8,40.0,Urea
+24.1,57.6,52.4,alluvial,beans,87.5,107.5,45.5,No Fertilizer Needed
+11.4,23.6,38.1,loamy,watermelon,80.0,64.0,40.0,DAP
+18.4,89.2,44.0,red,chickpea,39.5,58.1,40.0,No Fertilizer Needed
+38.2,72.8,20.0,red,mango,65.9,40.0,30.0,10-26-26
+20.0,53.2,32.8,alluvial,sugarcane,150.0,71.5,60.0,Urea
+14.9,89.3,47.0,loamy,tea,120.0,97.1,40.0,Urea
+31.3,41.0,50.8,black,sweet potato,87.7,195.3,42.8,No Fertilizer Needed
+33.9,70.8,44.4,loamy,coffee,100.0,107.5,40.0,Urea
+16.8,23.6,34.0,red,coffee,100.0,83.8,40.0,Urea
+34.6,37.0,38.6,sandy,watermelon,80.0,60.0,40.0,DAP
+22.4,34.3,35.1,sandy,onion,90.0,60.0,40.0,Urea
+14.1,34.5,26.3,alluvial,wheat,110.1,70.2,50.0,DAP
+37.4,44.0,27.7,black,potato,130.1,149.8,60.0,DAP
+24.5,87.0,24.0,red,groundnut,51.6,97.8,40.0,No Fertilizer Needed
+16.2,69.3,25.9,alluvial,banana,100.0,200.0,47.3,10-26-26
+13.7,67.4,29.0,loamy,groundnut,130.2,106.6,40.0,No Fertilizer Needed
+11.3,86.9,14.0,loamy,sugarcane,150.0,91.1,60.0,DAP
+34.8,39.0,38.1,sandy,tomato,100.0,100.0,50.0,Urea
+11.5,83.4,21.3,sandy,soybean,31.5,40.0,40.0,DAP
+30.4,29.6,58.2,clay,pearl millet,195.0,126.0,30.0,No Fertilizer Needed
+29.5,72.9,24.4,black,pearl millet,79.0,166.8,30.0,DAP
+17.0,71.7,52.5,red,beans,34.0,59.7,40.0,No Fertilizer Needed
+39.9,47.8,34.8,clay,potato,189.4,156.7,64.3,No Fertilizer Needed
+19.0,62.2,56.4,clay,wheat,108.2,124.6,50.0,DAP
+36.7,29.4,35.2,black,sorghum,80.0,107.6,47.8,Urea
+17.7,33.0,46.8,alluvial,chickpea,122.6,110.2,40.0,No Fertilizer Needed
+35.7,82.8,51.3,red,potato,120.0,100.0,60.0,DAP
+24.3,85.5,10.3,sandy,potato,120.0,100.0,60.0,Urea
+27.5,60.1,23.1,loamy,mango,74.4,85.1,30.0,DAP
+14.8,68.0,56.2,loamy,chickpea,121.9,86.8,40.0,No Fertilizer Needed
+21.0,35.5,57.9,loamy,beans,85.0,109.2,40.0,No Fertilizer Needed
+31.1,83.9,47.9,black,grapes,133.2,165.9,48.5,No Fertilizer Needed
+36.2,25.7,32.3,red,pigeon peas,79.0,69.6,40.0,DAP
+37.1,34.2,36.8,red,wheat,100.0,61.3,50.0,Urea
+31.5,54.2,54.9,sandy,pigeon peas,41.0,30.0,40.0,DAP
+26.9,59.1,43.6,black,onion,90.0,97.4,40.0,DAP
+16.5,25.1,31.2,alluvial,rice,120.0,47.4,60.0,DAP
+11.0,48.6,48.4,black,maize,129.4,150.2,54.2,No Fertilizer Needed
+39.8,46.8,53.5,loamy,onion,123.6,86.2,40.0,DAP
+14.0,80.2,15.9,red,pigeon peas,98.5,40.1,40.0,No Fertilizer Needed
+32.7,88.5,33.2,clay,soybean,160.1,95.2,40.1,No Fertilizer Needed
+23.8,30.9,19.4,sandy,soybean,60.4,40.0,40.0,10-26-26
+28.4,85.5,54.5,black,pigeon peas,74.3,143.2,40.0,DAP
+30.2,81.1,22.2,red,chickpea,34.5,67.9,40.0,DAP
+25.1,40.2,50.8,sandy,wheat,100.0,47.9,50.0,DAP
+17.1,81.3,59.3,loamy,pigeon peas,88.9,55.6,40.0,No Fertilizer Needed
+36.4,83.8,41.3,red,sweet potato,60.3,97.1,40.0,DAP
+21.4,56.7,44.8,alluvial,beans,85.3,58.5,40.0,No Fertilizer Needed
+17.2,35.8,52.9,black,sweet potato,64.2,80.0,40.0,10-26-26
+26.7,29.4,22.1,black,onion,90.0,187.5,41.8,Urea
+26.1,78.1,12.6,clay,grapes,113.9,80.0,48.2,No Fertilizer Needed
+34.1,61.1,43.6,sandy,maize,80.0,61.8,40.0,Urea
+16.4,33.3,47.1,clay,banana,163.8,200.0,54.9,10-26-26
+16.1,84.1,37.6,alluvial,tea,121.1,90.0,40.0,DAP
+17.8,55.9,34.9,loamy,grapes,60.0,80.0,43.4,Urea
+21.1,49.0,38.1,sandy,mango,60.0,40.0,30.0,DAP
+31.6,40.7,19.8,red,coffee,100.0,60.0,40.0,Urea
+38.3,43.6,48.2,alluvial,sweet potato,93.1,108.6,40.2,No Fertilizer Needed
+32.0,44.7,17.0,sandy,chickpea,45.6,61.0,40.0,DAP
+25.7,78.7,13.7,clay,beans,173.4,53.2,40.0,No Fertilizer Needed
+16.9,69.5,10.5,alluvial,sugarcane,150.0,97.6,60.0,Urea
+37.4,66.1,10.8,red,pigeon peas,67.4,32.6,40.0,DAP
+39.3,21.2,50.7,red,groundnut,77.0,92.9,40.0,No Fertilizer Needed
+25.7,36.9,41.0,clay,cotton,97.1,141.9,45.0,DAP
+38.8,52.1,22.2,loamy,maize,104.8,97.1,40.0,DAP
+39.8,65.5,11.6,alluvial,maize,85.0,84.8,40.0,DAP
+31.1,25.8,52.3,clay,beans,150.1,162.4,40.0,No Fertilizer Needed
+37.6,36.1,55.1,red,cotton,90.0,49.8,45.0,DAP
+37.8,83.0,38.2,alluvial,maize,80.0,70.3,47.1,Urea
+14.3,77.4,51.0,red,tomato,100.0,100.0,50.0,10-26-26
+30.3,57.8,29.2,black,coffee,126.7,156.1,47.1,No Fertilizer Needed
+32.4,44.2,14.9,red,maize,80.0,72.3,40.0,DAP
+21.9,74.1,11.5,red,tea,120.0,80.0,40.0,Urea
+38.2,50.2,44.0,red,grapes,76.1,80.0,40.0,DAP
+12.2,38.8,29.0,alluvial,soybean,121.9,77.1,40.0,No Fertilizer Needed
+12.7,86.0,32.2,clay,grapes,165.8,80.0,40.0,No Fertilizer Needed
+26.7,55.9,15.2,black,onion,90.0,143.6,40.0,Urea
+10.4,49.0,49.0,black,mango,125.1,197.0,38.5,No Fertilizer Needed
+25.6,68.0,18.5,red,soybean,49.7,41.4,40.0,DAP
+18.3,41.0,49.1,black,potato,120.0,160.3,60.0,Urea
+28.5,52.1,16.8,red,pearl millet,60.0,88.3,30.0,Urea
+23.2,50.1,51.2,loamy,watermelon,100.6,60.0,40.0,10-26-26
+16.0,42.0,58.2,alluvial,tea,140.0,104.5,40.0,DAP
+33.5,42.8,24.0,red,pearl millet,84.5,94.4,30.0,DAP
+39.9,32.6,48.4,red,tomato,100.0,100.0,50.0,Urea
+33.9,78.2,13.5,black,tomato,138.0,153.9,50.0,No Fertilizer Needed
+19.1,37.7,17.7,alluvial,sugarcane,150.0,82.4,60.0,Urea
+27.5,57.4,56.2,black,tea,140.3,80.0,40.0,10-26-26
+36.9,57.6,41.9,alluvial,grapes,60.0,101.2,41.7,Urea
+29.4,23.1,59.2,sandy,grapes,60.0,80.0,40.0,10-26-26
+10.3,38.1,35.5,clay,onion,133.0,117.2,47.1,No Fertilizer Needed
+21.7,74.1,39.4,loamy,chickpea,87.0,36.8,40.0,No Fertilizer Needed
+22.5,87.3,15.8,loamy,cotton,126.7,58.4,45.0,DAP
+25.6,44.4,14.9,sandy,chickpea,53.5,30.0,40.0,DAP
+13.5,79.4,42.4,alluvial,wheat,111.5,130.6,50.0,DAP
+15.2,31.2,38.0,red,soybean,96.2,58.8,40.0,No Fertilizer Needed
+29.2,50.2,11.5,sandy,potato,120.0,100.0,60.0,DAP
+31.1,34.4,47.6,clay,watermelon,172.2,63.9,40.0,No Fertilizer Needed
+21.0,33.8,15.7,sandy,sweet potato,60.0,80.0,40.0,DAP
+21.7,47.5,15.7,red,mango,60.0,43.1,30.0,DAP
+34.0,84.3,39.5,alluvial,pigeon peas,111.0,63.5,40.0,No Fertilizer Needed
+21.2,29.9,29.4,sandy,cotton,90.0,40.0,45.0,Urea
+26.1,84.3,56.5,alluvial,pearl millet,62.4,68.0,30.0,DAP
+35.3,63.4,53.3,loamy,potato,127.7,100.0,60.0,10-26-26
+25.2,54.6,44.2,red,watermelon,80.0,64.5,40.0,Urea
+10.9,73.3,24.6,red,maize,80.0,42.9,40.0,Urea
+32.3,73.6,37.5,red,chickpea,39.1,83.8,40.0,DAP
+34.7,22.9,45.9,red,grapes,68.4,80.0,40.0,10-26-26
+18.9,90.0,32.5,sandy,beans,36.7,40.8,40.0,DAP
+16.3,71.6,44.5,sandy,cotton,90.0,40.3,45.0,DAP
+33.5,76.9,50.3,sandy,tea,120.0,80.0,40.0,Urea
+39.4,40.5,38.6,loamy,potato,127.7,102.5,60.0,DAP
+38.9,75.0,55.9,sandy,cotton,90.0,40.0,45.0,DAP
+14.4,42.5,22.4,sandy,sugarcane,150.0,60.0,60.0,Urea
+28.8,46.3,13.8,loamy,beans,113.5,65.2,40.0,No Fertilizer Needed
+38.1,45.8,57.5,alluvial,groundnut,77.4,111.7,40.0,DAP
+39.2,64.4,44.9,alluvial,maize,128.4,77.8,42.6,No Fertilizer Needed
+24.8,42.6,24.2,sandy,onion,90.0,60.0,40.0,DAP
+32.9,23.2,41.3,alluvial,mango,127.1,125.6,30.0,No Fertilizer Needed
+23.7,89.4,31.4,black,potato,153.5,182.1,60.0,No Fertilizer Needed
+36.2,81.4,14.7,sandy,banana,100.0,200.0,40.0,10-26-26
+11.6,63.8,46.3,sandy,beans,55.0,40.0,40.0,10-26-26
+16.4,25.5,39.7,clay,cotton,133.1,53.4,45.0,No Fertilizer Needed
+39.6,49.6,16.6,clay,mango,72.6,134.7,38.2,No Fertilizer Needed
+19.4,81.7,16.9,clay,cotton,167.4,67.5,54.9,No Fertilizer Needed
+12.1,59.4,40.5,sandy,pigeon peas,28.4,30.6,40.0,DAP
+28.5,51.0,20.9,black,sugarcane,150.0,79.6,60.0,DAP
+38.9,42.0,17.0,loamy,watermelon,80.0,76.5,40.0,DAP
+28.2,74.5,44.5,alluvial,tea,128.2,80.0,40.0,10-26-26
+25.3,72.3,24.8,red,sorghum,80.0,95.9,40.0,Urea
+13.4,55.0,39.7,black,pearl millet,104.5,196.2,54.2,No Fertilizer Needed
+21.6,78.7,31.0,sandy,mango,60.0,42.2,30.0,DAP
+27.6,21.0,20.8,clay,maize,187.5,97.3,63.7,No Fertilizer Needed
+31.4,73.7,31.2,alluvial,banana,100.0,200.0,40.0,10-26-26
+12.5,25.5,56.0,loamy,sugarcane,150.0,60.0,60.0,DAP
+32.9,65.5,42.2,alluvial,coffee,100.0,127.8,40.0,Urea
+17.3,84.7,15.8,clay,soybean,145.7,127.4,40.0,No Fertilizer Needed
+15.3,20.9,16.9,alluvial,pigeon peas,46.6,73.2,40.0,No Fertilizer Needed
+17.8,46.0,47.5,alluvial,sorghum,130.7,52.6,40.5,No Fertilizer Needed
+34.2,39.0,13.2,loamy,rice,120.0,40.8,60.0,DAP
+20.8,55.0,38.3,red,chickpea,56.3,38.4,40.0,DAP
+31.7,36.0,35.4,alluvial,coffee,100.0,64.0,44.9,Urea
+21.5,30.5,56.6,loamy,pearl millet,119.2,103.5,30.6,No Fertilizer Needed
+16.7,37.4,55.8,black,beans,82.6,140.2,48.5,No Fertilizer Needed
+30.2,23.7,21.2,red,cotton,90.0,58.6,45.0,DAP
+33.2,41.7,14.3,loamy,chickpea,83.1,56.9,40.0,No Fertilizer Needed
+28.7,52.5,39.6,alluvial,banana,100.0,200.0,41.8,10-26-26
+14.5,85.3,11.2,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+10.0,66.0,52.5,loamy,rice,120.0,74.7,60.0,DAP
+24.8,24.2,59.8,black,soybean,123.7,187.4,40.0,No Fertilizer Needed
+31.0,46.1,58.7,black,sorghum,80.0,81.0,40.0,DAP
+27.8,24.4,43.1,clay,watermelon,80.6,148.2,40.0,DAP
+35.0,42.8,32.6,alluvial,watermelon,80.0,60.0,47.6,Urea
+14.7,31.5,33.3,clay,coffee,117.9,161.0,45.1,No Fertilizer Needed
+19.2,38.6,16.0,black,tomato,100.0,174.6,50.0,Urea
+16.5,80.0,17.4,clay,tea,159.0,97.1,64.6,No Fertilizer Needed
+19.0,77.4,18.7,alluvial,wheat,138.3,92.0,50.0,No Fertilizer Needed
+12.8,27.1,49.7,sandy,sweet potato,60.0,80.0,40.0,DAP
+15.9,48.0,44.3,sandy,soybean,63.2,47.4,40.0,DAP
+39.9,33.8,42.3,clay,maize,172.3,147.8,40.0,No Fertilizer Needed
+11.3,52.3,18.4,clay,mango,140.5,96.9,58.0,No Fertilizer Needed
+30.5,32.1,20.7,black,rice,120.0,182.3,60.0,DAP
+28.6,37.2,24.8,red,wheat,100.0,40.0,50.0,Urea
+14.1,34.0,54.2,black,groundnut,104.2,171.3,41.2,No Fertilizer Needed
+33.5,45.1,37.2,black,rice,120.0,130.8,60.0,Urea
+15.4,42.3,21.0,loamy,watermelon,122.6,60.0,40.0,10-26-26
+20.7,60.9,21.6,red,pearl millet,60.0,47.8,30.0,DAP
+11.7,89.7,21.0,alluvial,sweet potato,128.0,80.0,42.7,No Fertilizer Needed
+17.1,42.3,46.9,sandy,potato,120.0,100.0,60.0,Urea
+26.9,59.4,19.4,red,grapes,98.2,80.0,40.0,10-26-26
+24.7,26.3,21.6,sandy,banana,100.0,200.0,40.0,10-26-26
+34.2,43.9,18.9,sandy,tea,120.0,80.0,40.0,Urea
+31.1,29.9,15.5,red,sugarcane,150.0,60.0,60.0,Urea
+27.6,43.6,26.1,black,pigeon peas,151.5,122.0,45.0,No Fertilizer Needed
+29.5,32.2,58.4,black,beans,121.8,169.2,52.3,No Fertilizer Needed
+27.7,32.3,25.3,alluvial,soybean,112.6,107.6,40.0,No Fertilizer Needed
+35.5,74.0,38.4,black,coffee,100.0,172.2,40.0,Urea
+29.2,27.3,34.8,sandy,tea,120.0,80.0,40.0,Urea
+29.1,87.4,51.1,sandy,mango,60.0,40.0,30.0,DAP
+16.3,68.5,27.5,loamy,rice,120.0,40.0,60.0,DAP
+22.6,31.6,30.7,alluvial,chickpea,131.5,75.8,40.0,No Fertilizer Needed
+29.5,68.1,18.1,red,pearl millet,60.0,51.4,34.5,Urea
+38.5,25.2,18.5,loamy,mango,75.8,76.0,36.0,No Fertilizer Needed
+27.8,63.0,34.1,loamy,maize,80.0,47.4,42.3,Urea
+11.6,43.2,58.7,sandy,onion,90.0,62.7,40.0,Urea
+29.8,40.8,14.8,loamy,sweet potato,77.4,80.0,40.0,10-26-26
+10.1,26.1,51.2,loamy,wheat,100.0,42.3,50.0,DAP
+29.1,88.4,33.7,sandy,tomato,100.0,100.0,50.0,Urea
+12.7,58.1,19.2,loamy,pigeon peas,121.7,68.4,40.0,No Fertilizer Needed
+24.0,35.8,23.4,black,groundnut,55.5,153.1,45.7,No Fertilizer Needed
+20.3,57.9,58.5,alluvial,maize,103.0,117.7,40.0,No Fertilizer Needed
+39.0,68.1,56.8,black,sorghum,109.1,103.3,40.0,DAP
+11.0,60.0,35.8,alluvial,watermelon,101.2,60.0,48.9,No Fertilizer Needed
+38.5,31.7,20.6,sandy,chickpea,29.7,30.0,40.0,DAP
+16.1,77.6,17.4,black,pigeon peas,111.5,161.2,40.0,No Fertilizer Needed
+21.6,47.8,26.3,clay,maize,100.3,150.8,41.6,No Fertilizer Needed
+25.7,49.4,30.7,red,tea,120.0,82.7,40.0,Urea
+26.9,27.1,24.3,clay,cotton,135.3,98.7,45.0,No Fertilizer Needed
+24.6,62.6,11.9,alluvial,watermelon,80.0,96.8,40.0,DAP
+21.9,81.5,44.5,clay,watermelon,80.0,82.7,42.4,Urea
+20.1,75.6,25.5,clay,grapes,176.8,129.5,59.6,No Fertilizer Needed
+19.0,72.1,48.7,sandy,soybean,35.4,48.2,40.0,DAP
+23.3,83.9,30.4,sandy,maize,80.0,37.8,40.0,Urea
+33.7,24.6,45.5,red,wheat,100.0,66.9,50.0,Urea
+15.2,81.3,20.0,clay,coffee,100.0,60.0,40.0,Urea
+16.0,45.8,33.2,alluvial,grapes,84.2,103.3,46.9,No Fertilizer Needed
+24.7,51.2,58.0,loamy,soybean,84.7,60.8,40.0,No Fertilizer Needed
+34.9,26.3,11.4,alluvial,groundnut,50.3,112.2,44.6,No Fertilizer Needed
+29.4,67.4,23.5,sandy,tomato,100.0,100.0,50.0,DAP
+24.2,29.3,18.7,clay,pigeon peas,171.1,120.9,40.0,No Fertilizer Needed
+39.0,65.0,31.2,alluvial,banana,100.0,200.0,40.0,10-26-26
+30.3,77.7,29.9,loamy,chickpea,51.2,84.7,40.0,DAP
+29.4,62.6,24.9,red,grapes,60.0,98.2,40.0,DAP
+35.8,38.3,45.6,loamy,beans,122.3,46.2,40.0,No Fertilizer Needed
+34.2,76.2,40.0,clay,soybean,152.2,133.6,51.6,No Fertilizer Needed
+39.9,38.2,30.9,black,beans,89.8,158.6,40.0,No Fertilizer Needed
+20.3,69.9,44.3,sandy,coffee,100.0,63.3,40.0,Urea
+19.0,31.9,42.9,red,grapes,69.2,80.0,40.0,10-26-26
+34.3,73.4,19.2,alluvial,groundnut,111.8,50.0,40.0,No Fertilizer Needed
+32.3,41.5,49.4,sandy,grapes,60.0,80.0,40.0,10-26-26
+11.6,64.4,39.0,black,cotton,114.2,89.3,45.0,DAP
+21.5,40.9,12.7,alluvial,cotton,128.8,60.0,45.0,DAP
+36.8,89.1,17.2,red,onion,90.0,60.0,40.0,10-26-26
+39.6,41.9,12.9,alluvial,mango,89.6,111.6,30.0,No Fertilizer Needed
+24.7,73.4,14.4,sandy,coffee,100.0,60.0,40.0,Urea
+10.1,57.4,46.5,black,pearl millet,148.8,165.2,51.0,No Fertilizer Needed
+10.5,20.3,46.7,sandy,sorghum,80.0,35.0,40.0,Urea
+25.1,41.4,13.3,black,cotton,90.0,124.6,53.1,Urea
+25.7,50.4,44.3,red,sorghum,80.0,64.6,40.0,Urea
+38.4,84.3,30.2,sandy,tomato,100.0,100.0,50.0,10-26-26
+25.1,28.6,45.6,red,rice,120.0,74.7,60.0,DAP
+11.5,89.6,43.1,red,sweet potato,75.6,80.0,40.0,DAP
+21.4,58.3,33.7,black,onion,90.0,148.1,43.6,Urea
+29.8,66.4,23.5,black,banana,112.6,200.0,40.0,10-26-26
+31.6,28.2,15.7,red,cotton,90.0,45.0,45.0,Urea
+39.2,45.1,30.5,red,groundnut,42.3,92.9,40.0,DAP
+17.0,20.9,14.5,loamy,pearl millet,60.0,72.1,31.2,Urea
+12.3,70.7,55.2,red,maize,80.0,97.5,40.0,DAP
+11.5,76.9,53.7,black,groundnut,138.5,154.4,40.0,No Fertilizer Needed
+13.5,79.6,54.5,alluvial,onion,90.0,100.2,40.0,Urea
+36.8,86.9,23.4,loamy,mango,108.0,60.7,30.0,No Fertilizer Needed
+22.0,52.0,51.8,black,cotton,121.4,119.9,45.0,No Fertilizer Needed
+14.0,70.8,59.1,clay,potato,177.0,155.0,60.0,DAP
+30.4,32.7,29.0,red,pearl millet,60.0,77.7,30.0,DAP
+37.6,27.9,30.6,black,sugarcane,150.0,105.4,60.0,Urea
+33.0,60.4,38.3,red,pigeon peas,97.5,54.3,40.0,No Fertilizer Needed
+31.0,26.7,43.1,alluvial,sorghum,80.0,102.9,40.0,DAP
+35.2,59.1,59.4,sandy,watermelon,80.0,60.0,40.0,Urea
+36.1,25.2,34.6,black,pearl millet,74.3,69.8,53.9,No Fertilizer Needed
+29.3,48.2,21.7,red,soybean,62.5,61.7,40.0,No Fertilizer Needed
+19.5,88.6,47.3,black,pearl millet,60.0,67.8,32.6,Urea
+34.8,75.4,58.2,clay,sweet potato,149.1,115.8,61.1,No Fertilizer Needed
+23.7,43.9,51.3,alluvial,beans,125.1,71.9,44.2,No Fertilizer Needed
+24.2,66.0,45.8,red,tea,120.0,80.0,40.0,Urea
+34.9,87.5,24.6,loamy,mango,89.0,40.0,35.1,No Fertilizer Needed
+14.2,70.2,46.1,black,potato,120.0,100.0,60.0,Urea
+23.7,74.7,45.8,sandy,watermelon,80.0,62.7,40.0,Urea
+13.7,82.4,32.9,red,pigeon peas,71.3,96.6,40.0,No Fertilizer Needed
+32.1,58.7,31.6,red,rice,120.0,84.2,60.0,Urea
+27.4,71.1,16.4,alluvial,potato,120.0,121.4,60.0,DAP
+22.6,62.6,44.6,black,sorghum,80.0,109.3,40.0,DAP
+34.1,29.7,40.1,black,banana,142.1,200.0,40.0,10-26-26
+31.4,85.5,41.6,loamy,sweet potato,60.1,80.0,40.0,10-26-26
+14.0,69.7,58.8,alluvial,grapes,62.8,99.3,40.0,DAP
+26.9,60.8,57.1,loamy,cotton,105.9,102.0,45.0,DAP
+36.3,49.6,10.6,loamy,sweet potato,60.0,80.0,40.0,10-26-26
+18.0,75.0,59.2,sandy,wheat,100.0,40.0,50.0,DAP
+32.6,22.3,50.7,sandy,banana,100.0,200.0,40.0,10-26-26
+29.4,47.2,35.5,alluvial,soybean,123.2,104.4,40.0,No Fertilizer Needed
+21.6,87.0,58.8,black,wheat,100.0,64.8,50.0,DAP
+28.6,74.7,53.5,sandy,groundnut,58.3,52.7,40.0,DAP
+32.7,58.3,40.2,loamy,beans,111.9,57.1,42.9,No Fertilizer Needed
+12.2,87.4,46.8,alluvial,potato,120.0,100.0,60.0,DAP
+14.8,79.2,10.3,sandy,groundnut,42.0,40.0,40.0,10-26-26
+11.5,85.3,40.8,red,mango,76.2,70.2,30.0,No Fertilizer Needed
+33.5,42.3,21.0,clay,grapes,87.8,109.3,40.0,DAP
+26.1,26.4,21.1,red,onion,90.0,60.0,40.0,Urea
+25.9,89.8,51.2,red,tomato,100.0,100.0,50.0,DAP
+37.1,63.0,41.1,sandy,chickpea,64.2,35.4,40.0,DAP
+17.7,70.7,11.2,black,cotton,103.3,132.4,46.4,No Fertilizer Needed
+24.6,40.8,42.6,black,sorghum,82.6,76.0,40.0,DAP
+10.2,24.6,43.5,red,sweet potato,83.7,80.0,40.0,10-26-26
+26.1,69.2,58.8,sandy,cotton,90.0,63.3,45.0,DAP
+10.7,70.2,11.9,sandy,pigeon peas,24.3,32.3,40.0,DAP
+34.6,83.8,30.4,red,maize,80.0,52.9,40.0,DAP
+13.5,20.4,46.0,alluvial,watermelon,80.0,60.0,40.9,Urea
+37.8,27.4,49.3,loamy,maize,80.0,92.4,40.0,DAP
+21.9,66.3,33.7,black,chickpea,105.0,115.8,40.0,No Fertilizer Needed
+38.8,30.1,43.9,loamy,sweet potato,124.3,89.7,40.0,No Fertilizer Needed
+26.6,58.9,16.2,clay,grapes,63.7,112.9,47.8,No Fertilizer Needed
+16.3,71.9,46.3,loamy,maize,80.0,98.9,41.2,Urea
+15.5,63.2,22.6,sandy,sugarcane,150.0,60.0,60.0,Urea
+23.8,58.5,24.5,red,wheat,100.0,80.5,50.0,Urea
+20.7,67.0,21.7,loamy,pearl millet,67.7,49.5,30.0,DAP
+19.9,66.2,44.7,black,pearl millet,65.0,172.0,38.8,No Fertilizer Needed
+10.1,37.2,21.1,sandy,onion,90.0,60.0,40.0,DAP
+32.0,81.5,33.1,alluvial,sugarcane,150.0,91.7,60.0,Urea
+28.2,78.9,52.9,alluvial,potato,120.0,100.0,60.0,Urea
+31.8,82.4,52.5,clay,beans,148.3,117.6,57.6,No Fertilizer Needed
+37.2,58.6,37.2,sandy,coffee,100.0,60.0,40.0,DAP
+16.7,74.1,46.7,black,grapes,79.6,131.9,40.0,No Fertilizer Needed
+25.1,66.4,52.4,loamy,watermelon,114.6,60.0,40.0,10-26-26
+23.4,32.5,57.4,sandy,sorghum,80.0,54.1,40.0,Urea
+11.2,73.3,21.6,loamy,pearl millet,65.8,85.1,30.0,DAP
+21.6,84.3,54.1,loamy,sorghum,80.0,42.7,40.0,Urea
+34.9,78.4,23.2,alluvial,sorghum,98.6,100.8,40.0,DAP
+29.6,78.5,35.8,red,grapes,60.0,80.0,40.0,10-26-26
+24.6,53.7,40.2,loamy,grapes,87.2,80.0,40.0,10-26-26
+29.3,34.8,19.3,red,maize,80.0,39.5,40.0,Urea
+34.3,70.4,34.1,black,soybean,99.3,84.8,40.0,No Fertilizer Needed
+17.3,29.0,39.6,clay,onion,90.0,152.7,44.1,Urea
+15.0,84.6,35.8,clay,sugarcane,150.0,124.2,64.6,Urea
+38.4,35.2,40.3,loamy,pigeon peas,84.4,51.5,40.0,No Fertilizer Needed
+14.3,60.8,48.4,red,onion,90.0,60.0,40.0,10-26-26
+37.7,61.8,13.4,loamy,pigeon peas,76.0,36.2,40.0,DAP
+30.5,77.9,40.3,red,sorghum,80.0,72.0,40.0,Urea
+32.6,26.5,43.0,red,sweet potato,92.4,80.0,40.0,10-26-26
+22.9,49.4,53.7,alluvial,pigeon peas,113.5,126.5,40.0,No Fertilizer Needed
+20.5,76.3,55.4,black,pearl millet,136.9,120.4,39.1,No Fertilizer Needed
+33.0,83.7,14.2,black,groundnut,111.8,97.8,40.0,No Fertilizer Needed
+32.3,20.5,36.1,alluvial,rice,120.0,60.5,60.0,DAP
+20.9,30.8,42.6,black,mango,75.6,120.2,49.6,No Fertilizer Needed
+18.3,67.6,47.7,red,grapes,60.0,80.0,40.0,10-26-26
+26.6,37.8,25.3,red,grapes,60.0,81.2,40.0,DAP
+32.4,51.3,45.0,clay,pigeon peas,84.8,97.6,40.0,No Fertilizer Needed
+28.4,67.9,12.6,red,mango,60.0,85.8,30.0,Urea
+37.8,50.5,13.2,black,sugarcane,150.0,68.1,60.0,Urea
+28.4,56.5,45.6,black,watermelon,111.7,173.7,53.0,No Fertilizer Needed
+23.2,34.1,42.8,black,beans,133.4,67.5,40.0,No Fertilizer Needed
+25.5,36.2,18.5,red,tea,120.0,80.0,40.0,Urea
+39.9,74.6,27.7,clay,potato,120.0,110.7,60.0,DAP
+26.5,70.8,38.0,clay,maize,141.7,144.2,40.0,No Fertilizer Needed
+38.9,51.8,30.2,red,soybean,31.8,65.7,40.0,DAP
+25.1,43.8,15.9,clay,sweet potato,132.3,113.0,40.0,No Fertilizer Needed
+30.8,87.6,38.2,loamy,coffee,111.3,107.1,40.0,No Fertilizer Needed
+23.8,61.1,11.4,alluvial,chickpea,56.8,99.0,40.0,DAP
+31.0,76.0,30.6,alluvial,soybean,79.9,105.1,40.0,No Fertilizer Needed
+18.6,47.9,47.4,sandy,groundnut,36.4,40.0,40.0,DAP
+16.6,60.2,19.1,loamy,mango,109.2,49.3,41.9,No Fertilizer Needed
+32.1,81.1,20.3,sandy,tomato,100.0,100.0,50.0,Urea
+13.6,25.5,57.8,clay,sugarcane,150.0,148.9,60.0,DAP
+21.1,42.1,54.9,black,wheat,141.5,100.1,50.0,No Fertilizer Needed
+18.4,35.5,38.8,red,potato,120.0,100.0,60.0,Urea
+25.1,47.6,44.3,clay,sweet potato,86.6,131.1,64.9,No Fertilizer Needed
+30.7,20.8,20.5,loamy,chickpea,94.3,81.0,40.0,No Fertilizer Needed
+26.5,36.6,33.6,sandy,groundnut,48.6,43.4,40.0,DAP
+31.0,46.1,52.7,black,tomato,100.0,100.0,50.0,DAP
+16.9,27.0,23.5,alluvial,coffee,100.0,76.3,40.0,Urea
+14.5,76.4,18.8,alluvial,sugarcane,150.0,118.4,60.0,Urea
+31.6,75.0,25.0,red,sorghum,80.0,58.4,40.0,DAP
+16.5,37.8,51.9,clay,potato,120.0,100.0,60.0,Urea
+26.7,76.7,27.2,red,grapes,60.0,80.0,40.0,DAP
+27.3,65.5,36.9,sandy,tea,120.0,80.0,40.0,Urea
+33.2,51.3,13.9,black,sorghum,113.4,192.1,40.0,No Fertilizer Needed
+34.2,43.6,41.6,alluvial,potato,120.0,100.0,60.0,10-26-26
+16.8,42.2,24.6,loamy,potato,120.0,100.0,60.0,Urea
+32.4,56.5,32.5,loamy,chickpea,57.1,44.4,40.0,No Fertilizer Needed
+17.5,72.1,47.5,alluvial,soybean,66.0,50.6,40.0,No Fertilizer Needed
+11.6,74.0,36.2,red,pearl millet,98.7,73.2,30.0,DAP
+37.9,47.3,21.5,alluvial,maize,117.4,53.4,40.0,No Fertilizer Needed
+10.9,66.4,53.0,sandy,sorghum,80.0,64.9,40.0,Urea
+26.5,29.5,57.4,loamy,sweet potato,90.5,80.0,40.0,10-26-26
+23.0,64.8,36.7,red,beans,92.9,46.8,40.0,No Fertilizer Needed
+19.2,48.9,17.8,black,maize,80.0,165.4,40.0,Urea
+18.6,57.5,44.4,loamy,sugarcane,150.0,60.0,60.0,Urea
+27.9,75.8,37.4,loamy,onion,90.0,67.8,40.5,Urea
+31.4,65.2,51.4,sandy,soybean,30.9,49.1,40.0,DAP
+34.2,67.9,24.2,red,sorghum,81.6,59.4,40.0,DAP
+14.1,27.7,32.8,sandy,maize,80.0,43.1,40.0,Urea
+14.6,87.9,11.1,clay,mango,194.3,66.6,33.7,No Fertilizer Needed
+10.2,26.3,10.7,alluvial,chickpea,66.7,112.7,40.0,No Fertilizer Needed
+23.9,75.4,26.5,loamy,pearl millet,117.9,39.2,42.5,No Fertilizer Needed
+26.3,32.7,54.8,clay,watermelon,96.8,60.0,40.0,10-26-26
+33.1,51.0,46.9,black,soybean,52.5,167.1,40.0,No Fertilizer Needed
+39.5,53.1,44.1,alluvial,sorghum,80.0,98.6,40.0,DAP
+38.1,56.5,22.7,alluvial,wheat,107.8,121.9,50.0,DAP
+39.2,36.5,31.7,sandy,pigeon peas,21.7,47.3,40.0,DAP
+10.3,22.9,49.2,sandy,watermelon,80.0,60.0,40.0,Urea
+14.7,26.4,40.9,sandy,maize,80.0,49.1,40.0,DAP
+29.3,69.1,49.6,loamy,wheat,100.0,108.6,50.0,DAP
+34.2,50.7,19.6,loamy,beans,104.0,45.1,40.0,No Fertilizer Needed
+31.2,59.1,37.1,black,wheat,100.5,136.4,50.0,DAP
+24.1,80.7,39.9,alluvial,mango,129.4,89.8,30.0,No Fertilizer Needed
+34.6,57.9,32.7,loamy,chickpea,111.8,90.0,40.0,No Fertilizer Needed
+35.7,74.3,21.9,red,rice,120.0,67.9,60.0,DAP
+25.7,54.8,37.6,sandy,watermelon,80.0,60.0,40.0,DAP
+25.7,24.7,51.8,clay,cotton,90.0,75.2,60.3,Urea
+13.0,60.0,51.8,sandy,pearl millet,60.0,52.6,30.0,DAP
+21.0,62.4,13.5,clay,groundnut,188.6,107.8,40.0,No Fertilizer Needed
+34.0,24.2,37.9,black,maize,147.5,112.8,40.0,No Fertilizer Needed
+18.0,22.8,13.5,red,wheat,100.0,96.3,50.0,Urea
+31.8,57.2,19.5,clay,cotton,134.0,122.8,45.0,No Fertilizer Needed
+32.5,49.1,15.3,red,potato,120.0,100.0,60.0,DAP
+36.5,31.7,19.0,black,pigeon peas,91.2,84.4,40.0,No Fertilizer Needed
+38.0,83.2,37.5,black,tea,153.7,118.7,49.2,No Fertilizer Needed
+34.8,42.6,22.0,black,beans,106.3,137.3,40.0,No Fertilizer Needed
+38.8,51.3,29.9,loamy,groundnut,107.4,79.7,43.5,No Fertilizer Needed
+39.8,41.1,25.0,sandy,sorghum,80.0,30.0,40.0,Urea
+25.3,59.9,38.6,red,groundnut,37.9,42.0,40.0,DAP
+36.7,37.5,22.8,loamy,groundnut,69.0,77.7,40.0,No Fertilizer Needed
+12.3,42.7,34.1,alluvial,tomato,100.0,105.3,50.0,Urea
+29.3,22.6,50.4,red,cotton,90.0,93.7,45.0,Urea
+36.4,50.4,56.5,loamy,mango,60.0,91.1,37.1,Urea
+29.0,64.3,12.7,clay,tea,133.8,116.1,40.0,DAP
+30.9,30.7,43.7,red,mango,98.8,82.3,37.7,No Fertilizer Needed
+12.7,50.2,49.3,red,coffee,100.0,63.6,40.0,Urea
+22.0,26.0,35.1,red,wheat,100.0,40.6,50.0,DAP
+24.6,65.7,19.8,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+33.3,42.6,56.2,loamy,maize,80.0,66.8,40.0,Urea
+19.6,61.6,11.2,sandy,grapes,60.0,80.0,40.0,10-26-26
+14.4,23.1,50.9,red,chickpea,45.0,82.6,40.0,DAP
+32.2,37.0,41.1,clay,maize,82.9,84.9,58.5,No Fertilizer Needed
+34.1,41.4,33.6,alluvial,mango,77.9,61.1,40.7,No Fertilizer Needed
+32.5,58.4,41.2,red,sweet potato,98.5,80.0,40.0,10-26-26
+37.2,56.9,22.8,red,watermelon,80.0,78.5,40.0,Urea
+23.9,86.2,13.3,clay,groundnut,152.2,155.2,50.8,No Fertilizer Needed
+10.6,80.7,42.5,clay,grapes,94.2,162.4,40.0,No Fertilizer Needed
+24.5,61.8,14.4,loamy,cotton,90.0,77.1,45.0,Urea
+17.4,57.1,26.7,clay,rice,120.0,91.5,60.0,DAP
+28.8,36.5,58.9,loamy,grapes,87.1,81.9,40.0,No Fertilizer Needed
+38.3,86.4,21.3,clay,watermelon,109.1,67.9,40.0,No Fertilizer Needed
+38.8,62.9,41.3,red,watermelon,80.0,60.0,40.0,DAP
+19.9,58.0,20.3,red,banana,100.0,200.0,40.0,10-26-26
+30.7,82.9,55.5,loamy,sugarcane,150.0,92.8,60.0,Urea
+37.5,42.2,37.9,red,beans,95.5,52.9,40.0,DAP
+10.9,42.3,58.6,alluvial,sugarcane,150.0,109.1,60.0,DAP
+18.2,74.5,15.3,alluvial,beans,63.5,97.1,41.5,No Fertilizer Needed
+27.0,36.2,21.6,red,groundnut,77.9,77.9,40.0,DAP
+25.1,62.3,45.6,sandy,pearl millet,60.0,43.1,30.0,Urea
+15.8,22.3,48.2,sandy,sugarcane,150.0,60.0,60.0,Urea
+32.7,24.6,56.4,sandy,pigeon peas,65.4,43.0,40.0,DAP
+36.6,49.9,48.8,black,mango,112.8,160.2,48.4,No Fertilizer Needed
+38.2,60.0,36.8,red,watermelon,80.0,60.0,40.0,10-26-26
+23.7,81.4,53.9,black,cotton,90.0,195.8,45.0,Urea
+21.6,73.6,58.1,red,wheat,100.0,91.2,50.0,Urea
+15.0,40.6,56.0,black,banana,121.4,200.0,51.4,10-26-26
+12.7,55.0,19.0,black,beans,110.5,136.8,51.0,No Fertilizer Needed
+19.7,21.7,32.7,black,watermelon,143.1,182.1,51.1,No Fertilizer Needed
+19.7,65.4,45.6,loamy,maize,80.0,41.8,40.0,Urea
+20.9,56.7,29.2,alluvial,chickpea,122.6,127.5,40.0,No Fertilizer Needed
+21.4,73.8,55.6,red,watermelon,80.0,60.0,40.0,10-26-26
+33.1,23.6,25.4,sandy,sugarcane,150.0,60.0,60.0,Urea
+37.0,87.2,10.2,clay,potato,166.3,108.5,60.0,DAP
+34.2,62.6,34.7,red,pearl millet,60.0,62.1,30.0,Urea
+28.0,20.5,54.1,clay,chickpea,100.5,144.8,49.3,No Fertilizer Needed
+15.5,23.9,27.5,clay,tomato,100.0,117.5,50.0,DAP
+19.9,26.1,15.4,loamy,tea,131.4,80.0,40.0,10-26-26
+31.0,60.1,38.1,alluvial,pigeon peas,139.7,74.4,41.0,No Fertilizer Needed
+33.1,42.6,54.9,clay,wheat,173.7,147.4,55.1,No Fertilizer Needed
+24.1,28.5,53.0,loamy,maize,80.0,50.7,40.0,DAP
+11.7,60.0,59.0,red,tomato,100.0,100.0,50.0,DAP
+18.6,62.6,25.8,alluvial,tea,120.0,80.0,49.3,Urea
+26.9,56.4,41.6,red,sugarcane,150.0,72.6,60.0,Urea
+10.0,21.7,41.3,sandy,banana,100.0,200.0,40.0,10-26-26
+11.4,44.5,50.3,black,onion,90.0,156.2,41.5,Urea
+19.2,55.5,26.2,clay,groundnut,63.8,90.9,51.9,No Fertilizer Needed
+38.8,78.2,19.7,red,coffee,100.0,63.8,40.0,Urea
+29.4,53.7,41.4,clay,pearl millet,183.4,90.2,45.2,No Fertilizer Needed
+11.7,56.5,38.2,alluvial,onion,111.6,60.0,40.0,10-26-26
+20.0,84.1,49.8,alluvial,coffee,100.0,117.7,40.0,Urea
+28.8,79.0,38.5,black,mango,89.9,179.7,39.8,No Fertilizer Needed
+35.7,69.7,23.6,alluvial,banana,100.0,200.0,45.4,10-26-26
+25.8,32.3,28.7,sandy,banana,100.0,200.0,40.0,10-26-26
+34.0,83.3,17.7,clay,sorghum,108.9,150.8,42.8,No Fertilizer Needed
+14.3,81.0,51.1,loamy,banana,126.4,200.0,40.0,10-26-26
+21.6,80.5,15.8,black,wheat,100.0,177.5,50.0,DAP
+24.0,23.2,36.0,loamy,maize,101.3,78.3,40.0,DAP
+36.8,42.5,19.6,alluvial,banana,100.0,200.0,40.0,10-26-26
+14.5,39.2,10.8,loamy,cotton,98.1,50.5,45.0,DAP
+19.6,29.9,45.2,red,grapes,60.0,80.0,40.0,10-26-26
+26.2,23.6,11.4,loamy,tea,123.3,80.0,40.0,DAP
+21.8,69.3,54.6,black,maize,115.1,123.2,43.4,No Fertilizer Needed
+20.0,33.9,47.9,loamy,grapes,114.8,104.2,40.0,DAP
+14.0,76.9,56.0,red,chickpea,63.1,77.7,40.0,DAP
+17.0,35.7,53.1,black,chickpea,113.8,115.9,51.7,No Fertilizer Needed
+33.7,81.8,32.7,loamy,pigeon peas,44.7,61.4,40.0,DAP
+18.5,44.4,38.7,sandy,chickpea,43.9,53.1,40.0,DAP
+26.7,25.0,25.1,loamy,cotton,90.0,52.9,45.0,DAP
+14.8,53.8,13.3,red,soybean,45.6,60.6,40.0,DAP
+33.6,58.1,21.8,red,onion,90.0,94.3,40.0,DAP
+13.4,61.7,26.3,black,coffee,100.0,104.6,40.0,Urea
+27.9,68.0,39.8,clay,watermelon,173.7,125.1,40.0,No Fertilizer Needed
+16.5,29.7,39.0,clay,wheat,164.9,137.7,57.4,No Fertilizer Needed
+23.6,40.4,40.8,sandy,pigeon peas,41.1,60.5,40.0,DAP
+33.8,67.6,55.9,red,banana,100.0,200.0,40.0,10-26-26
+10.2,89.0,30.2,red,maize,80.0,56.4,40.0,Urea
+10.0,59.2,58.9,clay,sweet potato,77.8,80.0,40.0,10-26-26
+27.7,63.8,45.6,alluvial,onion,90.0,61.0,40.0,DAP
+14.2,58.9,52.2,black,potato,120.0,101.9,60.0,DAP
+14.0,25.0,10.8,sandy,pigeon peas,53.5,40.7,40.0,DAP
+14.1,76.4,53.0,clay,sugarcane,183.6,157.2,60.0,No Fertilizer Needed
+23.6,49.7,51.0,sandy,tea,120.0,80.0,40.0,Urea
+24.9,71.2,45.6,red,rice,120.0,70.4,60.0,Urea
+27.0,69.3,15.7,clay,wheat,128.0,68.5,52.1,No Fertilizer Needed
+23.9,25.5,54.5,loamy,sorghum,80.0,90.6,40.0,Urea
+30.5,57.7,39.0,clay,pigeon peas,145.8,112.7,61.7,No Fertilizer Needed
+23.6,83.4,38.7,black,rice,120.0,195.0,60.0,DAP
+15.0,68.7,39.9,loamy,banana,100.0,200.0,40.0,10-26-26
+27.3,60.1,42.8,black,beans,79.6,66.7,45.2,No Fertilizer Needed
+13.8,25.4,49.2,clay,pearl millet,97.0,83.5,48.7,No Fertilizer Needed
+32.2,62.3,55.5,clay,groundnut,162.8,94.1,50.7,No Fertilizer Needed
+33.5,36.5,19.0,loamy,potato,120.0,108.8,60.0,DAP
+38.0,30.8,34.8,red,sugarcane,150.0,60.0,60.0,Urea
+29.1,34.8,46.7,alluvial,chickpea,79.1,110.0,40.0,No Fertilizer Needed
+15.0,47.9,25.1,clay,cotton,163.7,112.4,54.9,No Fertilizer Needed
+31.2,53.2,17.3,alluvial,watermelon,130.4,125.5,40.0,DAP
+30.4,87.3,44.1,black,chickpea,53.3,149.1,51.9,No Fertilizer Needed
+37.5,80.1,26.7,red,onion,90.0,75.7,40.0,DAP
+33.2,72.4,46.7,black,watermelon,110.8,108.5,40.0,DAP
+26.4,67.1,51.6,loamy,potato,120.0,100.0,60.0,Urea
+16.6,39.8,19.7,loamy,chickpea,44.1,105.4,40.0,DAP
+38.5,64.7,45.4,sandy,pigeon peas,26.4,30.0,40.0,DAP
+27.0,87.7,54.8,alluvial,pigeon peas,113.3,84.0,40.0,No Fertilizer Needed
+23.6,89.7,48.5,alluvial,maize,113.0,111.3,40.0,No Fertilizer Needed
+33.4,39.4,13.1,sandy,groundnut,38.5,40.0,40.0,10-26-26
+23.2,54.4,56.4,sandy,groundnut,48.5,43.1,40.0,DAP
+33.1,35.3,42.2,red,sugarcane,150.0,60.0,60.0,Urea
+27.1,37.5,32.3,clay,maize,184.0,124.5,40.0,No Fertilizer Needed
+21.7,30.6,26.5,alluvial,wheat,100.0,105.7,50.0,DAP
+23.1,79.1,49.0,black,pearl millet,131.5,63.4,37.8,No Fertilizer Needed
+27.0,85.5,27.9,clay,pearl millet,155.0,123.6,39.0,No Fertilizer Needed
+21.0,79.7,27.0,clay,beans,176.6,85.1,55.2,No Fertilizer Needed
+26.6,87.7,43.0,sandy,tomato,100.0,100.0,50.0,10-26-26
+12.5,64.3,46.8,black,grapes,63.7,160.2,40.0,DAP
+24.7,24.4,37.0,sandy,coffee,100.0,60.0,40.0,Urea
+11.1,23.9,49.4,clay,chickpea,68.8,143.3,40.0,No Fertilizer Needed
+23.8,67.5,53.7,red,pigeon peas,41.6,93.9,40.0,DAP
+14.2,65.8,33.6,alluvial,wheat,135.0,105.1,50.0,DAP
+15.2,23.5,25.4,clay,sugarcane,170.1,71.7,60.0,DAP
+34.5,27.4,34.9,clay,coffee,170.9,143.0,40.0,No Fertilizer Needed
+34.3,88.8,43.9,loamy,onion,90.0,78.2,43.3,Urea
+35.1,75.5,48.2,loamy,sugarcane,150.0,60.0,60.0,DAP
+15.0,45.9,18.3,black,sugarcane,150.0,81.0,60.0,Urea
+21.3,31.0,54.0,red,beans,36.9,94.0,40.0,DAP
+36.6,49.1,50.4,red,beans,83.6,45.4,40.0,No Fertilizer Needed
+25.7,48.8,56.9,loamy,beans,96.9,48.5,40.0,DAP
+38.5,63.9,49.1,red,pearl millet,60.0,47.4,30.0,DAP
+39.3,63.3,53.1,red,cotton,98.1,62.8,45.0,DAP
+16.2,23.7,15.6,alluvial,beans,60.0,124.0,44.2,No Fertilizer Needed
+14.8,84.6,12.7,sandy,pearl millet,60.0,32.3,30.0,DAP
+11.3,71.8,56.2,black,tea,120.0,128.5,47.0,Urea
+36.9,70.5,39.6,clay,cotton,107.0,128.6,45.0,DAP
+33.4,42.8,14.9,sandy,mango,60.0,40.0,30.0,DAP
+24.1,53.9,54.5,clay,soybean,82.6,103.7,62.8,No Fertilizer Needed
+14.1,70.4,41.6,loamy,watermelon,129.8,60.0,40.0,10-26-26
+18.4,27.8,33.3,clay,coffee,119.5,77.2,55.2,No Fertilizer Needed
+14.7,75.6,57.6,red,banana,100.0,200.0,40.0,10-26-26
+22.4,56.5,53.1,clay,soybean,92.2,104.6,42.3,No Fertilizer Needed
+22.8,81.1,22.4,alluvial,rice,120.0,125.5,60.0,DAP
+36.9,49.2,12.2,red,sugarcane,150.0,65.5,60.0,Urea
+21.8,76.7,44.8,red,onion,90.0,60.0,40.0,Urea
+32.0,86.5,16.6,alluvial,rice,120.0,50.2,60.0,Urea
+19.1,69.2,52.9,alluvial,pearl millet,118.4,82.9,30.0,No Fertilizer Needed
+22.2,75.3,28.5,alluvial,sugarcane,150.0,119.4,60.0,Urea
+36.8,43.3,11.6,black,maize,93.7,190.7,40.0,DAP
+33.8,75.1,14.0,red,sweet potato,91.0,80.0,40.0,10-26-26
+36.6,27.8,28.3,loamy,pigeon peas,97.7,48.1,40.0,No Fertilizer Needed
+12.0,69.7,20.2,alluvial,sweet potato,141.2,80.0,40.0,10-26-26
+38.2,60.6,58.0,alluvial,pearl millet,66.0,62.3,40.9,No Fertilizer Needed
+25.1,49.6,12.7,loamy,grapes,75.6,80.0,40.0,10-26-26
+31.3,67.5,36.6,black,cotton,90.0,171.0,45.0,Urea
+36.8,52.1,14.0,sandy,maize,80.0,64.0,40.0,DAP
+18.3,68.8,34.8,sandy,cotton,90.0,49.2,45.0,DAP
+39.1,57.9,16.6,black,banana,100.0,200.0,40.0,10-26-26
+11.9,81.0,21.6,sandy,banana,100.0,200.0,40.0,10-26-26
+29.4,42.8,39.7,alluvial,mango,113.4,82.1,44.2,No Fertilizer Needed
+14.0,75.3,18.6,red,banana,100.0,200.0,40.0,10-26-26
+20.6,51.9,18.3,sandy,wheat,100.0,40.0,50.0,DAP
+30.8,66.6,17.7,alluvial,potato,120.0,100.0,60.0,DAP
+17.8,32.9,38.1,black,sugarcane,150.0,109.4,60.0,Urea
+26.2,31.4,25.1,black,grapes,145.6,130.4,40.0,No Fertilizer Needed
+37.8,30.9,58.5,black,sugarcane,150.0,150.4,60.0,Urea
+36.9,87.9,47.7,black,banana,153.4,200.0,42.5,10-26-26
+30.7,71.2,55.0,loamy,chickpea,54.5,58.1,40.0,No Fertilizer Needed
+35.2,51.2,14.6,red,watermelon,80.0,70.9,40.0,Urea
+15.9,25.9,52.5,loamy,soybean,102.9,108.2,42.7,No Fertilizer Needed
+24.7,62.2,35.6,sandy,watermelon,80.0,60.0,40.0,Urea
+21.6,20.9,27.2,loamy,onion,90.0,77.1,40.0,DAP
+36.6,71.9,30.8,alluvial,tomato,100.0,107.5,50.0,DAP
+36.9,29.8,39.4,alluvial,onion,90.0,84.7,40.0,Urea
+12.0,87.2,47.8,loamy,sorghum,80.0,103.6,40.0,Urea
+26.7,69.7,47.8,sandy,onion,90.0,60.0,40.0,Urea
+11.3,77.8,51.7,black,sweet potato,80.9,125.6,40.0,No Fertilizer Needed
+14.6,41.0,42.0,clay,rice,148.9,127.4,60.0,DAP
+15.4,83.5,42.2,black,banana,100.0,200.0,46.2,Urea
+32.4,60.7,38.3,red,maize,90.1,63.6,40.0,DAP
+25.4,60.3,52.3,loamy,cotton,90.0,59.0,45.0,DAP
+14.9,39.1,31.0,loamy,sugarcane,150.0,60.0,60.0,DAP
+38.1,56.0,48.3,alluvial,sorghum,80.0,109.7,40.0,DAP
+36.2,77.9,44.2,loamy,sweet potato,69.1,86.6,40.0,DAP
+27.4,77.6,10.6,red,cotton,90.0,64.2,45.0,DAP
+13.1,30.8,21.1,sandy,mango,60.0,48.6,30.0,Urea
+31.4,69.2,50.1,red,sorghum,80.0,39.4,40.0,Urea
+24.4,41.8,28.1,clay,sugarcane,173.3,119.7,61.0,No Fertilizer Needed
+31.3,22.0,50.7,sandy,mango,60.0,40.0,30.0,Urea
+13.8,29.1,13.9,loamy,soybean,104.2,40.8,40.0,No Fertilizer Needed
+11.3,27.5,49.7,black,pearl millet,102.9,79.1,30.0,No Fertilizer Needed
+12.0,66.7,47.7,clay,groundnut,168.6,75.6,62.4,No Fertilizer Needed
+30.1,22.0,17.3,sandy,tomato,100.0,100.0,50.0,10-26-26
+35.7,74.7,40.6,sandy,grapes,60.0,80.0,40.0,DAP
+16.5,33.4,24.1,red,rice,120.0,97.2,60.0,DAP
+37.6,79.6,33.7,sandy,cotton,90.0,51.3,45.0,DAP
+35.0,88.7,31.2,sandy,cotton,90.0,55.3,45.0,DAP
+24.0,56.4,34.8,clay,mango,111.8,133.7,34.0,No Fertilizer Needed
+24.8,46.9,32.8,loamy,maize,108.3,98.1,40.0,No Fertilizer Needed
+22.2,88.9,31.4,red,soybean,89.3,85.7,40.0,No Fertilizer Needed
+15.4,89.9,34.6,loamy,pigeon peas,51.5,84.4,40.0,DAP
+14.3,48.0,39.5,clay,maize,80.0,162.5,62.6,Urea
+39.3,43.7,39.7,loamy,maize,131.2,97.9,40.0,DAP
+32.9,73.6,39.7,loamy,pearl millet,110.1,105.7,38.0,No Fertilizer Needed
+30.0,86.5,59.4,black,grapes,102.7,124.4,40.0,DAP
+24.7,36.2,57.1,loamy,cotton,90.0,97.3,45.0,Urea
+10.8,32.5,40.2,alluvial,pearl millet,77.4,98.1,30.0,No Fertilizer Needed
+32.5,73.7,49.6,alluvial,maize,80.0,86.1,40.0,Urea
+20.3,80.2,37.3,red,groundnut,95.8,60.6,40.0,DAP
+23.5,79.7,32.1,black,cotton,90.0,152.0,45.0,Urea
+14.9,50.1,25.6,alluvial,banana,100.0,200.0,41.5,10-26-26
+26.6,57.8,33.5,alluvial,pearl millet,100.3,47.0,30.0,No Fertilizer Needed
+27.7,46.4,43.8,black,groundnut,129.5,71.3,40.0,No Fertilizer Needed
+13.8,45.6,50.5,clay,coffee,141.8,122.8,55.4,No Fertilizer Needed
+22.8,89.4,30.6,clay,watermelon,80.0,78.9,40.0,DAP
+12.5,68.2,53.4,red,banana,100.0,200.0,40.0,10-26-26
+29.7,49.6,35.7,black,wheat,100.0,126.4,50.0,DAP
+21.3,47.3,38.6,loamy,rice,120.0,85.6,60.0,DAP
+25.1,73.5,27.0,black,mango,113.6,121.9,31.1,No Fertilizer Needed
+35.4,75.1,52.0,alluvial,pearl millet,97.7,46.3,30.0,No Fertilizer Needed
+34.1,63.7,57.9,black,coffee,124.4,142.9,40.0,No Fertilizer Needed
+27.0,57.2,31.4,clay,groundnut,109.9,145.2,40.0,No Fertilizer Needed
+23.0,57.8,20.0,loamy,sorghum,80.0,69.0,40.0,DAP
+36.4,63.9,35.8,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+38.1,57.3,40.7,loamy,chickpea,111.2,77.5,40.0,No Fertilizer Needed
+25.7,45.5,17.4,clay,beans,83.3,86.3,51.8,No Fertilizer Needed
+19.6,78.1,13.2,black,onion,90.0,174.2,40.0,Urea
+17.7,62.1,30.3,sandy,beans,26.1,40.0,40.0,DAP
+24.6,89.4,31.1,black,banana,144.1,200.0,40.0,10-26-26
+33.7,39.4,37.5,loamy,rice,120.0,89.2,60.0,DAP
+35.8,25.9,40.1,clay,rice,180.1,98.3,61.5,No Fertilizer Needed
+29.7,26.3,57.2,alluvial,grapes,116.1,80.0,40.0,10-26-26
+25.7,78.0,57.5,clay,sorghum,188.8,152.0,40.0,No Fertilizer Needed
+13.7,76.5,26.5,red,soybean,70.9,82.0,40.0,DAP
+16.5,27.5,20.7,black,soybean,77.8,179.5,40.0,No Fertilizer Needed
+26.0,69.0,15.6,black,wheat,106.3,96.3,50.0,DAP
+20.9,70.1,51.1,sandy,groundnut,21.9,48.3,40.0,DAP
+30.7,75.2,22.0,clay,pigeon peas,137.6,160.3,40.0,No Fertilizer Needed
+13.7,80.7,52.9,alluvial,grapes,83.4,80.0,46.5,No Fertilizer Needed
+12.7,77.6,21.8,loamy,groundnut,60.9,103.7,40.7,No Fertilizer Needed
+36.4,73.7,30.3,loamy,beans,45.0,96.7,40.0,No Fertilizer Needed
+32.1,84.9,26.6,black,pearl millet,93.3,76.6,51.9,No Fertilizer Needed
+17.8,24.6,31.0,alluvial,potato,120.0,100.0,60.0,10-26-26
+29.2,32.9,32.2,clay,rice,149.5,75.0,60.0,DAP
+27.3,27.8,22.5,loamy,banana,106.2,200.0,40.0,10-26-26
+30.6,75.5,26.0,red,sugarcane,150.0,60.0,60.0,Urea
+34.8,76.0,19.9,red,pigeon peas,59.5,90.7,40.0,DAP
+10.6,21.6,37.9,sandy,coffee,100.0,60.0,40.0,Urea
+17.9,79.6,12.5,sandy,chickpea,48.8,30.0,40.0,DAP
+38.4,28.2,45.9,sandy,grapes,60.0,80.0,40.0,10-26-26
+13.6,69.9,19.5,black,pigeon peas,139.5,101.9,46.8,No Fertilizer Needed
+13.9,79.9,40.0,black,pearl millet,153.5,154.4,30.0,No Fertilizer Needed
+22.3,30.2,24.5,sandy,onion,90.0,61.8,40.0,Urea
+30.5,52.1,10.5,red,grapes,60.0,80.0,40.0,DAP
+31.4,69.6,46.8,sandy,pigeon peas,32.5,30.0,40.0,DAP
+24.1,44.8,40.3,sandy,mango,60.0,52.9,30.0,DAP
+17.6,63.4,25.1,clay,wheat,116.3,161.4,50.0,DAP
+27.4,38.2,35.2,clay,sweet potato,188.6,80.0,60.5,No Fertilizer Needed
+25.9,29.9,15.8,alluvial,mango,60.0,120.5,30.0,DAP
+20.8,50.1,55.1,alluvial,groundnut,71.2,125.4,43.7,No Fertilizer Needed
+23.1,31.5,46.8,loamy,sorghum,86.2,76.7,42.5,No Fertilizer Needed
+33.9,23.7,17.4,alluvial,pigeon peas,67.9,65.4,40.0,DAP
+13.5,82.7,34.7,black,chickpea,95.4,138.7,54.6,No Fertilizer Needed
+13.4,70.4,17.4,black,chickpea,85.7,101.4,40.0,No Fertilizer Needed
+25.3,39.1,54.5,alluvial,potato,120.0,129.4,60.0,DAP
+15.4,84.4,22.3,red,sorghum,80.0,53.7,40.0,DAP
+39.4,28.5,28.7,alluvial,banana,136.1,200.0,40.0,10-26-26
+23.8,69.5,34.0,clay,rice,147.8,126.5,60.0,DAP
+29.7,86.6,26.2,clay,mango,161.8,160.2,54.0,No Fertilizer Needed
+16.3,23.4,42.2,sandy,coffee,100.0,60.0,40.0,Urea
+12.8,37.9,22.0,black,tea,129.9,80.0,40.0,10-26-26
+21.7,48.2,42.4,sandy,tomato,100.0,100.0,50.0,10-26-26
+34.2,41.7,44.2,alluvial,onion,90.0,116.9,40.0,Urea
+24.7,82.0,33.8,sandy,sorghum,80.0,55.0,40.0,DAP
+15.6,64.1,14.6,red,grapes,66.2,80.0,40.0,10-26-26
+31.4,85.1,36.4,alluvial,beans,108.6,84.1,40.0,No Fertilizer Needed
+19.0,88.9,44.2,black,maize,80.5,120.7,40.0,DAP
+26.5,84.2,35.7,clay,coffee,131.9,104.8,40.0,No Fertilizer Needed
+20.7,61.0,48.4,loamy,coffee,100.0,69.7,40.0,Urea
+11.4,49.1,45.2,black,potato,120.0,165.2,60.0,Urea
+34.2,43.9,55.9,red,chickpea,86.2,36.8,40.0,DAP
+36.1,27.4,36.7,loamy,tea,120.0,80.0,40.0,Urea
+30.8,80.8,58.3,black,pearl millet,112.2,146.5,35.8,No Fertilizer Needed
+30.7,87.4,43.8,loamy,tea,120.0,80.0,40.0,10-26-26
+34.5,68.7,19.4,clay,tomato,100.0,100.0,50.0,Urea
+35.3,80.1,36.9,black,soybean,58.0,83.0,46.4,No Fertilizer Needed
+13.5,83.2,46.9,clay,onion,123.1,60.0,42.8,No Fertilizer Needed
+17.3,40.6,51.5,red,chickpea,57.9,38.4,40.0,DAP
+35.5,71.6,39.8,black,onion,107.2,128.8,40.0,DAP
+27.7,62.8,43.9,red,pearl millet,86.6,79.7,30.0,No Fertilizer Needed
+22.7,42.1,13.2,clay,sorghum,183.5,105.8,40.0,No Fertilizer Needed
+38.2,44.3,44.9,red,pearl millet,60.0,44.5,30.0,Urea
+17.0,35.4,55.5,black,grapes,84.6,176.7,40.1,No Fertilizer Needed
+13.9,40.5,45.6,black,pigeon peas,149.8,153.9,48.7,No Fertilizer Needed
+34.0,79.1,41.1,black,grapes,78.7,153.1,45.6,No Fertilizer Needed
+16.0,62.4,15.0,sandy,sugarcane,150.0,60.0,60.0,Urea
+11.4,21.3,54.0,red,tomato,100.0,100.0,50.0,DAP
+34.2,43.6,15.7,clay,sorghum,93.6,107.2,46.3,No Fertilizer Needed
+33.1,73.9,37.9,loamy,mango,122.7,100.5,39.6,No Fertilizer Needed
+13.1,23.5,57.3,alluvial,tea,123.4,110.0,48.2,No Fertilizer Needed
+28.3,80.1,15.1,red,cotton,90.0,42.8,45.0,DAP
+37.3,31.0,24.6,sandy,cotton,90.0,54.0,45.0,Urea
+29.4,43.4,16.9,sandy,cotton,90.0,40.0,45.0,DAP
+35.0,53.2,24.3,sandy,rice,120.0,53.2,60.0,Urea
+28.9,37.2,47.7,loamy,onion,90.0,60.0,40.0,10-26-26
+37.5,82.9,57.6,black,onion,103.2,190.4,43.1,No Fertilizer Needed
+33.1,70.2,35.9,sandy,chickpea,24.1,39.1,40.0,DAP
+11.8,73.1,43.0,black,potato,120.0,100.0,60.0,10-26-26
+34.0,81.3,58.6,alluvial,beans,86.4,105.1,45.6,No Fertilizer Needed
+32.3,83.6,10.4,alluvial,banana,100.0,200.0,40.0,10-26-26
+29.3,82.1,41.2,black,watermelon,113.9,109.6,40.0,No Fertilizer Needed
+33.3,81.7,14.2,black,beans,105.4,160.0,40.0,No Fertilizer Needed
+39.8,39.9,14.6,red,sugarcane,150.0,82.6,60.0,Urea
+10.8,75.8,39.6,clay,potato,120.0,134.2,60.0,Urea
+32.0,78.9,23.0,clay,sorghum,131.5,137.6,40.0,No Fertilizer Needed
+18.9,71.6,32.7,black,cotton,152.2,196.5,47.7,No Fertilizer Needed
+36.8,63.9,36.7,alluvial,coffee,103.6,67.6,40.0,DAP
+14.2,46.4,46.9,alluvial,coffee,100.0,60.0,40.0,Urea
+12.9,69.8,51.4,black,grapes,60.0,182.9,40.0,DAP
+23.4,45.9,36.3,sandy,pearl millet,60.0,38.8,30.0,DAP
+25.0,49.6,32.0,red,groundnut,94.3,97.2,40.0,No Fertilizer Needed
+25.2,53.9,32.9,sandy,potato,120.0,100.0,60.0,10-26-26
+24.2,72.3,57.2,black,tomato,100.0,144.2,53.2,Urea
+13.6,60.0,12.0,clay,onion,90.0,164.0,40.0,Urea
+24.6,75.4,17.1,loamy,banana,100.0,200.0,40.0,10-26-26
+15.5,71.8,10.1,sandy,banana,100.0,200.0,40.0,10-26-26
+19.3,51.7,26.9,red,pearl millet,60.0,87.8,34.2,Urea
+25.1,52.3,32.5,sandy,sugarcane,150.0,60.0,60.0,Urea
+28.7,47.1,55.0,alluvial,tea,120.0,102.3,40.0,Urea
+18.3,26.2,18.3,alluvial,chickpea,47.9,111.4,40.0,No Fertilizer Needed
+29.4,65.1,14.3,red,banana,100.0,200.0,40.0,10-26-26
+15.7,53.3,54.8,red,coffee,100.0,60.0,40.0,Urea
+33.6,37.2,45.3,loamy,rice,121.9,95.5,60.0,DAP
+22.1,23.1,53.1,loamy,tea,120.0,80.0,40.0,Urea
+21.5,26.4,59.0,loamy,sorghum,90.8,48.7,40.0,DAP
+19.2,48.5,18.5,sandy,maize,80.0,30.0,40.0,DAP
+21.7,42.4,30.6,loamy,wheat,100.0,97.1,50.0,DAP
+16.1,72.6,39.3,clay,cotton,129.6,95.8,54.9,No Fertilizer Needed
+11.8,52.5,30.4,loamy,cotton,90.0,52.5,45.0,DAP
+26.6,61.0,15.1,loamy,rice,120.0,44.4,60.0,DAP
+23.4,79.2,35.0,black,coffee,131.2,136.0,40.0,DAP
+26.1,49.7,55.6,sandy,potato,120.0,100.0,60.0,DAP
+29.6,31.7,13.0,loamy,tea,125.0,80.0,40.0,10-26-26
+40.0,79.0,20.6,black,pigeon peas,137.3,84.8,40.0,No Fertilizer Needed
+12.1,26.3,44.9,red,sweet potato,87.6,98.9,40.0,DAP
+28.3,87.0,25.9,sandy,onion,90.0,60.0,40.0,DAP
+17.4,88.8,27.1,loamy,chickpea,83.4,36.2,40.0,No Fertilizer Needed
+37.7,62.6,10.2,alluvial,sugarcane,150.0,92.0,60.0,Urea
+26.1,75.1,42.5,black,pearl millet,60.0,175.3,30.0,DAP
+30.2,44.7,50.6,black,pigeon peas,135.9,86.9,40.0,No Fertilizer Needed
+23.9,85.5,32.2,clay,rice,120.0,84.1,60.0,DAP
+12.7,62.9,25.2,sandy,grapes,60.0,80.0,40.0,10-26-26
+18.4,83.3,45.3,clay,grapes,91.2,144.9,40.0,DAP
+36.1,59.8,34.7,clay,watermelon,137.5,116.1,50.7,No Fertilizer Needed
+27.0,24.6,16.4,red,pigeon peas,35.9,70.0,40.0,DAP
+31.9,39.2,52.4,red,soybean,33.1,77.2,40.0,No Fertilizer Needed
+30.4,81.8,10.1,loamy,tea,120.0,83.8,40.0,Urea
+35.3,48.5,16.1,black,mango,103.4,132.8,36.1,No Fertilizer Needed
+16.7,39.5,31.0,alluvial,wheat,100.0,59.5,50.0,DAP
+34.2,89.3,21.3,red,maize,80.0,93.4,40.0,DAP
+19.9,24.4,41.3,sandy,tomato,100.0,100.0,50.0,10-26-26
+35.2,37.3,33.7,loamy,beans,128.3,96.6,40.0,No Fertilizer Needed
+38.3,74.3,41.0,sandy,sorghum,80.0,47.1,40.0,DAP
+37.5,46.4,54.5,clay,maize,156.6,59.5,56.2,No Fertilizer Needed
+19.0,63.8,13.3,clay,chickpea,154.5,85.7,46.2,No Fertilizer Needed
+12.9,72.6,21.7,black,watermelon,112.0,64.4,42.2,No Fertilizer Needed
+33.9,81.6,41.0,black,watermelon,84.7,168.7,52.7,No Fertilizer Needed
+19.8,33.5,15.1,red,chickpea,71.7,84.8,40.0,DAP
+13.8,55.6,27.8,red,tomato,100.0,100.0,50.0,10-26-26
+11.8,41.8,31.8,clay,sugarcane,192.6,87.5,60.0,No Fertilizer Needed
+14.4,41.6,27.1,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+11.7,55.5,51.8,sandy,pigeon peas,59.6,30.0,40.0,DAP
+37.3,75.0,27.1,alluvial,tomato,110.6,130.4,50.0,DAP
+19.9,60.5,58.2,alluvial,tea,120.0,80.0,40.0,10-26-26
+24.9,84.4,41.9,clay,chickpea,156.6,76.5,42.0,No Fertilizer Needed
+33.1,77.0,50.4,alluvial,pearl millet,82.2,116.3,30.0,No Fertilizer Needed
+10.3,45.1,37.7,loamy,rice,120.0,82.4,60.0,Urea
+39.3,33.9,24.2,clay,grapes,92.6,80.0,40.0,10-26-26
+15.4,21.5,52.1,sandy,sweet potato,62.0,80.0,40.0,10-26-26
+33.6,27.8,56.8,alluvial,watermelon,80.0,114.9,40.0,DAP
+38.2,88.4,59.9,sandy,pigeon peas,60.7,30.0,40.0,10-26-26
+33.8,33.4,28.9,sandy,sugarcane,150.0,65.0,60.0,Urea
+32.9,61.1,52.7,clay,soybean,102.7,80.3,40.0,No Fertilizer Needed
+36.2,79.6,58.4,loamy,beans,121.7,41.1,40.0,No Fertilizer Needed
+28.4,31.7,29.4,alluvial,pearl millet,131.5,75.7,41.1,No Fertilizer Needed
+15.4,69.9,36.3,black,sorghum,99.7,127.0,53.3,No Fertilizer Needed
+29.1,75.3,42.5,black,coffee,100.0,124.0,51.1,Urea
+16.6,49.8,28.9,black,soybean,65.5,97.4,49.1,No Fertilizer Needed
+32.5,40.7,35.9,sandy,maize,80.0,44.1,40.0,DAP
+23.5,50.3,28.4,black,mango,101.2,66.3,30.0,No Fertilizer Needed
+18.0,25.3,55.1,sandy,chickpea,34.3,45.6,40.0,DAP
+37.8,26.9,13.6,loamy,maize,80.0,49.7,40.0,Urea
+19.1,77.1,44.2,loamy,mango,66.7,109.8,35.2,No Fertilizer Needed
+10.3,41.0,51.1,loamy,sweet potato,112.5,80.0,40.0,10-26-26
+10.4,65.8,59.5,alluvial,coffee,138.3,62.5,45.0,No Fertilizer Needed
+17.0,61.1,37.6,black,tomato,100.0,109.0,50.0,DAP
+35.4,50.0,57.1,loamy,maize,80.0,99.0,40.0,DAP
+14.2,81.2,25.3,loamy,rice,120.0,84.4,60.0,DAP
+16.8,49.8,47.6,loamy,grapes,110.7,80.0,40.0,10-26-26
+27.0,22.3,17.0,clay,coffee,194.9,116.4,65.7,No Fertilizer Needed
+27.2,47.4,29.1,red,tea,120.0,80.0,40.0,DAP
+19.9,87.3,42.0,clay,pearl millet,104.1,128.4,30.0,No Fertilizer Needed
+34.8,62.2,11.3,clay,potato,120.0,100.0,62.0,Urea
+18.7,56.7,32.7,sandy,tomato,100.0,100.0,50.0,10-26-26
+14.7,27.8,36.8,black,onion,99.2,191.9,40.0,DAP
+36.1,41.7,50.9,sandy,tomato,100.0,100.0,50.0,10-26-26
+16.1,70.2,32.9,red,banana,100.0,200.0,40.0,10-26-26
+34.2,56.8,55.5,red,watermelon,90.8,70.4,40.0,DAP
+29.4,84.3,27.3,loamy,maize,117.8,64.3,40.0,No Fertilizer Needed
+17.5,83.0,46.7,black,potato,120.0,100.0,60.0,Urea
+21.8,86.2,22.0,clay,coffee,180.5,123.2,40.0,No Fertilizer Needed
+37.5,68.9,46.1,alluvial,banana,100.0,200.0,40.0,10-26-26
+39.9,25.4,15.3,clay,sweet potato,166.5,103.2,40.0,No Fertilizer Needed
+25.2,52.4,13.7,sandy,groundnut,52.3,40.0,40.0,DAP
+21.9,20.8,15.7,sandy,watermelon,80.0,60.0,40.0,DAP
+12.0,58.4,22.1,black,pearl millet,148.8,173.8,30.0,No Fertilizer Needed
+35.2,62.5,18.9,sandy,potato,120.0,100.0,60.0,Urea
+30.3,30.7,27.9,clay,pigeon peas,92.3,128.4,40.0,No Fertilizer Needed
+30.9,78.6,50.6,black,tomato,116.3,184.1,50.0,DAP
+19.2,23.7,10.2,alluvial,watermelon,120.8,125.6,41.6,No Fertilizer Needed
+16.0,21.1,11.4,sandy,grapes,60.0,80.0,40.0,Urea
+38.8,26.8,51.8,sandy,maize,80.0,30.0,40.0,Urea
+34.5,42.6,41.3,clay,sorghum,147.3,96.9,63.0,No Fertilizer Needed
+17.0,27.4,26.2,clay,onion,90.0,60.0,50.4,Urea
+16.6,66.1,23.9,black,tomato,114.5,182.5,50.0,DAP
+33.0,55.0,59.5,loamy,onion,106.1,104.2,40.0,No Fertilizer Needed
+17.6,26.6,26.2,sandy,coffee,100.0,62.6,40.0,Urea
+15.3,73.3,44.4,loamy,sugarcane,150.0,60.0,60.0,DAP
+37.4,51.4,35.6,red,rice,120.0,79.1,60.0,DAP
+10.6,73.1,16.2,sandy,rice,120.0,40.0,60.0,Urea
+14.1,54.9,20.1,clay,maize,113.7,79.3,49.9,No Fertilizer Needed
+32.2,43.0,23.9,black,tea,120.0,133.3,46.0,Urea
+34.4,72.5,21.5,alluvial,onion,117.0,60.5,40.0,DAP
+39.7,76.1,44.8,alluvial,wheat,100.0,88.9,50.0,Urea
+28.9,24.5,34.6,black,potato,149.1,196.9,60.0,DAP
+12.8,61.5,51.6,sandy,tomato,100.0,100.0,50.0,10-26-26
+14.9,33.8,31.2,loamy,chickpea,96.5,78.2,40.0,No Fertilizer Needed
+18.2,74.7,14.0,sandy,beans,64.8,40.0,40.0,10-26-26
+25.2,71.4,48.0,black,chickpea,135.1,65.7,47.3,No Fertilizer Needed
+35.6,73.1,56.1,black,watermelon,111.5,161.1,40.0,DAP
+23.9,51.8,28.8,black,groundnut,112.6,81.4,40.0,No Fertilizer Needed
+14.6,33.3,10.6,sandy,pearl millet,60.0,43.1,30.0,Urea
+39.1,46.1,34.5,black,onion,116.3,118.2,40.0,No Fertilizer Needed
+21.5,59.6,19.7,clay,wheat,121.9,155.2,50.0,DAP
+31.3,64.4,28.4,red,grapes,60.0,80.0,40.0,DAP
+24.3,84.5,28.1,sandy,soybean,52.8,51.0,40.0,DAP
+28.2,86.1,17.4,loamy,sugarcane,150.0,84.7,60.0,Urea
+13.5,26.5,45.6,clay,potato,120.0,162.1,60.0,DAP
+37.3,81.3,18.3,red,maize,80.0,65.3,40.0,Urea
+36.6,61.0,46.7,alluvial,sweet potato,118.9,120.2,46.9,No Fertilizer Needed
+27.2,75.8,50.7,alluvial,cotton,90.0,109.3,45.0,DAP
+39.6,77.1,10.1,clay,banana,100.0,200.0,52.3,10-26-26
+32.0,31.9,28.7,loamy,beans,105.4,48.6,40.0,No Fertilizer Needed
+27.0,34.9,20.0,black,cotton,127.7,88.9,47.8,No Fertilizer Needed
+28.8,63.7,53.4,black,onion,90.0,114.0,40.0,Urea
+20.3,61.0,33.9,clay,groundnut,153.8,59.4,40.0,No Fertilizer Needed
+27.5,89.1,14.8,alluvial,rice,120.0,96.3,60.0,DAP
+24.2,43.6,31.5,black,groundnut,87.9,197.9,50.9,No Fertilizer Needed
+30.0,46.5,12.9,loamy,soybean,74.0,42.5,40.0,No Fertilizer Needed
+22.1,78.5,56.3,alluvial,chickpea,48.0,89.8,40.0,DAP
+23.6,68.0,53.5,loamy,soybean,88.3,40.0,40.0,No Fertilizer Needed
+10.5,45.2,12.3,loamy,beans,114.7,68.3,40.0,No Fertilizer Needed
+22.0,62.9,14.1,black,tea,120.0,188.7,52.4,Urea
+37.2,71.4,24.7,alluvial,pigeon peas,64.5,88.8,40.0,DAP
+25.1,29.0,49.8,alluvial,coffee,100.0,91.4,40.0,Urea
+36.9,86.9,34.1,sandy,chickpea,45.3,30.0,40.0,DAP
+12.7,50.4,45.8,alluvial,pigeon peas,61.1,123.2,47.1,No Fertilizer Needed
+31.6,66.6,57.6,sandy,groundnut,51.2,62.5,40.0,DAP
+24.8,75.7,26.6,alluvial,beans,67.3,125.1,40.0,No Fertilizer Needed
+20.3,83.7,47.1,alluvial,maize,116.2,112.7,40.0,No Fertilizer Needed
+16.7,28.1,14.4,sandy,onion,90.0,63.2,40.0,Urea
+21.0,79.7,57.7,red,cotton,90.0,40.0,45.0,DAP
+35.4,88.6,26.0,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+28.0,35.5,29.8,alluvial,sorghum,98.0,55.0,40.0,DAP
+25.0,51.9,40.1,sandy,banana,100.0,200.0,40.0,10-26-26
+19.6,55.2,44.4,red,wheat,100.0,70.2,50.0,Urea
+24.9,69.3,28.8,sandy,beans,65.2,58.3,40.0,DAP
+38.0,35.8,46.8,alluvial,tomato,135.5,119.1,50.0,No Fertilizer Needed
+39.5,66.1,52.4,loamy,watermelon,131.2,60.3,40.0,No Fertilizer Needed
+39.7,73.0,29.6,black,pigeon peas,104.4,157.0,40.0,No Fertilizer Needed
+35.7,47.6,16.5,alluvial,tomato,118.8,114.5,50.0,DAP
+29.6,60.4,32.1,black,banana,100.0,200.0,51.1,10-26-26
+29.5,45.4,52.8,alluvial,tomato,100.0,119.3,50.0,Urea
+30.4,31.8,12.8,black,watermelon,86.3,190.6,40.0,DAP
+29.5,61.5,58.5,red,cotton,90.0,40.0,45.0,DAP
+24.7,68.2,57.7,black,soybean,117.5,156.4,40.0,No Fertilizer Needed
+12.7,52.5,50.9,alluvial,pigeon peas,82.8,82.1,40.0,No Fertilizer Needed
+13.5,28.5,42.1,clay,rice,185.6,118.5,60.0,DAP
+18.2,72.2,49.7,black,coffee,100.0,150.0,40.0,Urea
+27.1,27.0,13.2,loamy,onion,123.8,60.0,40.0,10-26-26
+26.7,57.5,50.6,black,rice,120.0,141.9,60.0,DAP
+32.6,34.5,42.9,clay,beans,78.8,130.7,59.8,No Fertilizer Needed
+23.4,42.0,12.0,red,rice,120.0,40.0,60.0,DAP
+12.5,28.7,24.9,clay,groundnut,193.4,162.4,40.0,No Fertilizer Needed
+17.5,23.2,57.3,clay,pigeon peas,185.1,112.6,40.0,No Fertilizer Needed
+24.7,41.9,55.5,red,sugarcane,150.0,66.0,60.0,DAP
+34.6,36.6,19.4,alluvial,cotton,90.0,128.2,45.0,Urea
+16.5,45.1,16.4,red,tea,120.0,80.0,40.0,Urea
+37.1,48.0,14.2,alluvial,watermelon,80.0,104.5,40.0,DAP
+12.1,71.3,59.8,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+34.6,62.3,31.0,alluvial,pigeon peas,60.5,81.0,49.2,No Fertilizer Needed
+17.4,38.9,36.6,red,rice,120.0,53.7,60.0,DAP
+37.3,74.5,17.3,loamy,maize,113.8,42.3,40.0,DAP
+38.6,74.8,16.2,black,soybean,104.3,142.5,50.3,No Fertilizer Needed
+25.9,69.0,53.3,clay,pearl millet,137.5,153.4,48.3,No Fertilizer Needed
+38.4,47.3,27.3,loamy,potato,120.0,100.0,60.0,10-26-26
+24.3,28.9,10.5,black,tea,120.0,80.1,40.0,DAP
+32.1,23.7,46.3,red,watermelon,97.3,60.0,40.0,10-26-26
+31.2,32.8,59.3,black,tea,132.8,100.2,40.0,No Fertilizer Needed
+38.3,81.7,50.7,red,onion,90.0,95.5,40.0,Urea
+35.4,64.4,13.8,loamy,onion,90.0,78.1,40.0,DAP
+18.6,85.1,50.4,alluvial,maize,80.0,102.9,47.8,Urea
+24.9,68.0,43.8,black,sugarcane,150.0,64.9,60.0,DAP
+10.2,49.7,36.7,alluvial,tomato,100.0,101.5,50.0,Urea
+28.3,62.5,58.2,alluvial,sorghum,111.3,89.1,45.5,No Fertilizer Needed
+12.3,78.8,35.7,sandy,soybean,63.9,40.0,40.0,DAP
+20.1,67.5,51.6,clay,grapes,177.9,85.1,59.6,No Fertilizer Needed
+17.9,20.2,41.6,loamy,pearl millet,77.4,104.7,41.7,No Fertilizer Needed
+34.8,22.5,33.2,red,beans,73.2,55.5,40.0,No Fertilizer Needed
+19.9,44.8,10.3,black,tea,142.5,110.9,40.0,DAP
+24.8,25.9,35.7,black,cotton,90.0,128.8,45.0,DAP
+17.5,52.9,28.7,alluvial,sugarcane,150.0,90.3,60.0,Urea
+39.7,65.9,32.0,clay,groundnut,81.9,53.2,54.6,No Fertilizer Needed
+15.7,22.8,29.7,clay,tomato,163.4,100.0,61.5,10-26-26
+38.8,88.8,15.9,black,tomato,100.4,155.0,50.0,DAP
+32.5,74.6,30.0,loamy,sugarcane,150.0,96.9,60.0,Urea
+38.7,75.5,16.3,clay,sugarcane,150.0,129.5,60.0,DAP
+34.9,50.1,39.9,alluvial,wheat,100.0,67.4,50.0,Urea
+17.4,30.7,35.6,black,maize,80.0,179.7,46.3,Urea
+34.6,33.9,45.3,alluvial,soybean,124.5,87.2,40.0,No Fertilizer Needed
+39.8,61.4,41.7,sandy,potato,120.0,100.0,60.0,10-26-26
+22.8,63.2,14.5,sandy,tomato,100.0,100.0,50.0,Urea
+16.7,49.8,13.1,sandy,beans,40.2,40.0,40.0,DAP
+38.3,69.8,22.3,loamy,grapes,122.6,80.0,40.0,10-26-26
+19.6,40.0,24.0,alluvial,pigeon peas,104.6,64.7,40.0,No Fertilizer Needed
+20.0,27.8,43.4,loamy,pearl millet,103.5,44.8,37.1,No Fertilizer Needed
+34.3,72.0,39.4,alluvial,grapes,104.5,80.0,40.0,10-26-26
+12.6,27.4,41.5,black,coffee,112.2,193.7,40.0,DAP
+15.8,51.2,14.9,sandy,beans,63.4,40.0,40.0,10-26-26
+26.0,30.8,16.4,sandy,pearl millet,60.0,61.1,30.0,Urea
+36.8,51.4,45.9,loamy,sweet potato,124.0,80.0,40.0,10-26-26
+15.0,39.2,58.4,clay,sorghum,102.1,59.3,64.0,No Fertilizer Needed
+34.4,54.7,36.6,alluvial,tomato,100.0,100.0,50.0,DAP
+26.9,47.3,40.4,black,sorghum,80.0,140.2,40.0,DAP
+10.3,85.0,35.6,alluvial,coffee,100.0,65.3,40.1,Urea
+31.2,58.7,18.6,loamy,soybean,46.1,40.0,40.0,DAP
+37.8,38.9,49.5,loamy,sugarcane,150.0,96.8,60.0,DAP
+10.0,44.3,40.3,clay,sweet potato,112.8,131.9,40.0,No Fertilizer Needed
+31.7,48.6,40.6,loamy,sweet potato,71.2,96.2,40.0,DAP
+31.9,39.6,22.8,sandy,grapes,60.0,80.0,40.0,Urea
+31.7,68.2,57.3,clay,coffee,100.0,120.5,49.2,Urea
+16.6,38.8,39.1,black,tomato,133.8,100.0,50.0,10-26-26
+31.8,45.8,55.1,alluvial,soybean,54.6,58.7,40.0,DAP
+27.1,86.0,19.0,sandy,potato,120.0,100.0,60.0,Urea
+28.2,24.9,13.6,alluvial,watermelon,80.0,129.3,46.4,Urea
+25.8,70.9,50.4,alluvial,cotton,104.3,43.9,45.0,DAP
+38.0,29.3,48.5,alluvial,rice,120.0,96.0,60.0,Urea
+26.3,77.3,52.6,clay,rice,120.0,138.0,60.0,DAP
+19.2,53.5,22.2,sandy,chickpea,45.5,45.5,40.0,DAP
+13.1,40.8,35.6,clay,rice,175.9,155.1,60.0,DAP
+22.8,30.3,42.8,sandy,rice,120.0,40.0,60.0,Urea
+15.1,27.7,15.1,black,cotton,149.4,146.1,45.0,No Fertilizer Needed
+37.7,84.4,54.8,loamy,cotton,96.4,74.8,45.0,DAP
+30.4,30.5,43.4,sandy,tea,120.0,80.0,40.0,Urea
+37.5,66.3,56.6,loamy,cotton,115.0,40.7,45.0,DAP
+33.3,30.3,17.4,sandy,rice,120.0,64.9,60.0,Urea
+27.3,87.2,23.9,clay,maize,80.0,73.0,65.8,Urea
+19.6,49.7,44.7,loamy,watermelon,80.0,60.0,40.0,DAP
+21.5,58.5,36.9,sandy,beans,43.2,40.0,40.0,DAP
+31.4,56.9,48.8,red,maize,86.3,37.4,40.0,DAP
+16.1,79.5,28.1,clay,grapes,127.0,80.0,40.0,10-26-26
+35.5,80.7,51.0,loamy,grapes,68.5,99.0,40.0,DAP
+16.3,35.7,47.3,sandy,onion,90.0,60.0,40.0,Urea
+38.9,46.0,45.1,alluvial,rice,120.0,117.4,60.0,DAP
+14.4,29.9,22.3,clay,potato,120.0,100.0,60.0,Urea
+32.3,72.4,44.9,black,potato,120.0,108.5,60.0,DAP
+10.4,27.8,13.0,alluvial,beans,108.1,57.6,40.0,No Fertilizer Needed
+21.9,49.7,57.4,clay,potato,124.3,100.0,60.0,10-26-26
+19.2,35.9,56.6,red,coffee,100.0,60.0,40.0,Urea
+16.4,63.3,20.9,alluvial,sugarcane,150.0,92.3,60.0,Urea
+24.1,41.9,42.1,alluvial,maize,126.2,114.3,40.0,DAP
+15.8,27.6,13.9,black,beans,112.3,66.8,49.2,No Fertilizer Needed
+26.2,24.6,39.9,sandy,banana,100.0,200.0,40.0,10-26-26
+17.2,26.0,38.5,clay,beans,69.1,106.9,65.4,No Fertilizer Needed
+12.8,41.6,59.0,loamy,wheat,109.7,72.5,50.0,DAP
+31.8,88.2,45.1,black,mango,60.0,163.1,32.8,Urea
+34.2,30.5,39.4,red,cotton,90.0,89.0,45.0,Urea
+14.5,52.4,54.3,sandy,banana,100.0,200.0,40.0,10-26-26
+14.2,70.3,59.7,alluvial,pigeon peas,94.4,96.8,49.2,No Fertilizer Needed
+23.4,29.2,24.5,loamy,sorghum,98.1,38.0,42.2,No Fertilizer Needed
+17.2,89.8,40.3,black,pigeon peas,149.6,197.2,40.0,No Fertilizer Needed
+14.3,80.9,37.4,clay,cotton,193.8,62.3,56.2,No Fertilizer Needed
+19.4,85.4,18.1,black,cotton,90.0,75.0,45.0,DAP
+33.2,38.1,33.7,alluvial,potato,120.0,100.5,60.0,Urea
+39.2,54.2,28.2,clay,sugarcane,150.0,122.2,60.0,Urea
+23.2,55.9,41.2,sandy,pigeon peas,35.1,39.6,40.0,DAP
+36.3,89.4,12.1,loamy,chickpea,130.0,94.3,40.0,No Fertilizer Needed
+14.6,27.4,28.8,clay,sweet potato,140.0,80.0,59.4,No Fertilizer Needed
+12.8,52.6,42.1,alluvial,chickpea,133.3,49.7,40.0,No Fertilizer Needed
+33.0,34.0,26.4,black,cotton,90.0,128.6,54.9,Urea
+18.4,22.7,17.8,clay,pearl millet,126.4,88.5,49.8,No Fertilizer Needed
+33.2,24.4,50.4,red,wheat,100.0,45.9,50.0,DAP
+38.6,67.9,23.5,clay,tomato,148.8,100.0,50.0,10-26-26
+19.0,69.9,53.6,clay,watermelon,133.8,81.7,51.1,No Fertilizer Needed
+36.8,50.0,58.2,clay,wheat,103.1,158.5,50.0,DAP
+26.1,74.9,58.3,black,pearl millet,94.9,140.0,51.7,No Fertilizer Needed
+33.5,61.8,13.9,red,rice,120.0,53.4,60.0,DAP
+14.5,52.1,17.4,clay,mango,179.7,161.6,30.0,No Fertilizer Needed
+25.6,20.3,32.5,loamy,onion,116.9,68.7,40.0,DAP
+11.1,72.2,19.4,clay,coffee,157.0,120.1,55.8,No Fertilizer Needed
+16.3,33.4,44.0,loamy,tomato,128.0,100.0,50.0,10-26-26
+25.1,80.7,45.0,loamy,banana,100.4,200.0,40.0,10-26-26
+22.8,88.2,26.8,red,grapes,94.0,80.0,40.0,10-26-26
+14.9,50.5,24.3,red,sweet potato,76.0,80.0,40.0,10-26-26
+39.9,76.4,15.2,clay,tea,150.7,98.8,48.7,No Fertilizer Needed
+32.6,84.9,15.0,alluvial,pearl millet,88.8,44.9,35.4,No Fertilizer Needed
+16.4,74.4,37.6,black,banana,100.0,200.0,49.6,Urea
+22.4,77.4,45.2,black,grapes,126.8,113.6,40.0,DAP
+18.5,81.6,23.2,red,soybean,88.1,59.5,40.0,No Fertilizer Needed
+37.0,49.0,10.8,clay,soybean,83.7,144.4,40.0,No Fertilizer Needed
+20.1,87.1,59.6,loamy,tea,120.0,80.0,43.2,Urea
+34.9,76.1,38.9,black,beans,62.5,194.9,41.4,No Fertilizer Needed
+37.1,56.2,31.9,black,potato,120.0,131.1,60.0,Urea
+33.5,79.0,41.4,red,beans,49.1,95.5,40.0,DAP
+12.8,50.6,41.4,clay,tomato,143.1,132.1,50.0,DAP
+21.5,72.0,16.5,red,maize,80.0,55.7,40.0,DAP
+36.9,40.8,36.8,alluvial,soybean,69.4,112.7,42.1,No Fertilizer Needed
+11.6,25.8,17.2,alluvial,groundnut,47.8,120.0,49.0,No Fertilizer Needed
+37.8,28.6,17.1,black,cotton,90.0,73.4,45.0,DAP
+21.7,54.4,11.1,sandy,grapes,60.0,80.0,40.0,10-26-26
+21.3,42.0,55.4,black,pigeon peas,133.9,64.4,40.0,No Fertilizer Needed
+27.0,62.5,11.6,alluvial,potato,140.7,100.0,60.0,10-26-26
+26.4,31.1,47.1,red,tea,120.0,80.0,40.0,10-26-26
+25.4,30.7,53.3,red,rice,120.0,53.6,60.0,Urea
+31.8,85.8,23.4,clay,soybean,128.0,91.7,63.9,No Fertilizer Needed
+18.8,72.2,34.8,alluvial,sweet potato,95.5,80.0,40.0,10-26-26
+30.6,82.1,24.1,sandy,potato,120.0,100.0,60.0,Urea
+33.8,86.8,34.4,sandy,banana,100.0,200.0,40.0,10-26-26
+13.2,46.8,20.0,red,mango,60.0,86.8,35.8,Urea
+36.7,87.1,22.7,sandy,chickpea,39.4,60.5,40.0,DAP
+21.9,28.0,50.5,loamy,sorghum,80.6,53.4,40.0,DAP
+21.1,30.2,25.7,alluvial,tomato,100.0,106.5,50.0,Urea
+27.0,42.5,21.6,black,tomato,100.0,100.0,50.0,Urea
+26.8,70.1,57.3,clay,tomato,172.0,117.1,51.2,No Fertilizer Needed
+30.5,50.5,50.7,black,beans,69.8,129.7,40.0,DAP
+22.6,28.7,18.6,loamy,wheat,100.0,78.2,50.0,DAP
+29.3,79.9,59.4,clay,banana,186.1,200.0,40.0,10-26-26
+36.9,84.3,12.0,clay,watermelon,150.0,63.2,40.0,No Fertilizer Needed
+19.0,42.2,27.3,alluvial,onion,90.0,86.4,41.9,Urea
+19.0,88.9,34.7,black,wheat,116.3,176.8,51.6,No Fertilizer Needed
+10.9,23.3,10.5,clay,tea,120.0,129.9,40.0,Urea
+15.1,33.4,55.1,sandy,onion,90.0,65.5,40.0,Urea
+36.5,23.0,12.4,loamy,wheat,100.0,86.6,50.0,DAP
+31.0,84.7,39.2,loamy,watermelon,80.0,60.0,40.0,Urea
+29.1,66.8,36.1,black,coffee,100.0,129.2,40.0,Urea
+33.2,53.8,14.6,loamy,groundnut,111.0,61.5,40.0,No Fertilizer Needed
+29.4,79.9,44.7,alluvial,soybean,52.8,61.1,40.0,No Fertilizer Needed
+24.0,47.0,34.4,sandy,pigeon peas,36.3,55.3,40.0,DAP
+32.8,41.8,32.7,loamy,sorghum,80.0,103.6,40.0,Urea
+21.6,51.7,41.0,loamy,soybean,60.3,40.1,40.0,DAP
+30.6,86.6,38.9,sandy,onion,90.0,60.0,40.0,Urea
+10.5,52.3,23.3,sandy,cotton,90.0,40.0,45.0,Urea
+12.5,50.2,17.5,red,cotton,90.0,40.0,45.0,DAP
+12.9,65.4,46.6,loamy,groundnut,80.0,65.2,40.0,No Fertilizer Needed
+25.9,54.6,31.7,loamy,tea,120.0,106.9,40.0,Urea
+11.6,22.5,23.3,clay,soybean,71.9,78.0,40.0,No Fertilizer Needed
+31.5,47.4,15.1,alluvial,tea,120.0,80.0,45.4,10-26-26
+33.6,44.3,24.4,sandy,tomato,100.0,100.0,50.0,10-26-26
+28.7,71.7,52.6,alluvial,sorghum,112.6,103.3,40.0,DAP
+20.0,51.9,58.1,sandy,potato,120.0,100.0,60.0,10-26-26
+15.1,73.2,10.5,clay,groundnut,110.5,52.6,42.3,No Fertilizer Needed
+13.3,77.3,38.4,black,soybean,153.0,133.9,48.8,No Fertilizer Needed
+33.3,27.0,50.2,sandy,potato,120.0,100.0,60.0,Urea
+29.9,37.7,32.9,loamy,sweet potato,116.5,80.0,40.0,10-26-26
+35.7,83.2,39.8,alluvial,sorghum,80.0,107.5,40.0,Urea
+39.4,79.9,43.0,sandy,rice,120.0,40.0,60.0,Urea
+16.2,26.2,56.0,loamy,onion,90.0,60.0,40.0,DAP
+26.3,83.9,59.4,alluvial,beans,130.9,123.9,40.0,No Fertilizer Needed
+21.7,49.2,59.7,loamy,grapes,69.8,80.0,40.0,DAP
+13.7,75.7,38.3,red,mango,85.0,40.0,30.0,10-26-26
+37.8,30.3,44.0,black,rice,120.0,138.3,60.0,DAP
+24.6,24.5,24.7,loamy,potato,120.0,100.0,60.0,DAP
+24.7,20.4,27.6,clay,cotton,175.6,68.0,45.0,No Fertilizer Needed
+30.0,73.8,17.8,red,banana,100.0,200.0,40.0,10-26-26
+27.6,25.7,20.9,black,tomato,100.0,172.6,50.0,DAP
+22.7,87.7,14.9,black,beans,76.4,104.9,40.0,No Fertilizer Needed
+30.4,42.6,38.9,black,coffee,120.7,81.3,40.0,DAP
+19.0,26.0,38.3,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+14.2,50.9,25.7,clay,onion,189.2,105.2,53.1,No Fertilizer Needed
+22.6,48.7,11.4,black,onion,107.7,119.8,53.4,No Fertilizer Needed
+37.2,75.1,39.0,red,sugarcane,150.0,92.2,60.0,Urea
+32.7,47.5,30.1,clay,banana,100.0,200.0,57.3,Urea
+12.5,38.9,59.3,clay,chickpea,77.5,145.0,47.7,No Fertilizer Needed
+30.7,80.5,16.1,black,coffee,110.4,159.8,40.0,DAP
+14.3,71.8,34.8,red,tomato,100.0,100.0,50.0,Urea
+19.3,89.2,10.3,alluvial,banana,100.0,200.0,40.0,10-26-26
+28.1,28.5,14.8,sandy,rice,120.0,58.5,60.0,Urea
+11.7,28.5,30.2,black,chickpea,152.2,176.6,48.3,No Fertilizer Needed
+34.7,67.7,53.0,loamy,sweet potato,97.5,82.7,40.0,DAP
+34.6,66.0,18.5,sandy,potato,120.0,100.0,60.0,10-26-26
+30.0,87.1,34.6,loamy,banana,102.1,200.0,40.0,10-26-26
+22.5,49.7,11.4,black,cotton,97.0,64.5,45.0,DAP
+29.4,82.5,41.0,clay,banana,100.0,200.0,61.8,Urea
+23.8,20.6,17.9,alluvial,chickpea,94.3,61.0,44.8,No Fertilizer Needed
+25.4,32.2,17.6,black,sorghum,117.9,125.0,40.0,No Fertilizer Needed
+33.5,66.1,56.2,loamy,sugarcane,150.0,71.3,60.0,Urea
+29.8,60.3,56.4,red,pearl millet,83.8,40.2,30.0,No Fertilizer Needed
+38.7,44.4,40.9,red,mango,60.0,89.0,30.0,DAP
+12.9,27.4,56.7,sandy,potato,120.0,100.0,60.0,Urea
+37.0,32.2,54.6,clay,soybean,165.0,59.7,40.0,No Fertilizer Needed
+13.4,79.3,13.6,loamy,tea,120.0,98.1,40.0,DAP
+13.2,51.5,16.7,loamy,potato,120.0,100.0,60.0,10-26-26
+30.4,35.8,47.1,black,pearl millet,94.6,169.7,37.3,No Fertilizer Needed
+10.7,87.2,14.8,red,maize,80.0,31.9,40.0,Urea
+26.4,25.0,19.3,red,onion,90.0,74.9,40.0,Urea
+35.0,59.9,33.7,sandy,pearl millet,60.0,46.1,30.0,Urea
+23.2,63.8,53.7,clay,sugarcane,150.0,110.7,60.0,DAP
+25.0,23.6,37.0,clay,cotton,90.0,85.1,58.0,Urea
+31.1,24.8,53.6,black,groundnut,150.7,140.7,40.0,No Fertilizer Needed
+25.0,47.9,12.8,red,sorghum,80.0,63.3,40.0,DAP
+10.9,43.7,23.0,alluvial,groundnut,78.1,54.5,41.6,No Fertilizer Needed
+19.9,73.0,55.6,alluvial,sweet potato,60.0,114.5,40.0,DAP
+31.1,73.6,11.8,red,coffee,100.0,71.9,40.0,DAP
+36.6,53.5,16.5,clay,tea,160.6,108.4,40.0,DAP
+20.5,53.4,49.1,alluvial,soybean,131.0,125.8,40.0,No Fertilizer Needed
+26.0,80.2,44.1,sandy,rice,120.0,40.0,60.0,DAP
+13.8,69.1,37.5,alluvial,watermelon,80.0,97.4,40.0,DAP
+15.8,50.6,12.9,loamy,grapes,62.9,80.0,40.0,10-26-26
+11.4,76.1,53.7,red,sweet potato,60.0,80.0,40.0,10-26-26
+18.5,42.0,40.1,sandy,chickpea,61.1,30.0,40.0,10-26-26
+29.7,66.0,13.8,black,watermelon,147.5,158.2,40.0,No Fertilizer Needed
+23.3,41.2,28.3,sandy,grapes,60.0,80.0,40.0,10-26-26
+30.9,55.2,12.7,loamy,groundnut,123.0,81.6,40.0,No Fertilizer Needed
+16.1,29.6,58.8,clay,groundnut,94.1,76.2,54.4,No Fertilizer Needed
+34.5,29.9,58.9,alluvial,grapes,113.6,82.8,40.0,No Fertilizer Needed
+25.0,22.4,23.9,clay,cotton,114.9,62.0,58.2,No Fertilizer Needed
+21.5,21.3,29.1,red,groundnut,61.5,57.1,40.0,DAP
+26.0,66.2,11.6,black,pigeon peas,129.1,185.9,52.6,No Fertilizer Needed
+34.3,61.4,47.9,loamy,mango,72.7,67.6,38.9,No Fertilizer Needed
+37.9,72.7,50.4,alluvial,onion,99.4,125.9,47.9,No Fertilizer Needed
+23.9,60.1,38.4,red,banana,100.0,200.0,40.0,10-26-26
+37.2,39.6,44.1,sandy,soybean,33.3,55.7,40.0,DAP
+27.1,22.7,23.7,loamy,banana,100.0,200.0,40.0,10-26-26
+13.7,59.8,26.0,clay,tea,120.0,104.6,40.0,Urea
+24.0,87.6,34.0,clay,chickpea,177.0,59.1,40.0,No Fertilizer Needed
+36.9,58.6,57.7,loamy,maize,81.6,94.0,40.0,DAP
+13.8,64.1,17.3,black,groundnut,113.9,78.5,40.0,No Fertilizer Needed
+30.5,80.2,39.0,sandy,wheat,100.0,40.0,50.0,Urea
+10.5,79.1,52.5,loamy,groundnut,90.6,52.6,40.0,DAP
+25.2,27.9,13.9,clay,cotton,90.5,145.8,46.7,No Fertilizer Needed
+12.1,49.9,24.2,black,pigeon peas,51.6,111.6,40.3,No Fertilizer Needed
+21.2,86.0,24.7,alluvial,onion,90.0,68.2,40.0,Urea
+10.8,62.6,50.4,red,sugarcane,150.0,65.8,60.0,Urea
+20.3,35.0,51.5,alluvial,coffee,100.0,76.3,40.3,Urea
+38.7,87.1,59.6,clay,beans,139.3,123.4,65.9,No Fertilizer Needed
+32.0,79.3,36.4,red,onion,90.0,66.9,40.0,Urea
+18.1,78.5,24.7,loamy,chickpea,64.0,92.6,40.0,DAP
+23.7,72.4,15.8,sandy,grapes,60.0,80.0,40.0,DAP
+20.6,55.4,55.7,clay,grapes,151.2,103.0,48.2,No Fertilizer Needed
+27.1,77.9,16.3,sandy,onion,90.0,60.0,40.0,Urea
+14.1,38.2,24.3,alluvial,coffee,100.0,79.9,40.0,DAP
+24.8,81.7,19.9,red,sugarcane,150.0,60.0,60.0,Urea
+33.0,69.8,33.5,loamy,onion,90.0,97.5,40.1,Urea
+15.0,25.1,35.7,alluvial,rice,120.0,80.0,60.0,DAP
+30.9,36.9,24.7,black,sugarcane,150.0,108.4,60.0,Urea
+13.2,70.6,13.7,red,tea,120.0,93.0,40.0,Urea
+32.2,50.5,47.9,black,beans,122.5,160.7,45.0,No Fertilizer Needed
+12.5,82.7,39.7,red,coffee,100.0,60.0,40.0,Urea
+25.3,61.2,57.2,sandy,chickpea,25.4,36.4,40.0,DAP
+36.9,60.6,52.2,red,coffee,100.0,60.0,40.0,Urea
+11.3,86.2,54.1,sandy,potato,120.0,100.0,60.0,10-26-26
+13.0,39.9,15.9,loamy,tea,120.0,101.4,40.0,Urea
+39.7,72.7,56.2,loamy,banana,102.0,200.0,40.0,10-26-26
+10.8,83.2,58.0,sandy,sorghum,80.0,30.0,40.0,Urea
+16.1,85.9,38.6,loamy,rice,120.0,97.3,60.0,DAP
+31.5,84.3,16.0,clay,banana,183.0,200.0,43.2,10-26-26
+31.9,28.2,27.7,loamy,sugarcane,150.0,89.6,60.0,Urea
+25.2,39.3,41.5,sandy,mango,60.0,52.8,30.0,Urea
+23.0,85.3,49.7,clay,mango,105.9,126.9,58.9,No Fertilizer Needed
+38.5,63.9,22.3,clay,beans,142.2,77.3,60.2,No Fertilizer Needed
+24.1,53.9,19.4,loamy,tomato,100.0,100.0,50.0,DAP
+35.7,72.5,10.2,red,maize,80.0,45.6,40.0,Urea
+22.5,38.4,29.0,clay,potato,141.8,107.0,60.0,DAP
+36.3,78.8,53.8,sandy,pigeon peas,51.1,49.4,40.0,DAP
+26.3,40.7,20.9,loamy,tea,128.7,92.3,40.9,No Fertilizer Needed
+19.8,66.4,15.8,black,onion,97.8,78.3,40.0,DAP
+13.8,81.8,52.0,alluvial,watermelon,129.7,103.8,40.0,No Fertilizer Needed
+18.0,35.1,52.5,loamy,rice,120.0,59.2,60.0,DAP
+22.3,76.6,31.3,loamy,pigeon peas,65.5,71.4,40.0,DAP
+29.1,23.2,32.4,loamy,soybean,61.9,75.2,40.3,No Fertilizer Needed
+38.4,62.9,26.5,clay,beans,144.7,133.8,40.0,No Fertilizer Needed
+33.4,43.3,27.6,clay,watermelon,166.4,60.0,40.0,No Fertilizer Needed
+26.1,89.0,51.9,loamy,tomato,100.0,100.0,50.0,10-26-26
+19.9,35.1,46.7,loamy,potato,126.6,100.0,60.0,10-26-26
+25.0,75.4,12.1,clay,sorghum,101.2,123.5,40.0,DAP
+18.2,28.7,49.2,clay,soybean,151.5,135.8,40.0,No Fertilizer Needed
+12.3,55.3,45.2,clay,groundnut,161.9,136.0,40.0,No Fertilizer Needed
+37.6,26.7,39.4,red,sweet potato,60.0,89.5,40.0,DAP
+25.4,21.6,23.7,black,mango,70.3,151.6,30.0,No Fertilizer Needed
+18.7,26.5,58.3,black,pearl millet,107.9,185.5,35.6,No Fertilizer Needed
+17.3,21.2,34.9,red,sweet potato,60.0,80.0,40.0,DAP
+16.7,88.3,29.9,black,cotton,90.0,139.0,45.0,DAP
+20.0,76.7,58.8,loamy,beans,50.6,99.9,40.0,DAP
+17.5,29.9,40.8,red,pearl millet,63.5,69.7,31.2,No Fertilizer Needed
+33.0,37.6,25.6,clay,soybean,108.6,88.7,40.0,No Fertilizer Needed
+22.2,20.4,44.5,red,coffee,100.0,68.3,40.0,Urea
+17.1,52.3,34.1,alluvial,mango,99.6,108.0,40.7,No Fertilizer Needed
+31.0,46.3,47.8,black,cotton,90.0,85.4,45.6,Urea
+11.2,49.7,18.5,clay,chickpea,171.4,136.8,42.9,No Fertilizer Needed
+22.0,40.8,31.8,black,sweet potato,79.9,154.4,52.1,No Fertilizer Needed
+28.5,46.0,42.5,loamy,sorghum,80.0,50.3,40.0,Urea
+21.1,62.3,33.6,alluvial,tea,120.0,109.2,40.0,Urea
+25.7,78.1,10.5,sandy,sugarcane,150.0,60.0,60.0,Urea
+31.0,33.9,14.7,loamy,rice,120.0,81.9,60.0,DAP
+12.0,64.5,54.2,sandy,tea,120.0,80.0,40.0,Urea
+27.5,41.4,41.2,black,banana,100.0,200.0,40.0,10-26-26
+12.3,30.7,46.5,sandy,pigeon peas,33.6,30.0,40.0,DAP
+29.3,46.8,38.8,red,sorghum,89.1,96.7,40.0,DAP
+37.3,34.7,10.1,alluvial,tea,120.0,125.7,40.0,Urea
+14.3,53.3,10.0,sandy,tea,120.0,80.0,40.0,Urea
+29.9,42.9,35.0,black,chickpea,61.3,113.9,40.0,No Fertilizer Needed
+24.2,41.8,36.1,alluvial,watermelon,97.2,117.8,45.6,No Fertilizer Needed
+35.0,69.8,52.0,alluvial,potato,120.0,113.0,60.0,DAP
+26.7,50.5,27.4,clay,pigeon peas,66.4,104.9,40.0,No Fertilizer Needed
+31.9,35.0,38.0,loamy,pigeon peas,131.8,63.7,42.2,No Fertilizer Needed
+39.9,33.7,28.0,alluvial,potato,120.0,100.0,60.0,Urea
+25.1,20.9,23.7,loamy,grapes,100.2,80.0,40.0,10-26-26
+28.8,88.0,51.2,loamy,groundnut,119.7,109.8,41.8,No Fertilizer Needed
+24.7,53.1,53.7,black,beans,127.8,68.2,47.8,No Fertilizer Needed
+36.8,30.7,46.8,red,rice,120.0,59.8,60.0,DAP
+23.3,69.7,25.7,clay,cotton,178.8,148.4,45.0,No Fertilizer Needed
+32.1,43.3,43.6,red,beans,92.2,42.9,40.0,No Fertilizer Needed
+38.3,56.1,57.0,alluvial,coffee,100.0,102.3,44.0,Urea
+34.8,55.1,46.4,sandy,maize,80.0,33.4,40.0,Urea
+25.2,32.1,47.3,alluvial,tomato,127.2,100.0,50.0,10-26-26
+20.2,59.8,44.8,clay,grapes,139.4,80.0,41.8,No Fertilizer Needed
+31.9,33.0,39.6,sandy,maize,80.0,56.5,40.0,DAP
+21.2,25.7,46.2,alluvial,tomato,100.0,100.0,50.0,Urea
+32.7,29.3,12.7,alluvial,tomato,114.3,100.0,50.0,10-26-26
+16.8,33.2,54.2,black,mango,67.6,157.2,30.0,No Fertilizer Needed
+24.7,60.5,27.4,clay,groundnut,149.6,123.5,41.2,No Fertilizer Needed
+38.5,61.0,17.8,clay,potato,139.8,101.3,65.7,No Fertilizer Needed
+33.9,34.5,45.0,alluvial,beans,94.6,113.5,43.8,No Fertilizer Needed
+33.2,38.1,33.4,red,maize,80.0,75.9,40.0,Urea
+14.2,61.1,28.6,black,potato,120.0,100.0,60.0,10-26-26
+20.8,83.1,17.9,alluvial,cotton,91.9,123.3,45.0,DAP
+19.2,52.7,19.3,loamy,potato,120.0,100.0,60.0,Urea
+23.0,48.0,51.7,alluvial,coffee,100.0,72.4,40.0,Urea
+19.0,88.0,53.9,black,pigeon peas,129.1,131.4,51.3,No Fertilizer Needed
+33.2,86.8,30.0,black,onion,90.0,187.5,40.0,Urea
+38.3,33.9,58.6,alluvial,tea,120.0,80.0,40.0,DAP
+19.3,73.6,50.1,clay,wheat,124.9,52.6,50.0,DAP
+36.5,41.1,14.0,sandy,sugarcane,150.0,60.0,60.0,Urea
+30.5,79.2,28.7,sandy,soybean,42.5,42.2,40.0,DAP
+31.0,83.9,43.4,black,pigeon peas,136.3,166.0,44.0,No Fertilizer Needed
+13.9,73.4,16.7,black,cotton,130.2,173.7,51.2,No Fertilizer Needed
+21.8,25.0,34.4,red,onion,90.0,60.0,40.0,10-26-26
+33.0,45.8,27.0,sandy,tea,120.0,80.0,40.0,Urea
+16.9,55.0,12.2,alluvial,maize,80.0,76.6,40.0,DAP
+14.5,41.8,43.8,black,potato,120.0,191.9,60.0,DAP
+21.9,56.2,15.3,sandy,potato,120.0,100.0,60.0,DAP
+34.1,20.9,26.0,black,beans,109.3,124.4,40.0,No Fertilizer Needed
+38.8,48.1,48.6,alluvial,pearl millet,75.0,99.1,30.0,DAP
+25.1,74.7,45.6,black,tea,137.6,80.0,53.9,No Fertilizer Needed
+26.0,46.8,43.7,black,potato,120.0,189.1,60.0,Urea
+15.9,76.9,46.4,loamy,coffee,100.0,60.0,40.0,DAP
+23.8,23.5,40.0,black,cotton,90.0,154.1,45.0,DAP
+18.0,40.5,30.9,red,rice,120.0,40.0,60.0,DAP
+32.0,57.2,29.8,loamy,cotton,90.0,44.5,45.0,Urea
+24.8,82.5,27.3,alluvial,sugarcane,150.0,124.7,60.0,Urea
+23.8,25.4,28.6,red,sorghum,80.0,74.6,40.0,Urea
+25.4,70.8,26.9,black,cotton,115.9,117.1,45.0,DAP
+17.7,65.7,54.1,alluvial,potato,127.1,100.0,60.0,10-26-26
+17.8,41.2,35.7,red,tomato,100.0,100.0,50.0,DAP
+24.2,73.3,31.8,red,grapes,81.9,80.0,40.0,10-26-26
+28.1,83.7,43.9,clay,pigeon peas,99.8,54.6,40.0,No Fertilizer Needed
+13.9,38.7,40.0,alluvial,onion,140.7,61.9,40.0,No Fertilizer Needed
+19.7,24.5,24.4,alluvial,rice,120.0,94.9,60.0,DAP
+19.9,47.2,56.5,red,beans,32.3,54.9,40.0,DAP
+23.9,72.0,20.5,sandy,chickpea,52.4,32.5,40.0,DAP
+35.6,87.7,41.6,alluvial,wheat,100.2,60.7,50.0,DAP
+19.1,72.6,32.6,loamy,sorghum,84.1,78.9,40.0,DAP
+26.9,49.1,48.2,loamy,tea,120.0,90.8,40.0,DAP
+37.6,29.2,40.4,black,soybean,138.2,92.5,40.0,No Fertilizer Needed
+18.7,80.5,48.3,red,cotton,97.9,68.6,45.0,DAP
+22.5,61.9,26.0,sandy,grapes,60.0,80.0,40.0,DAP
+19.5,57.5,29.6,alluvial,beans,129.3,83.8,40.0,No Fertilizer Needed
+37.7,32.4,24.4,sandy,chickpea,45.0,41.9,40.0,DAP
+37.2,46.8,42.7,alluvial,potato,140.5,100.0,60.0,DAP
+14.2,63.4,59.9,sandy,tea,120.0,80.0,40.0,Urea
+17.5,59.9,33.6,red,mango,60.0,81.7,30.0,Urea
+26.6,80.4,52.5,black,beans,65.9,181.1,40.0,No Fertilizer Needed
+38.1,84.5,26.1,black,potato,120.0,100.0,60.0,Urea
+17.4,62.2,59.5,black,chickpea,132.7,130.5,54.0,No Fertilizer Needed
+35.1,81.0,55.4,red,cotton,90.0,40.0,45.0,Urea
+30.3,80.7,59.8,alluvial,wheat,129.6,79.5,50.0,DAP
+26.1,70.1,40.3,alluvial,groundnut,141.9,81.5,40.0,No Fertilizer Needed
+34.3,78.0,46.3,loamy,wheat,100.0,104.6,50.0,Urea
+23.2,75.1,15.2,alluvial,beans,128.1,94.2,41.3,No Fertilizer Needed
+15.1,48.9,27.0,alluvial,cotton,134.5,60.9,45.0,No Fertilizer Needed
+29.3,25.2,55.0,loamy,cotton,90.0,54.5,45.0,DAP
+23.3,75.1,45.0,alluvial,banana,100.9,200.0,40.0,10-26-26
+18.7,35.5,28.5,red,sugarcane,150.0,95.3,60.0,Urea
+29.0,53.3,32.0,red,potato,120.0,100.0,60.0,Urea
+18.8,46.9,41.8,red,sugarcane,150.0,60.0,60.0,Urea
+17.8,70.5,47.3,clay,coffee,197.5,122.1,40.0,No Fertilizer Needed
+29.3,61.1,35.1,loamy,potato,120.0,104.5,60.0,DAP
+36.1,53.7,34.2,sandy,beans,38.1,40.0,40.0,10-26-26
+16.2,30.5,40.4,loamy,soybean,107.6,49.8,40.0,No Fertilizer Needed
+27.1,64.7,10.6,black,pearl millet,127.4,169.3,48.2,No Fertilizer Needed
+16.1,66.5,29.9,alluvial,soybean,55.1,48.0,40.0,DAP
+35.4,57.6,14.0,red,sweet potato,85.4,80.0,40.0,10-26-26
+33.9,32.8,56.8,loamy,soybean,119.2,88.8,40.0,No Fertilizer Needed
+39.4,38.6,23.9,clay,potato,163.3,155.7,60.0,No Fertilizer Needed
+19.1,34.5,22.2,red,sugarcane,150.0,60.0,60.0,Urea
+33.7,25.1,33.9,loamy,wheat,100.0,42.5,50.0,DAP
+27.9,41.0,10.5,sandy,coffee,100.0,60.0,40.0,Urea
+15.8,76.4,40.7,alluvial,chickpea,90.0,109.9,40.0,DAP
+24.8,32.4,35.4,loamy,tea,120.0,80.0,42.5,Urea
+20.2,67.4,35.2,sandy,sweet potato,60.0,80.0,40.0,DAP
+10.2,82.5,35.5,black,potato,120.0,165.7,60.0,DAP
+12.8,80.3,27.1,loamy,pigeon peas,103.8,49.5,40.0,No Fertilizer Needed
+16.4,55.1,26.0,sandy,cotton,90.0,40.0,45.0,DAP
+27.1,30.8,17.8,sandy,tea,120.0,80.0,40.0,Urea
+14.7,87.0,59.1,alluvial,tea,120.0,112.2,42.4,Urea
+38.0,53.0,52.8,sandy,groundnut,34.7,40.0,40.0,DAP
+19.5,41.6,38.2,alluvial,grapes,119.9,126.6,40.0,DAP
+20.6,76.4,58.7,black,wheat,129.5,158.1,50.0,DAP
+31.5,40.6,28.7,alluvial,tomato,100.0,100.0,50.0,10-26-26
+16.0,35.0,35.1,alluvial,sweet potato,129.0,80.0,40.0,10-26-26
+24.4,70.5,33.5,alluvial,mango,140.2,101.3,30.0,No Fertilizer Needed
+18.4,62.5,28.8,sandy,pearl millet,60.0,33.4,30.0,Urea
+37.7,27.8,16.7,black,grapes,127.7,167.7,40.0,No Fertilizer Needed
+36.2,61.3,38.7,sandy,onion,90.0,60.0,40.0,Urea
+17.8,57.2,24.6,alluvial,sweet potato,60.0,80.0,41.8,10-26-26
+37.2,51.2,54.2,loamy,mango,60.0,69.6,30.0,DAP
+30.3,69.3,22.8,sandy,mango,60.0,40.0,30.0,DAP
+21.9,54.0,12.4,black,onion,104.5,132.2,51.7,No Fertilizer Needed
+23.1,22.2,35.2,red,rice,120.0,64.7,60.0,DAP
+29.0,71.4,38.3,loamy,coffee,129.7,74.9,40.0,No Fertilizer Needed
+27.2,52.8,42.5,clay,sorghum,88.8,129.4,40.0,DAP
+23.5,81.6,46.9,black,groundnut,117.3,150.5,40.0,No Fertilizer Needed
+25.8,68.5,51.0,black,mango,94.4,140.6,30.0,DAP
+34.8,21.3,21.3,red,rice,120.0,46.5,60.0,DAP
+26.0,65.8,20.0,loamy,pigeon peas,115.9,102.0,41.8,No Fertilizer Needed
+15.7,30.4,25.4,sandy,coffee,100.0,63.5,40.0,Urea
+26.2,86.8,26.4,sandy,wheat,100.0,40.0,50.0,Urea
+22.7,39.0,56.8,sandy,banana,100.0,200.0,40.0,10-26-26
+35.0,46.3,32.2,clay,chickpea,163.4,95.3,54.3,No Fertilizer Needed
+22.0,34.4,29.0,black,chickpea,134.5,86.6,40.0,No Fertilizer Needed
+25.5,31.4,20.5,alluvial,coffee,137.2,74.3,40.7,No Fertilizer Needed
+15.7,89.0,50.0,black,mango,86.8,78.1,30.0,No Fertilizer Needed
+10.2,76.2,30.0,clay,chickpea,178.8,158.9,40.0,No Fertilizer Needed
+38.4,65.6,21.5,black,maize,122.6,172.4,41.9,No Fertilizer Needed
+38.5,39.2,42.4,clay,pearl millet,106.6,80.5,30.0,No Fertilizer Needed
+13.8,30.9,44.8,clay,coffee,165.9,142.8,40.0,No Fertilizer Needed
+21.2,49.0,17.9,loamy,pigeon peas,57.5,107.4,42.1,No Fertilizer Needed
+21.0,84.7,49.3,sandy,pigeon peas,22.3,39.2,40.0,DAP
+28.7,22.0,11.3,loamy,grapes,60.0,90.1,40.0,DAP
+11.4,46.4,39.9,black,sugarcane,150.0,65.0,60.0,DAP
+22.6,24.6,58.4,clay,soybean,125.7,153.5,40.0,No Fertilizer Needed
+35.7,76.7,10.0,sandy,chickpea,42.4,32.6,40.0,DAP
+26.2,87.0,43.4,alluvial,mango,60.0,116.8,32.4,Urea
+13.8,56.0,50.3,sandy,coffee,100.0,60.0,40.0,Urea
+36.6,27.4,21.3,loamy,watermelon,80.0,60.0,40.0,Urea
+27.7,56.2,59.4,alluvial,chickpea,71.5,71.5,46.1,No Fertilizer Needed
+14.4,71.5,52.5,alluvial,grapes,118.4,98.9,42.7,No Fertilizer Needed
+10.4,64.4,51.8,sandy,tomato,100.0,100.0,50.0,10-26-26
+35.7,33.1,53.5,black,pearl millet,150.9,197.0,32.7,No Fertilizer Needed
+17.9,50.8,47.2,red,chickpea,75.7,54.3,40.0,No Fertilizer Needed
+20.2,81.0,48.6,loamy,potato,120.0,100.0,60.0,DAP
+11.9,45.6,42.1,loamy,sorghum,128.8,52.0,40.0,DAP
+13.6,69.9,16.3,clay,chickpea,109.9,114.7,41.4,No Fertilizer Needed
+15.5,77.4,54.3,red,maize,80.0,77.4,40.0,DAP
+32.0,44.8,40.0,sandy,rice,120.0,44.6,60.0,Urea
+26.2,68.6,59.9,loamy,sweet potato,60.0,86.0,40.0,DAP
+35.8,35.8,56.5,alluvial,beans,115.3,128.0,40.0,No Fertilizer Needed
+18.4,87.1,57.4,sandy,onion,90.0,64.7,40.0,Urea
+19.7,70.5,25.0,black,pearl millet,60.0,153.2,44.1,Urea
+28.4,87.1,13.0,alluvial,tomato,100.0,116.0,50.0,DAP
+33.6,65.2,29.5,black,soybean,69.3,72.5,48.8,No Fertilizer Needed
+36.8,28.6,47.0,sandy,groundnut,63.5,41.0,40.0,DAP
+32.8,20.8,15.9,loamy,pigeon peas,70.0,82.1,40.0,DAP
+29.8,40.9,16.2,sandy,pearl millet,60.0,30.0,30.0,DAP
+38.5,22.9,51.9,loamy,mango,65.0,66.9,32.8,No Fertilizer Needed
+30.7,75.6,47.9,alluvial,potato,120.0,131.8,60.0,DAP
+36.0,36.9,52.5,red,tea,120.0,80.0,40.0,Urea
+13.2,73.9,52.1,alluvial,wheat,116.9,99.6,50.0,No Fertilizer Needed
+30.0,37.6,27.8,black,mango,60.0,128.5,44.2,Urea
+16.6,50.4,23.3,black,coffee,153.7,128.9,48.5,No Fertilizer Needed
+21.3,56.3,56.3,red,tea,120.0,80.0,40.0,Urea
+27.3,28.2,48.2,clay,beans,111.7,154.2,51.3,No Fertilizer Needed
+31.5,22.8,42.4,black,onion,95.2,179.6,40.0,DAP
+34.4,64.0,48.9,black,wheat,119.3,139.5,50.0,DAP
+38.4,26.9,56.0,alluvial,rice,123.7,118.4,60.0,DAP
+34.6,44.1,58.7,loamy,groundnut,64.4,40.0,40.0,10-26-26
+39.7,38.4,49.7,alluvial,chickpea,65.9,91.3,41.8,No Fertilizer Needed
+22.0,44.4,50.8,alluvial,mango,127.9,72.0,44.7,No Fertilizer Needed
+32.2,78.5,21.4,red,tea,120.0,80.2,40.0,DAP
+19.4,54.8,19.3,black,beans,89.2,158.5,40.0,No Fertilizer Needed
+34.2,82.7,47.7,loamy,grapes,128.3,80.0,40.0,10-26-26
+37.3,69.0,38.0,loamy,coffee,110.1,64.8,40.0,DAP
+12.8,69.8,55.7,sandy,maize,80.0,30.0,40.0,Urea
+20.6,29.3,29.3,red,mango,88.5,90.7,31.6,No Fertilizer Needed
+27.1,25.8,60.0,red,banana,100.0,200.0,40.0,10-26-26
+10.8,35.7,44.8,loamy,pigeon peas,61.7,68.0,40.3,No Fertilizer Needed
+10.4,37.1,11.0,sandy,tomato,100.0,100.0,50.0,10-26-26
+15.8,33.0,35.9,red,sweet potato,60.0,92.4,40.0,DAP
+17.8,75.8,28.2,alluvial,watermelon,123.7,74.8,40.0,No Fertilizer Needed
+26.2,25.4,44.7,loamy,soybean,70.9,87.7,40.0,No Fertilizer Needed
+13.9,88.7,49.2,red,sweet potato,65.8,80.0,40.0,10-26-26
+31.6,70.2,42.2,sandy,tea,120.0,80.0,40.0,Urea
+23.8,50.7,39.6,clay,coffee,100.0,60.0,65.8,Urea
+29.5,82.7,33.8,red,chickpea,79.2,55.4,40.0,DAP
+17.6,82.8,11.4,red,groundnut,71.8,83.1,40.0,DAP
+16.5,51.6,36.9,black,sugarcane,150.0,139.9,60.0,DAP
+14.3,57.8,44.1,black,sorghum,82.0,145.3,40.0,DAP
+13.6,88.4,40.7,red,grapes,67.3,80.9,40.0,DAP
+33.2,89.3,51.8,red,soybean,33.5,80.7,40.0,No Fertilizer Needed
+12.8,48.2,45.0,clay,mango,155.5,95.4,57.2,No Fertilizer Needed
+35.4,32.8,25.6,sandy,pearl millet,60.0,32.3,30.0,Urea
+17.8,34.0,27.6,sandy,maize,80.0,41.3,40.0,DAP
+17.7,81.6,13.0,red,cotton,90.0,40.0,45.0,DAP
+10.4,42.9,25.3,red,rice,120.0,56.8,60.0,DAP
+15.7,63.5,19.1,sandy,maize,80.0,60.2,40.0,Urea
+21.2,32.4,32.0,red,sugarcane,150.0,65.7,60.0,Urea
+28.7,85.5,54.4,clay,chickpea,170.1,157.6,40.0,No Fertilizer Needed
+20.5,32.6,35.9,clay,banana,184.5,200.0,43.4,10-26-26
+38.1,85.0,37.4,loamy,tea,120.0,80.0,40.0,Urea
+20.2,45.6,22.0,clay,sweet potato,173.4,98.0,40.0,No Fertilizer Needed
+37.5,84.5,50.5,clay,grapes,185.8,146.9,52.8,No Fertilizer Needed
+12.7,65.8,55.6,red,cotton,90.0,66.7,45.0,DAP
+16.0,42.4,32.4,alluvial,sweet potato,64.8,80.4,47.6,No Fertilizer Needed
+12.5,21.7,15.2,black,onion,107.9,104.3,40.4,No Fertilizer Needed
+31.0,56.9,12.1,alluvial,banana,137.8,200.0,40.0,10-26-26
+15.2,42.0,12.4,red,coffee,100.0,60.0,40.0,Urea
+11.6,77.8,53.7,red,grapes,81.4,80.0,40.0,10-26-26
+31.0,83.7,14.9,alluvial,grapes,138.1,106.1,45.9,No Fertilizer Needed
+16.1,34.5,42.0,alluvial,maize,80.0,60.5,46.9,Urea
+10.1,36.8,50.7,loamy,cotton,116.8,109.0,45.0,No Fertilizer Needed
+37.5,48.1,17.8,loamy,soybean,95.9,54.4,40.0,No Fertilizer Needed
+27.1,80.5,41.3,alluvial,onion,90.0,108.3,45.4,Urea
+30.7,49.1,30.7,black,groundnut,78.2,173.3,51.3,No Fertilizer Needed
+28.0,63.9,29.8,loamy,pearl millet,104.6,84.7,30.0,No Fertilizer Needed
+29.1,28.1,55.1,clay,soybean,129.0,89.3,40.0,No Fertilizer Needed
+31.5,68.7,24.2,alluvial,groundnut,73.4,65.5,44.6,No Fertilizer Needed
+34.7,81.9,57.5,black,cotton,107.2,80.2,45.0,DAP
+24.4,27.8,11.9,black,wheat,100.0,156.6,50.0,DAP
+23.1,46.0,46.9,sandy,maize,80.0,50.8,40.0,Urea
+33.1,70.7,12.2,sandy,sorghum,80.0,59.7,40.0,Urea
+20.5,34.0,42.2,sandy,groundnut,38.6,40.0,40.0,DAP
+15.5,33.6,42.9,sandy,maize,80.0,30.0,40.0,Urea
+25.9,59.0,17.2,red,soybean,96.6,77.7,40.0,DAP
+26.0,63.3,18.5,red,onion,94.5,60.0,40.0,10-26-26
+17.0,46.7,38.1,alluvial,cotton,124.8,52.8,45.0,No Fertilizer Needed
+11.1,58.2,11.0,alluvial,soybean,125.8,93.4,40.0,No Fertilizer Needed
+30.6,47.1,55.5,loamy,watermelon,80.0,60.0,40.0,DAP
+24.4,82.9,32.7,black,beans,141.3,101.7,40.0,No Fertilizer Needed
+40.0,81.7,28.4,black,potato,120.0,100.0,60.0,Urea
+31.3,57.9,21.3,black,chickpea,91.2,110.6,49.0,No Fertilizer Needed
+36.5,52.2,32.6,black,watermelon,149.0,108.6,40.0,No Fertilizer Needed
+14.0,57.1,22.3,black,pigeon peas,123.8,191.0,40.0,No Fertilizer Needed
+20.9,52.4,53.1,red,pigeon peas,85.0,52.2,40.0,No Fertilizer Needed
+24.1,58.0,32.6,sandy,watermelon,80.0,60.2,40.0,DAP
+16.0,43.6,54.5,clay,onion,152.1,101.1,63.2,No Fertilizer Needed
+30.8,47.0,43.3,clay,chickpea,99.9,115.9,54.6,No Fertilizer Needed
+22.1,74.7,19.9,alluvial,sugarcane,150.0,120.1,60.0,Urea
+19.5,85.3,40.6,black,sugarcane,150.0,154.3,60.0,Urea
+10.6,84.4,53.5,clay,maize,107.8,157.3,40.0,DAP
+32.3,87.1,25.4,sandy,grapes,60.0,80.0,40.0,10-26-26
+20.2,32.3,25.2,black,chickpea,133.2,181.9,40.0,No Fertilizer Needed
+13.6,83.7,30.5,black,potato,120.0,157.5,60.0,DAP
+35.4,37.5,15.7,alluvial,groundnut,137.7,50.7,46.4,No Fertilizer Needed
+36.4,53.1,33.8,sandy,wheat,100.0,65.4,50.0,DAP
+27.5,32.7,54.7,black,grapes,150.9,139.5,53.0,No Fertilizer Needed
+36.6,24.8,16.7,clay,mango,103.5,69.3,38.7,No Fertilizer Needed
+38.8,42.4,45.6,sandy,pigeon peas,63.7,48.1,40.0,DAP
+28.7,61.3,59.6,clay,pearl millet,112.3,110.3,32.4,No Fertilizer Needed
+24.7,83.4,12.6,clay,sorghum,95.2,103.0,40.0,DAP
+11.2,72.5,48.0,loamy,onion,90.0,76.3,40.0,DAP
+10.3,60.2,25.1,red,sugarcane,150.0,60.0,60.0,Urea
+30.9,43.5,50.2,loamy,pigeon peas,118.8,65.5,40.0,No Fertilizer Needed
+38.3,70.3,37.6,sandy,mango,60.0,62.1,30.0,DAP
+34.2,83.9,53.1,clay,pigeon peas,183.9,67.0,40.0,No Fertilizer Needed
+12.2,46.1,17.7,sandy,cotton,90.0,59.9,45.0,DAP
+10.4,76.5,53.5,alluvial,rice,120.0,98.4,60.0,DAP
+36.2,75.0,15.3,alluvial,chickpea,57.4,60.0,40.0,No Fertilizer Needed
+12.8,86.6,10.2,sandy,maize,80.0,30.0,40.0,DAP
+19.6,57.1,33.8,black,maize,80.0,144.7,54.5,Urea
+18.6,67.3,53.3,black,potato,120.0,100.0,60.0,Urea
+17.9,81.5,38.8,sandy,potato,120.0,100.0,60.0,Urea
+35.5,72.9,21.4,sandy,tomato,100.0,100.0,50.0,10-26-26
+29.2,35.3,22.5,red,onion,90.0,60.0,40.0,10-26-26
+18.4,31.3,13.1,loamy,pigeon peas,86.5,39.5,41.1,No Fertilizer Needed
+30.2,82.9,32.3,clay,onion,194.9,88.3,51.4,No Fertilizer Needed
+30.4,67.5,13.3,alluvial,grapes,71.1,82.6,44.1,No Fertilizer Needed
+25.0,73.4,25.7,loamy,pearl millet,131.9,79.0,30.0,No Fertilizer Needed
+20.6,52.5,33.1,alluvial,wheat,135.5,129.5,50.0,No Fertilizer Needed
+23.6,29.9,47.5,black,chickpea,93.1,81.8,40.0,No Fertilizer Needed
+39.7,64.3,30.0,black,mango,60.0,152.3,47.2,Urea
+27.8,32.9,14.7,sandy,potato,120.0,100.0,60.0,Urea
+21.8,41.2,57.8,black,rice,120.0,128.7,60.0,DAP
+23.1,79.6,34.4,black,pearl millet,118.9,77.3,30.8,No Fertilizer Needed
+24.3,40.3,21.8,alluvial,mango,137.5,79.5,42.9,No Fertilizer Needed
+28.9,43.7,25.5,loamy,rice,120.0,79.9,60.0,DAP
+20.2,46.1,44.4,loamy,sorghum,80.0,70.5,40.0,Urea
+21.1,37.2,57.2,black,rice,121.3,184.8,60.0,DAP
+33.6,58.8,38.9,black,beans,83.8,80.2,40.0,No Fertilizer Needed
+27.2,83.8,45.4,alluvial,mango,104.9,64.4,43.2,No Fertilizer Needed
+36.7,41.9,54.0,black,coffee,100.0,106.4,40.0,DAP
+23.9,83.0,57.4,black,sorghum,125.4,115.6,40.0,DAP
+31.4,45.5,48.9,loamy,tomato,100.0,100.0,50.0,10-26-26
+24.5,30.2,23.6,red,grapes,60.0,80.0,40.0,10-26-26
+34.7,65.2,57.9,sandy,sweet potato,60.0,80.0,40.0,DAP
+34.0,39.8,49.5,red,tomato,100.0,100.0,50.0,10-26-26
+14.3,21.8,42.6,sandy,groundnut,55.3,41.9,40.0,DAP
+28.8,58.9,39.7,black,sugarcane,150.0,99.9,60.0,DAP
+31.2,51.7,18.1,sandy,groundnut,26.8,40.0,40.0,10-26-26
+24.3,29.9,51.6,red,mango,60.0,60.8,30.0,DAP
+15.3,62.9,48.0,black,mango,116.6,165.1,30.0,No Fertilizer Needed
+11.7,70.2,16.6,red,wheat,100.0,41.7,50.0,Urea
+38.2,36.5,47.7,sandy,sorghum,80.0,39.6,40.0,DAP
+22.0,24.4,30.8,black,maize,131.9,137.0,43.5,No Fertilizer Needed
+23.5,28.1,55.6,sandy,maize,80.0,50.0,40.0,Urea
+11.6,79.0,21.3,clay,sweet potato,68.7,80.0,40.0,DAP
+25.0,42.6,47.8,sandy,sugarcane,150.0,60.0,60.0,Urea
+30.1,68.8,37.5,clay,pearl millet,68.4,76.0,47.5,No Fertilizer Needed
+10.2,69.1,39.1,black,coffee,100.0,85.2,51.2,Urea
+26.1,84.1,47.2,sandy,tomato,100.0,100.0,50.0,Urea
+32.6,37.9,19.8,sandy,potato,120.0,100.0,60.0,DAP
+23.4,87.7,43.6,clay,chickpea,167.0,65.2,40.0,No Fertilizer Needed
+32.3,81.2,20.0,clay,watermelon,140.0,146.2,54.6,No Fertilizer Needed
+36.6,77.3,28.0,sandy,pigeon peas,23.4,46.5,40.0,DAP
+25.3,41.7,20.8,sandy,groundnut,29.1,43.5,40.0,DAP
+19.8,88.9,40.1,alluvial,watermelon,80.0,92.5,40.0,Urea
+35.7,37.4,40.8,alluvial,banana,131.7,200.0,44.5,10-26-26
+37.9,41.2,29.1,loamy,rice,120.0,40.0,60.0,DAP
+15.7,49.6,53.8,alluvial,tomato,100.0,100.0,50.0,10-26-26
+19.1,38.4,56.5,clay,wheat,182.8,75.5,57.0,No Fertilizer Needed
+38.6,75.5,54.0,alluvial,beans,136.4,52.1,40.0,No Fertilizer Needed
+36.1,60.6,37.9,black,soybean,77.4,127.8,43.9,No Fertilizer Needed
+12.0,67.5,11.5,sandy,sugarcane,150.0,60.0,60.0,Urea
+36.9,66.0,58.0,red,rice,120.0,80.0,60.0,DAP
+10.7,39.0,53.6,loamy,tomato,100.0,100.0,50.0,10-26-26
+36.2,78.5,31.8,clay,beans,191.5,78.5,43.0,No Fertilizer Needed
+20.9,61.9,32.8,loamy,wheat,100.0,84.4,50.0,DAP
+26.5,30.2,46.8,alluvial,grapes,79.3,80.0,40.0,DAP
+33.0,30.3,43.6,loamy,chickpea,122.0,65.6,40.0,No Fertilizer Needed
+28.1,81.9,26.6,clay,onion,111.4,137.3,42.0,No Fertilizer Needed
+36.7,44.0,55.9,sandy,pigeon peas,65.2,36.4,40.0,DAP
+14.8,75.9,17.0,alluvial,beans,125.1,104.4,40.0,No Fertilizer Needed
+36.4,89.3,37.2,black,maize,103.6,97.4,40.0,No Fertilizer Needed
+38.3,71.8,44.2,alluvial,sweet potato,122.3,80.0,40.0,No Fertilizer Needed
+38.1,56.6,51.0,red,grapes,60.0,80.0,40.0,10-26-26
+29.2,51.8,51.7,sandy,cotton,90.0,40.0,45.0,DAP
+24.9,84.1,44.7,clay,sorghum,104.4,86.6,55.0,No Fertilizer Needed
+29.1,86.6,19.6,red,tomato,100.0,100.0,50.0,Urea
+12.0,51.7,15.9,clay,pigeon peas,190.6,53.7,50.8,No Fertilizer Needed
+20.3,46.2,25.2,loamy,tea,120.0,82.6,41.6,Urea
+30.4,88.4,35.0,clay,coffee,110.5,105.8,40.0,DAP
+33.1,49.6,39.4,red,watermelon,90.9,77.7,40.0,No Fertilizer Needed
+11.2,54.1,55.3,black,rice,120.0,74.2,60.0,DAP
+23.6,72.4,22.1,clay,beans,195.8,87.4,40.0,No Fertilizer Needed
+28.4,26.6,44.2,sandy,chickpea,47.7,30.0,40.0,10-26-26
+12.1,32.7,23.7,black,sorghum,108.3,135.3,47.5,No Fertilizer Needed
+27.6,68.9,34.6,loamy,wheat,123.2,47.2,50.0,DAP
+19.9,27.7,17.7,red,banana,100.0,200.0,40.0,10-26-26
+33.3,76.5,55.3,black,rice,130.1,87.7,60.0,DAP
+27.5,54.5,45.7,alluvial,mango,124.3,52.4,47.7,No Fertilizer Needed
+14.0,88.5,40.3,sandy,potato,120.0,100.0,60.0,Urea
+31.3,82.8,28.4,clay,onion,136.4,60.0,40.0,No Fertilizer Needed
+31.1,24.7,14.4,red,onion,90.8,63.5,40.0,DAP
+37.2,81.3,16.1,sandy,sorghum,80.0,50.9,40.0,Urea
+39.9,46.1,23.2,alluvial,chickpea,52.0,58.7,42.4,No Fertilizer Needed
+26.8,36.3,17.4,clay,onion,90.0,60.0,52.6,Urea
+33.6,27.9,43.3,red,wheat,100.0,90.9,50.0,DAP
+37.6,80.2,50.1,loamy,sugarcane,150.0,70.9,60.0,Urea
+21.6,64.3,37.1,sandy,cotton,90.0,40.0,45.0,DAP
+35.8,24.8,35.7,sandy,sorghum,80.0,32.1,40.0,DAP
+20.9,35.8,23.1,alluvial,onion,90.0,120.4,40.0,Urea
+15.8,70.9,28.7,clay,watermelon,123.7,77.8,58.6,No Fertilizer Needed
+28.4,75.3,54.4,black,sugarcane,150.0,84.2,60.0,Urea
+18.6,74.1,31.6,red,tea,120.0,80.0,40.0,Urea
+11.2,39.4,24.0,alluvial,sugarcane,150.0,72.7,60.0,Urea
+19.8,41.6,57.4,red,sweet potato,66.0,90.3,40.0,DAP
+26.8,67.8,40.0,alluvial,coffee,122.1,72.3,40.0,DAP
+26.0,63.1,13.1,loamy,pearl millet,98.6,100.6,42.0,No Fertilizer Needed
+16.8,84.9,26.2,red,tea,120.0,97.1,40.0,Urea
+25.5,48.8,23.2,loamy,tomato,100.0,100.0,50.0,DAP
+18.9,68.1,28.1,alluvial,sugarcane,150.0,113.8,60.0,DAP
+15.2,70.7,53.8,red,coffee,100.0,84.8,40.0,DAP
+36.6,76.7,28.7,sandy,mango,60.0,63.0,30.0,Urea
+20.2,37.8,13.6,red,chickpea,39.9,68.7,40.0,DAP
+12.0,76.8,22.7,clay,watermelon,129.8,114.4,63.1,No Fertilizer Needed
+27.0,33.9,12.5,red,groundnut,60.4,71.7,40.0,No Fertilizer Needed
+21.6,28.4,19.1,black,pearl millet,86.9,70.4,47.5,No Fertilizer Needed
+13.2,57.5,16.4,loamy,maize,80.0,66.7,40.0,Urea
+27.0,20.7,26.9,alluvial,wheat,106.4,80.7,50.0,DAP
+28.5,59.9,23.3,sandy,soybean,45.9,40.0,40.0,10-26-26
+19.5,35.4,50.3,red,sweet potato,87.2,80.0,40.0,DAP
+27.1,63.0,58.7,clay,potato,172.3,100.0,60.0,10-26-26
+17.3,62.7,54.6,sandy,onion,90.0,60.0,40.0,10-26-26
+23.1,80.3,52.5,loamy,pigeon peas,82.2,98.5,40.0,No Fertilizer Needed
+23.3,30.5,54.4,alluvial,onion,128.4,60.0,41.1,10-26-26
+36.5,54.4,49.5,sandy,groundnut,44.6,43.5,40.0,DAP
+35.1,62.5,28.6,black,tea,122.9,157.4,40.0,No Fertilizer Needed
+33.6,34.5,25.7,sandy,watermelon,80.0,60.0,40.0,DAP
+28.0,52.9,11.2,black,soybean,147.2,157.2,40.0,No Fertilizer Needed
+34.0,47.2,27.3,alluvial,chickpea,82.6,107.2,40.0,No Fertilizer Needed
+23.1,44.4,23.5,clay,onion,186.1,70.3,40.0,No Fertilizer Needed
+29.4,61.9,50.5,red,soybean,88.6,56.1,40.0,No Fertilizer Needed
+31.2,31.1,40.8,clay,soybean,137.6,111.6,40.0,No Fertilizer Needed
+14.5,29.9,31.8,black,groundnut,140.5,118.3,40.0,No Fertilizer Needed
+12.0,81.0,41.0,red,potato,120.0,100.0,60.0,Urea
+26.4,85.9,54.7,loamy,potato,120.0,100.0,60.0,Urea
+33.2,38.8,49.2,clay,maize,135.1,114.8,56.1,No Fertilizer Needed
+15.4,57.4,19.3,alluvial,grapes,122.2,80.0,40.0,10-26-26
+34.4,55.1,54.7,red,groundnut,58.1,63.2,40.0,DAP
+35.9,78.4,38.7,sandy,sugarcane,150.0,60.0,60.0,Urea
+17.4,64.8,47.7,alluvial,cotton,90.0,42.1,45.0,Urea
+34.0,67.4,29.8,red,chickpea,68.0,66.9,40.0,DAP
+20.6,62.4,45.9,red,beans,82.1,66.8,40.0,No Fertilizer Needed
+25.1,55.0,50.2,sandy,onion,90.0,60.0,40.0,Urea
+28.1,48.9,28.8,clay,banana,113.4,200.0,40.0,10-26-26
+23.1,64.7,17.4,sandy,rice,120.0,54.7,60.0,Urea
+21.9,30.0,55.0,loamy,beans,123.3,64.9,40.0,No Fertilizer Needed
+36.5,52.4,30.8,loamy,chickpea,46.6,102.3,42.4,No Fertilizer Needed
+21.2,44.5,55.5,loamy,cotton,121.8,40.9,45.0,No Fertilizer Needed
+34.6,58.6,12.0,loamy,banana,130.3,200.0,40.0,10-26-26
+19.3,55.5,10.6,sandy,mango,60.0,46.3,30.0,Urea
+25.3,64.1,28.6,clay,wheat,123.5,121.5,50.0,DAP
+19.8,45.8,50.1,red,grapes,71.0,82.7,40.0,DAP
+11.1,74.6,46.4,red,onion,90.0,96.8,40.0,DAP
+29.8,50.8,46.1,loamy,watermelon,80.0,103.6,40.0,DAP
+21.5,47.6,12.1,red,maize,80.0,44.6,40.0,Urea
+22.5,77.8,17.6,sandy,coffee,100.0,62.2,40.0,Urea
+14.9,22.6,46.4,clay,rice,169.2,155.5,60.0,DAP
+24.8,25.6,33.0,alluvial,potato,133.2,130.2,60.0,DAP
+27.3,58.4,55.1,loamy,pearl millet,108.8,59.5,32.9,No Fertilizer Needed
+30.5,70.2,36.0,alluvial,sugarcane,150.0,122.7,60.0,Urea
+23.0,39.1,57.0,clay,soybean,103.6,164.0,64.8,No Fertilizer Needed
+19.0,80.4,15.3,red,wheat,100.0,84.4,50.0,Urea
+37.2,84.8,44.9,black,soybean,102.1,117.0,40.0,No Fertilizer Needed
+19.0,37.0,41.2,loamy,coffee,127.4,93.1,40.0,No Fertilizer Needed
+22.2,50.3,30.7,black,wheat,151.7,113.0,50.0,DAP
+24.6,89.8,56.4,sandy,banana,100.0,200.0,40.0,10-26-26
+17.3,76.3,26.8,loamy,soybean,95.8,99.0,40.0,No Fertilizer Needed
+12.5,71.6,17.5,clay,cotton,120.9,157.6,61.3,No Fertilizer Needed
+39.8,20.1,18.9,sandy,beans,27.0,40.0,40.0,DAP
+20.7,60.0,12.0,alluvial,pigeon peas,132.6,45.5,40.0,No Fertilizer Needed
+39.6,63.0,51.1,clay,coffee,100.0,96.5,40.0,DAP
+18.0,40.4,51.8,clay,pearl millet,72.7,68.1,48.6,No Fertilizer Needed
+35.6,31.0,48.8,red,chickpea,66.3,46.6,40.0,DAP
+21.8,43.7,18.1,clay,banana,126.8,200.0,41.4,10-26-26
+29.6,77.0,30.9,loamy,banana,125.7,200.0,40.0,10-26-26
+16.3,52.3,45.2,loamy,pigeon peas,45.3,100.6,40.0,DAP
+39.9,28.8,46.1,clay,sugarcane,150.0,88.5,60.0,Urea
+24.4,48.7,56.5,alluvial,soybean,110.7,107.6,40.0,No Fertilizer Needed
+16.3,53.1,11.7,alluvial,banana,100.0,200.0,40.0,10-26-26
+21.7,76.9,33.2,loamy,wheat,129.0,99.7,50.0,DAP
+34.5,72.2,45.4,sandy,chickpea,50.6,54.8,40.0,DAP
+36.1,31.5,22.5,clay,potato,120.0,100.0,60.4,Urea
+17.2,62.3,57.9,sandy,wheat,100.0,40.0,50.0,DAP
+20.8,44.0,40.7,alluvial,rice,120.0,111.4,60.0,DAP
+16.3,43.3,42.9,sandy,sorghum,80.0,44.9,40.0,DAP
+28.4,62.9,31.7,red,sorghum,95.6,62.2,40.0,DAP
+18.7,89.8,32.8,red,coffee,100.0,71.3,40.0,Urea
+34.9,49.2,33.2,black,maize,141.9,187.6,40.0,No Fertilizer Needed
+23.5,41.0,42.6,sandy,coffee,100.0,61.7,40.0,Urea
+18.0,57.2,12.0,black,groundnut,149.0,116.6,40.0,No Fertilizer Needed
+38.8,76.2,23.7,clay,onion,172.9,99.4,45.6,No Fertilizer Needed
+33.8,64.8,25.3,alluvial,sorghum,104.0,131.0,40.0,DAP
+29.8,40.1,15.8,red,tomato,100.0,100.0,50.0,Urea
+26.4,34.0,44.3,sandy,mango,60.0,63.6,30.0,Urea
+13.9,72.5,22.9,clay,rice,151.8,99.3,60.0,No Fertilizer Needed
+31.9,45.3,48.3,sandy,onion,90.0,60.0,40.0,Urea
+12.3,30.9,16.1,clay,beans,189.5,59.9,63.9,No Fertilizer Needed
+13.4,51.6,16.1,sandy,groundnut,55.5,41.9,40.0,DAP
+30.0,39.5,14.2,black,cotton,131.8,115.4,45.0,DAP
+38.3,70.8,55.5,red,tomato,100.0,100.0,50.0,Urea
+14.4,31.2,50.8,sandy,maize,80.0,62.6,40.0,DAP
+10.9,79.7,49.6,loamy,beans,80.9,93.2,40.0,No Fertilizer Needed
+15.0,63.5,34.2,sandy,watermelon,80.0,64.9,40.0,Urea
+38.0,74.7,37.9,alluvial,soybean,90.1,75.2,40.0,No Fertilizer Needed
+23.6,20.3,27.8,clay,wheat,196.3,125.5,63.0,No Fertilizer Needed
+35.1,87.9,53.1,alluvial,onion,90.0,95.5,44.2,Urea
+27.8,53.1,37.7,clay,sweet potato,137.5,80.0,55.3,No Fertilizer Needed
+19.5,41.8,51.1,alluvial,wheat,100.0,46.9,50.0,Urea
+38.9,29.6,22.9,alluvial,banana,100.0,200.0,40.0,10-26-26
+39.3,45.5,34.9,clay,onion,162.7,60.0,40.0,No Fertilizer Needed
+15.5,26.5,16.9,loamy,banana,100.0,200.0,40.0,10-26-26
+39.2,73.8,25.9,clay,cotton,90.0,118.0,46.9,Urea
+11.5,41.8,48.0,sandy,maize,80.0,30.0,40.0,Urea
+36.1,58.2,55.3,red,sweet potato,75.9,80.0,40.0,10-26-26
+37.6,49.4,42.9,loamy,wheat,100.0,40.2,50.0,DAP
+13.2,53.4,33.5,clay,coffee,111.8,82.2,45.4,No Fertilizer Needed
+36.9,37.3,26.7,red,coffee,100.0,78.8,40.0,Urea
+34.4,52.9,46.4,alluvial,cotton,90.0,116.0,45.0,Urea
+17.2,48.6,44.1,red,pigeon peas,90.6,80.8,40.0,No Fertilizer Needed
+26.4,24.2,20.6,black,tomato,119.0,134.3,50.0,DAP
+22.1,61.4,55.5,sandy,grapes,60.0,80.0,40.0,DAP
+22.6,65.4,34.9,alluvial,cotton,140.8,59.2,45.0,No Fertilizer Needed
+13.8,32.9,42.0,alluvial,groundnut,57.2,53.9,40.0,No Fertilizer Needed
+39.9,72.1,46.6,sandy,wheat,100.0,40.0,50.0,DAP
+10.1,34.7,15.5,red,cotton,90.0,54.5,45.0,DAP
+14.4,65.4,16.2,sandy,chickpea,37.6,38.0,40.0,DAP
+18.3,66.4,52.9,alluvial,sorghum,80.0,58.9,40.0,Urea
+17.3,54.2,23.7,alluvial,pigeon peas,50.3,83.7,40.0,DAP
+32.4,56.7,20.2,clay,wheat,100.0,84.4,50.0,DAP
+33.1,53.1,48.1,black,potato,120.0,103.9,60.0,Urea
+16.0,80.5,52.0,black,soybean,150.2,127.8,40.0,No Fertilizer Needed
+10.5,36.4,34.3,sandy,chickpea,30.8,43.9,40.0,DAP
+18.0,46.0,22.7,clay,sugarcane,150.0,110.6,60.0,Urea
+22.1,24.4,57.9,alluvial,banana,100.0,200.0,46.1,10-26-26
+37.9,79.9,38.7,alluvial,soybean,135.6,98.5,46.9,No Fertilizer Needed
+14.5,21.4,48.4,clay,sorghum,166.9,90.9,40.0,No Fertilizer Needed
+15.6,71.3,46.0,sandy,pearl millet,60.0,33.2,30.0,Urea
+22.1,78.9,40.1,alluvial,tomato,100.5,100.0,50.0,DAP
+19.7,80.0,27.8,sandy,tomato,100.0,100.0,50.0,10-26-26
+10.5,25.3,38.3,red,onion,90.0,60.0,40.0,Urea
+26.0,71.7,15.1,black,chickpea,152.9,160.0,40.0,No Fertilizer Needed
+16.4,46.0,11.8,alluvial,soybean,46.6,52.8,40.0,No Fertilizer Needed
+27.7,51.5,20.5,alluvial,groundnut,78.7,52.7,40.0,No Fertilizer Needed
+26.1,64.0,48.0,red,groundnut,34.5,68.0,40.0,DAP
+31.9,84.8,34.5,alluvial,pigeon peas,142.2,121.9,42.6,No Fertilizer Needed
+25.1,36.1,38.8,clay,cotton,90.0,157.6,52.3,Urea
+30.9,21.9,14.9,red,chickpea,73.8,50.1,40.0,DAP
+17.0,23.2,19.0,sandy,potato,120.0,100.0,60.0,10-26-26
+23.5,63.3,11.6,alluvial,wheat,116.3,75.0,50.0,DAP
+23.0,68.2,51.7,alluvial,banana,100.0,200.0,40.0,10-26-26
+15.3,79.0,31.0,red,wheat,100.0,40.0,50.0,Urea
+23.0,69.0,18.3,clay,onion,159.3,151.9,53.1,No Fertilizer Needed
+37.0,84.2,59.2,red,sorghum,91.3,98.8,40.0,DAP
+27.0,86.8,31.2,alluvial,sweet potato,105.1,80.0,42.6,No Fertilizer Needed
+16.4,71.3,48.6,red,groundnut,32.9,56.8,40.0,DAP
+37.8,81.2,15.8,black,sweet potato,121.9,94.0,51.3,No Fertilizer Needed
+26.8,47.6,42.5,clay,sweet potato,159.2,80.0,57.8,No Fertilizer Needed
+36.3,75.9,22.0,red,potato,120.0,100.0,60.0,Urea
+26.2,25.8,36.3,sandy,maize,80.0,45.7,40.0,Urea
+22.8,79.5,20.3,clay,potato,171.4,124.1,60.0,DAP
+28.7,25.0,46.0,sandy,sorghum,80.0,35.5,40.0,Urea
+18.3,79.3,11.5,alluvial,potato,120.1,111.8,60.0,DAP
+10.9,42.6,47.9,alluvial,rice,124.3,49.4,60.0,DAP
+38.6,26.9,49.2,black,tomato,105.6,169.3,50.0,DAP
+31.6,89.2,25.6,clay,tea,153.7,109.2,56.8,No Fertilizer Needed
+17.8,26.0,50.6,loamy,banana,100.0,200.0,40.0,10-26-26
+37.3,25.4,18.8,red,pearl millet,83.0,84.7,30.0,No Fertilizer Needed
+24.1,55.5,33.4,black,mango,60.0,152.4,30.0,DAP
+20.4,43.9,28.1,black,soybean,103.2,117.7,40.0,No Fertilizer Needed
+17.1,30.4,23.5,clay,coffee,100.0,126.9,40.0,DAP
+34.6,75.0,28.8,loamy,grapes,60.0,81.9,40.0,Urea
+16.2,48.7,52.8,black,wheat,107.6,169.2,50.0,DAP
+33.4,86.7,52.8,red,rice,120.0,40.0,60.0,DAP
+36.0,37.7,36.4,clay,wheat,183.2,135.6,62.2,No Fertilizer Needed
+32.0,87.4,42.2,alluvial,groundnut,98.9,121.2,40.0,No Fertilizer Needed
+15.8,70.3,19.4,red,soybean,75.2,47.9,40.0,DAP
+14.2,48.0,43.9,clay,pigeon peas,161.0,125.1,44.5,No Fertilizer Needed
+19.2,40.8,11.0,alluvial,pigeon peas,131.2,53.7,41.3,No Fertilizer Needed
+16.4,41.7,48.9,black,sorghum,80.0,174.0,50.3,Urea
+21.7,44.8,47.5,alluvial,banana,119.4,200.0,45.0,10-26-26
+31.6,45.8,37.2,sandy,watermelon,80.0,60.0,40.0,Urea
+12.5,46.4,30.6,alluvial,rice,120.0,93.8,60.0,DAP
+37.5,21.6,21.3,red,sorghum,80.0,78.6,40.0,Urea
+34.9,39.3,46.3,sandy,sorghum,80.0,52.4,40.0,Urea
+20.2,40.3,42.0,alluvial,pigeon peas,142.3,60.4,40.0,No Fertilizer Needed
+39.1,77.7,19.7,sandy,tomato,100.0,100.0,50.0,Urea
+31.9,76.5,50.3,black,cotton,90.0,124.4,45.0,Urea
+36.4,28.7,12.4,alluvial,chickpea,140.6,50.2,40.0,No Fertilizer Needed
+24.8,29.4,42.2,sandy,pigeon peas,66.0,39.3,40.0,DAP
+12.3,25.9,47.5,alluvial,wheat,119.7,128.6,50.0,DAP
+23.9,55.0,30.4,clay,watermelon,137.6,152.8,59.9,No Fertilizer Needed
+16.3,21.9,50.5,sandy,rice,120.0,40.0,60.0,DAP
+35.1,56.7,10.7,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+31.9,77.6,39.8,loamy,pearl millet,128.4,103.8,41.2,No Fertilizer Needed
+16.4,45.8,49.6,alluvial,tea,120.0,80.0,40.0,Urea
+36.1,64.8,38.8,clay,maize,80.0,78.5,40.0,DAP
+20.3,21.8,17.0,black,sorghum,153.7,173.0,40.0,No Fertilizer Needed
+28.2,55.4,13.7,sandy,potato,120.0,100.0,60.0,Urea
+38.0,68.7,52.9,loamy,maize,80.0,65.5,40.0,DAP
+28.9,74.5,26.9,loamy,wheat,100.0,67.7,50.0,DAP
+30.8,28.2,16.4,red,wheat,100.0,40.0,50.0,DAP
+25.6,34.2,29.5,clay,tomato,182.4,150.5,50.0,No Fertilizer Needed
+14.6,51.9,26.0,black,rice,127.2,86.7,60.0,DAP
+36.9,44.9,50.9,loamy,tomato,100.0,100.0,50.0,DAP
+35.4,49.7,38.1,alluvial,pearl millet,133.5,130.6,36.7,No Fertilizer Needed
+32.5,22.8,22.1,loamy,groundnut,122.7,74.6,40.0,No Fertilizer Needed
+20.3,36.6,53.1,sandy,chickpea,62.1,44.8,40.0,DAP
+16.4,65.2,40.7,clay,onion,90.0,94.2,40.0,DAP
+34.7,55.5,59.7,red,rice,120.0,51.0,60.0,DAP
+38.0,70.0,32.7,sandy,coffee,100.0,60.0,40.0,Urea
+27.2,86.0,31.0,alluvial,tea,120.0,120.3,43.0,Urea
+34.9,64.9,48.0,loamy,pigeon peas,109.1,92.1,40.0,No Fertilizer Needed
+36.7,40.7,36.8,clay,chickpea,112.4,159.6,40.0,No Fertilizer Needed
+19.9,27.2,11.1,sandy,soybean,43.5,48.8,40.0,DAP
+36.7,27.6,52.0,sandy,tomato,100.0,100.0,50.0,10-26-26
+26.9,87.2,12.7,black,onion,114.3,138.3,40.0,DAP
+29.2,52.0,30.9,black,sugarcane,150.0,86.5,60.0,DAP
+26.8,89.6,21.4,loamy,tomato,100.0,100.0,50.0,DAP
+17.3,86.5,16.9,alluvial,grapes,133.0,117.2,41.3,No Fertilizer Needed
+36.9,87.2,54.4,clay,banana,100.0,200.0,40.0,10-26-26
+20.2,58.4,52.4,black,tea,120.0,111.4,40.0,Urea
+23.0,38.6,49.2,sandy,pigeon peas,38.2,39.3,40.0,DAP
+10.4,53.7,31.3,sandy,maize,80.0,30.0,40.0,DAP
+19.4,43.6,56.2,red,tomato,100.0,100.0,50.0,Urea
+14.5,61.1,48.7,red,watermelon,88.9,92.2,40.0,DAP
+24.4,35.7,10.3,sandy,rice,120.0,40.0,60.0,DAP
+40.0,28.2,59.0,clay,watermelon,115.3,61.6,40.0,No Fertilizer Needed
+20.0,87.9,52.7,red,tomato,100.0,100.0,50.0,Urea
+18.4,40.5,40.3,alluvial,tea,129.1,82.8,40.0,DAP
+25.7,81.0,57.5,alluvial,potato,120.0,100.0,60.0,10-26-26
+29.1,38.9,54.8,sandy,grapes,60.0,80.0,40.0,10-26-26
+38.3,82.0,46.3,alluvial,wheat,119.9,53.7,50.0,DAP
+10.6,75.9,47.3,loamy,sugarcane,150.0,70.6,60.0,Urea
+39.5,59.6,56.6,clay,watermelon,80.0,60.0,56.0,Urea
+26.0,24.7,19.8,alluvial,sorghum,80.0,126.4,40.0,DAP
+31.4,32.0,27.2,loamy,mango,128.5,75.9,30.0,No Fertilizer Needed
+10.3,79.5,55.0,black,maize,80.0,144.4,40.0,DAP
+13.4,72.5,21.9,black,rice,120.0,80.9,60.0,DAP
+27.2,44.1,16.1,red,pearl millet,60.0,76.6,30.0,DAP
+17.9,23.4,58.1,loamy,banana,119.8,200.0,40.0,10-26-26
+25.3,88.1,14.7,loamy,watermelon,80.0,60.0,43.8,Urea
+17.5,27.1,33.5,alluvial,tomato,100.0,100.0,50.0,DAP
+25.4,84.1,13.8,alluvial,pearl millet,126.8,121.0,37.3,No Fertilizer Needed
+34.8,27.2,19.7,red,coffee,100.0,60.0,40.0,Urea
+32.0,54.4,46.6,loamy,sweet potato,96.6,80.0,40.0,10-26-26
+17.3,28.0,35.8,red,soybean,68.2,59.1,40.0,No Fertilizer Needed
+27.2,51.5,46.9,sandy,mango,60.0,45.5,30.0,Urea
+22.1,84.9,15.9,black,beans,99.2,179.2,40.0,No Fertilizer Needed
+37.0,56.3,50.4,sandy,pearl millet,60.0,55.4,30.0,DAP
+14.3,66.1,18.5,red,watermelon,80.0,77.0,40.0,Urea
+30.4,66.2,10.7,black,maize,84.2,189.5,54.6,No Fertilizer Needed
+22.1,30.5,13.6,loamy,pigeon peas,100.6,40.5,42.1,No Fertilizer Needed
+19.8,47.9,32.8,sandy,coffee,100.0,60.0,40.0,Urea
+17.1,63.6,37.1,loamy,pigeon peas,112.5,106.5,40.0,No Fertilizer Needed
+35.5,75.9,57.6,clay,sugarcane,156.4,147.2,60.0,DAP
+27.9,68.4,35.4,alluvial,onion,90.0,121.4,40.0,DAP
+28.3,58.7,13.3,alluvial,mango,60.0,98.3,30.0,Urea
+38.9,72.6,11.8,black,sorghum,117.8,187.7,40.0,DAP
+22.0,47.3,19.8,red,soybean,83.4,40.0,40.0,No Fertilizer Needed
+18.2,74.6,58.2,black,tea,120.0,194.4,41.0,Urea
+26.0,46.9,17.5,red,pearl millet,73.6,65.6,36.3,No Fertilizer Needed
+19.6,60.4,34.7,sandy,sugarcane,150.0,60.0,60.0,Urea
+10.0,65.0,44.1,red,pigeon peas,85.0,78.4,40.0,No Fertilizer Needed
+36.8,45.2,59.7,alluvial,rice,120.0,103.7,60.0,DAP
+10.9,28.7,24.0,clay,coffee,136.1,91.0,56.0,No Fertilizer Needed
+17.5,85.4,29.7,loamy,grapes,95.4,80.0,40.0,10-26-26
+15.6,37.3,57.6,loamy,tea,120.0,98.5,40.0,Urea
+36.0,33.6,58.0,sandy,watermelon,80.0,60.0,40.0,10-26-26
+12.4,67.6,26.4,loamy,potato,120.0,109.2,60.0,DAP
+37.4,44.0,18.4,sandy,pearl millet,60.0,47.5,30.0,DAP
+25.9,74.7,28.5,loamy,soybean,62.1,72.8,43.7,No Fertilizer Needed
+21.7,45.6,57.6,alluvial,sweet potato,93.2,80.0,40.0,DAP
+10.5,42.4,34.4,loamy,sweet potato,103.2,80.0,40.0,10-26-26
+28.8,28.4,43.8,loamy,tomato,100.0,104.5,50.0,DAP
+28.0,31.5,20.0,black,cotton,136.5,94.9,45.0,DAP
+35.2,34.7,25.4,clay,wheat,106.9,89.3,50.0,DAP
+13.2,71.0,28.3,sandy,mango,60.9,42.4,30.0,DAP
+17.1,49.8,52.6,clay,sorghum,80.0,82.4,64.2,Urea
+35.9,76.2,24.2,alluvial,sugarcane,150.0,111.9,60.0,DAP
+21.5,57.0,59.9,black,potato,122.1,138.8,60.0,DAP
+35.0,73.0,10.3,alluvial,tea,120.0,88.3,40.0,Urea
+22.1,82.3,56.8,loamy,sweet potato,92.2,93.2,41.4,No Fertilizer Needed
+38.7,80.5,39.2,clay,onion,119.1,113.1,54.9,No Fertilizer Needed
+35.9,29.7,45.3,loamy,groundnut,87.9,102.0,43.5,No Fertilizer Needed
+29.0,71.3,31.1,red,groundnut,56.1,84.7,40.0,No Fertilizer Needed
+15.3,29.0,57.9,loamy,tea,123.9,95.9,43.0,No Fertilizer Needed
+10.8,85.3,10.3,loamy,onion,90.0,60.0,40.0,Urea
+27.6,81.5,13.6,sandy,beans,31.6,58.2,40.0,DAP
+36.1,24.8,10.3,loamy,cotton,90.0,50.3,45.0,DAP
+26.7,32.8,15.0,black,beans,80.8,133.8,49.4,No Fertilizer Needed
+27.6,89.7,34.5,black,watermelon,101.5,196.7,49.4,No Fertilizer Needed
+23.5,64.6,32.1,black,soybean,148.7,83.2,41.6,No Fertilizer Needed
+21.0,56.1,46.9,sandy,rice,120.0,40.0,60.0,Urea
+16.6,76.9,45.4,red,maize,86.0,40.5,40.0,DAP
+16.0,30.0,52.1,sandy,maize,80.0,30.0,40.0,Urea
+10.2,26.3,22.2,alluvial,watermelon,80.0,106.6,40.0,DAP
+10.7,31.6,33.6,loamy,chickpea,88.7,69.2,40.0,DAP
+24.4,42.5,47.3,loamy,potato,120.0,100.0,60.0,Urea
+35.9,85.9,26.3,sandy,watermelon,80.0,60.0,40.0,DAP
+23.6,83.0,37.7,alluvial,pigeon peas,116.6,91.4,40.0,No Fertilizer Needed
+23.2,28.5,33.4,alluvial,potato,120.0,100.0,60.0,Urea
+29.7,87.7,57.8,red,tomato,100.0,100.0,50.0,10-26-26
+37.3,35.0,30.6,red,coffee,100.0,60.3,40.0,Urea
+35.6,25.3,25.2,alluvial,mango,99.4,122.7,30.0,No Fertilizer Needed
+20.9,87.5,49.5,alluvial,mango,128.9,70.8,34.0,No Fertilizer Needed
+22.5,54.2,42.2,loamy,banana,108.3,200.0,40.5,10-26-26
+17.4,21.4,26.6,loamy,watermelon,119.9,106.5,40.0,No Fertilizer Needed
+31.5,28.2,54.7,red,pearl millet,72.2,70.8,34.5,No Fertilizer Needed
+27.1,50.8,18.1,sandy,rice,120.0,47.8,60.0,Urea
+31.6,35.0,45.4,black,sorghum,134.8,191.4,40.0,DAP
+13.9,22.0,43.8,sandy,sorghum,80.0,37.4,40.0,DAP
+15.7,22.6,12.2,red,wheat,100.0,86.2,50.0,DAP
+25.6,55.4,38.4,black,pigeon peas,85.7,162.9,40.0,No Fertilizer Needed
+25.4,32.9,41.9,alluvial,grapes,83.9,117.4,40.0,DAP
+10.5,88.5,21.8,sandy,wheat,100.0,46.8,50.0,DAP
+13.3,24.6,51.8,loamy,coffee,100.0,89.6,40.0,Urea
+33.4,65.0,18.4,clay,maize,188.1,136.8,63.4,No Fertilizer Needed
+12.8,33.9,23.9,clay,pigeon peas,180.2,58.9,44.0,No Fertilizer Needed
+27.3,89.5,14.1,clay,tomato,155.7,121.0,50.0,No Fertilizer Needed
+21.9,64.3,46.6,sandy,cotton,90.0,60.0,45.0,Urea
+24.0,66.2,12.7,black,chickpea,112.6,75.0,45.5,No Fertilizer Needed
+22.1,29.1,19.0,black,cotton,90.0,123.3,45.0,Urea
+32.3,57.0,31.9,alluvial,mango,69.7,109.2,47.0,No Fertilizer Needed
+18.8,33.5,29.0,clay,tomato,100.0,100.0,50.0,10-26-26
+34.3,74.4,15.2,alluvial,beans,120.0,51.0,40.0,No Fertilizer Needed
+33.7,67.8,41.3,clay,banana,100.0,200.0,40.0,10-26-26
+39.5,30.5,24.3,loamy,pigeon peas,53.6,79.4,40.0,No Fertilizer Needed
+31.6,78.8,13.3,loamy,grapes,108.8,95.4,40.0,No Fertilizer Needed
+30.0,61.7,16.4,alluvial,tomato,113.2,100.0,50.0,10-26-26
+39.1,28.3,23.8,sandy,cotton,90.0,40.0,45.0,Urea
+19.2,84.7,20.6,black,grapes,60.0,182.9,52.8,Urea
+14.2,53.7,12.7,clay,sugarcane,150.0,106.4,60.0,Urea
+18.3,31.6,41.0,black,sweet potato,95.5,80.0,44.6,No Fertilizer Needed
+10.7,36.0,16.3,red,onion,90.0,92.3,40.0,Urea
+17.8,80.5,51.4,loamy,mango,103.6,51.6,33.3,No Fertilizer Needed
+17.5,28.7,40.8,clay,banana,185.6,200.0,40.0,10-26-26
+21.1,82.5,25.4,black,beans,55.8,154.4,40.0,No Fertilizer Needed
+18.6,79.0,57.3,loamy,grapes,64.6,80.0,40.0,10-26-26
+23.0,27.7,37.7,black,groundnut,129.8,132.4,47.4,No Fertilizer Needed
+10.8,83.8,49.6,sandy,wheat,100.0,40.0,50.0,DAP
+14.9,56.1,37.2,black,maize,103.3,153.5,48.0,No Fertilizer Needed
+14.4,22.1,46.0,clay,chickpea,194.5,104.6,52.7,No Fertilizer Needed
+11.3,51.7,22.3,red,tomato,100.0,100.0,50.0,10-26-26
+20.8,57.1,23.8,loamy,wheat,100.0,48.1,50.0,Urea
+10.5,50.5,27.4,clay,tomato,179.0,102.8,51.4,No Fertilizer Needed
+17.6,22.1,16.0,red,onion,90.0,76.8,40.0,Urea
+22.1,77.6,56.0,red,tomato,100.0,100.0,50.0,10-26-26
+34.7,25.5,39.3,black,watermelon,104.1,157.4,48.7,No Fertilizer Needed
+11.0,88.6,30.1,clay,pearl millet,120.5,89.7,35.0,No Fertilizer Needed
+32.7,75.7,12.5,clay,coffee,142.4,66.5,51.0,No Fertilizer Needed
+10.6,65.9,39.3,clay,groundnut,136.4,60.1,63.4,No Fertilizer Needed
+35.7,64.2,23.5,alluvial,coffee,100.0,131.8,40.0,Urea
+33.5,23.0,40.5,loamy,maize,87.2,57.3,40.0,No Fertilizer Needed
+37.9,47.7,40.3,black,tea,152.9,150.5,41.5,No Fertilizer Needed
+27.7,68.0,50.7,black,tomato,100.0,102.5,50.0,DAP
+38.7,30.4,34.2,black,onion,149.0,140.1,40.0,No Fertilizer Needed
+34.9,73.4,31.8,sandy,soybean,30.5,44.2,40.0,DAP
+18.7,59.8,15.7,red,coffee,100.0,60.0,40.0,Urea
+36.5,79.4,57.8,sandy,groundnut,27.3,40.0,40.0,DAP
+35.3,27.4,30.5,red,chickpea,88.3,76.0,40.0,No Fertilizer Needed
+28.8,26.7,56.5,alluvial,beans,136.8,113.9,47.6,No Fertilizer Needed
+30.5,72.6,38.6,loamy,soybean,95.6,93.5,40.5,No Fertilizer Needed
+36.9,25.8,32.2,sandy,chickpea,22.0,43.7,40.0,DAP
+37.8,55.6,50.8,loamy,coffee,118.6,104.6,43.1,No Fertilizer Needed
+26.1,31.3,16.0,loamy,groundnut,127.2,74.1,40.5,No Fertilizer Needed
+39.5,88.1,28.7,red,soybean,94.4,40.0,40.0,No Fertilizer Needed
+26.2,49.3,26.0,loamy,rice,120.0,48.5,60.0,DAP
+26.9,41.0,30.2,black,tomato,129.3,189.1,50.0,No Fertilizer Needed
+30.2,61.3,49.6,black,sorghum,112.0,185.0,40.0,No Fertilizer Needed
+31.8,47.4,57.2,black,sugarcane,150.0,152.7,60.0,Urea
+11.3,44.8,45.7,loamy,wheat,100.0,94.3,50.0,Urea
+20.6,23.1,55.0,clay,onion,149.7,84.5,40.0,No Fertilizer Needed
+16.7,70.6,27.7,red,sweet potato,84.1,85.4,40.0,DAP
+29.2,32.7,42.0,alluvial,pigeon peas,131.8,105.2,47.0,No Fertilizer Needed
+21.3,58.3,46.0,red,banana,100.0,200.0,40.0,10-26-26
+14.6,51.1,17.6,loamy,sorghum,80.0,47.0,40.0,DAP
+32.8,77.8,30.3,red,grapes,68.1,80.0,40.0,DAP
+18.0,48.0,44.8,sandy,coffee,100.0,60.0,40.0,Urea
+24.4,89.3,47.6,black,groundnut,95.7,120.4,40.0,No Fertilizer Needed
+12.7,25.2,59.9,clay,tea,120.0,164.3,61.3,Urea
+29.8,89.1,42.0,loamy,soybean,56.7,50.3,40.0,No Fertilizer Needed
+17.0,53.3,30.4,clay,onion,90.0,80.5,40.0,Urea
+26.7,26.6,26.6,loamy,groundnut,116.7,47.4,40.0,No Fertilizer Needed
+24.9,38.4,40.8,loamy,groundnut,80.6,100.5,40.0,No Fertilizer Needed
+10.8,59.7,30.1,loamy,banana,100.0,200.0,40.0,10-26-26
+13.8,38.1,36.9,red,maize,82.3,68.4,40.0,DAP
+23.9,58.6,14.8,black,rice,120.0,132.8,60.0,Urea
+35.2,63.6,56.0,sandy,cotton,90.0,45.6,45.0,Urea
+26.2,76.3,22.4,alluvial,tea,140.6,97.7,40.0,DAP
+37.9,46.7,25.6,loamy,chickpea,122.3,60.5,40.0,No Fertilizer Needed
+34.1,23.5,16.2,loamy,groundnut,54.1,48.5,40.0,No Fertilizer Needed
+39.8,37.2,56.4,black,pigeon peas,142.4,78.3,40.0,No Fertilizer Needed
+22.7,71.0,21.4,clay,pearl millet,143.5,115.0,54.9,No Fertilizer Needed
+22.6,37.4,58.8,sandy,watermelon,80.0,60.0,40.0,DAP
+28.0,46.5,10.4,loamy,mango,60.0,77.9,33.7,Urea
+25.9,60.6,18.9,loamy,sugarcane,150.0,63.1,60.0,Urea
+35.8,62.9,31.6,alluvial,groundnut,85.5,81.2,40.0,No Fertilizer Needed
+34.6,85.2,25.7,clay,potato,179.8,102.3,60.0,No Fertilizer Needed
+27.1,74.8,25.4,clay,sweet potato,106.1,140.4,40.0,No Fertilizer Needed
+22.8,37.0,49.1,clay,tea,120.0,95.4,40.0,Urea
+15.5,49.3,45.0,alluvial,sugarcane,150.0,72.1,60.0,Urea
+16.9,23.8,44.7,loamy,tea,120.0,80.0,40.0,10-26-26
+18.8,87.4,49.9,sandy,potato,120.0,100.0,60.0,Urea
+22.0,73.5,40.7,loamy,pearl millet,77.1,48.3,30.0,DAP
+21.2,88.1,35.2,clay,cotton,192.1,110.7,45.0,No Fertilizer Needed
+10.2,83.3,36.8,clay,watermelon,80.0,163.0,47.5,Urea
+24.8,59.1,19.8,alluvial,pearl millet,60.0,121.4,35.3,Urea
+37.9,82.8,56.5,black,grapes,77.7,160.0,40.0,DAP
+29.2,49.7,17.4,sandy,groundnut,26.0,40.0,40.0,DAP
+32.1,81.9,27.1,sandy,groundnut,40.4,53.8,40.0,DAP
+23.8,44.5,51.0,clay,sweet potato,85.8,159.1,65.3,No Fertilizer Needed
+13.8,67.0,44.7,loamy,potato,120.0,100.0,60.0,14-35-14
+10.9,86.1,22.7,clay,groundnut,151.1,105.1,40.0,No Fertilizer Needed
+35.4,25.4,17.0,sandy,sugarcane,150.0,65.3,60.0,Urea
+28.4,71.6,58.9,red,banana,100.0,200.0,40.0,10-26-26
+23.2,74.1,48.2,black,maize,80.0,149.6,40.0,DAP
+15.1,33.4,51.6,black,potato,120.0,173.7,60.0,DAP
+31.4,65.9,13.0,loamy,pearl millet,118.2,64.0,32.2,No Fertilizer Needed
+17.6,70.0,19.7,clay,soybean,115.2,162.6,65.7,No Fertilizer Needed
+26.4,78.1,23.3,alluvial,mango,132.6,62.7,30.0,No Fertilizer Needed
+11.1,84.5,45.0,clay,banana,148.6,200.0,40.0,10-26-26
+24.2,40.1,55.3,black,watermelon,137.5,86.3,40.0,No Fertilizer Needed
+37.5,86.9,23.1,loamy,groundnut,80.5,50.8,40.0,No Fertilizer Needed
+30.7,53.3,41.0,loamy,sweet potato,82.5,80.0,40.0,10-26-26
+29.5,83.7,46.3,alluvial,beans,76.7,53.1,40.0,No Fertilizer Needed
+38.8,55.9,22.8,black,sweet potato,105.6,147.0,40.0,No Fertilizer Needed
+39.6,56.9,48.8,black,coffee,141.9,143.8,46.2,No Fertilizer Needed
+24.4,69.2,51.9,loamy,banana,100.0,200.0,40.0,10-26-26
+17.0,76.7,53.1,black,groundnut,152.6,193.1,40.0,No Fertilizer Needed
+18.0,83.3,51.6,sandy,groundnut,50.2,40.0,40.0,10-26-26
+27.0,27.2,58.8,sandy,soybean,65.3,43.5,40.0,DAP
+38.3,59.7,59.2,sandy,watermelon,80.0,60.0,40.0,10-26-26
+37.7,31.7,16.1,red,coffee,100.0,60.0,40.0,DAP
+11.9,56.5,33.1,clay,rice,120.0,55.9,60.0,DAP
+30.1,59.1,50.1,red,beans,64.0,40.0,40.0,10-26-26
+15.7,46.9,14.6,loamy,maize,80.0,102.3,40.0,Urea
+29.5,64.9,14.3,loamy,banana,100.0,200.0,40.0,10-26-26
+29.2,33.6,25.5,red,onion,90.0,87.7,40.0,DAP
+10.1,71.3,59.7,clay,cotton,124.7,155.5,54.8,No Fertilizer Needed
+34.5,39.5,26.5,loamy,rice,120.0,97.6,60.0,DAP
+37.1,23.2,31.6,clay,mango,184.1,82.7,38.5,No Fertilizer Needed
+37.1,47.5,28.5,clay,maize,180.1,131.7,52.9,No Fertilizer Needed
+10.0,51.3,26.2,loamy,soybean,77.9,103.7,40.0,No Fertilizer Needed
+24.1,56.6,10.8,red,groundnut,83.7,60.5,40.0,No Fertilizer Needed
+18.8,29.9,36.7,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+33.5,57.0,37.0,black,tea,120.0,148.8,40.0,Urea
+25.9,67.7,42.0,black,cotton,131.1,67.1,45.0,DAP
+15.4,51.7,13.9,black,coffee,100.0,156.6,40.0,DAP
+10.7,26.1,31.6,sandy,soybean,52.6,41.5,40.0,DAP
+27.3,78.2,19.3,red,beans,32.5,68.8,40.0,No Fertilizer Needed
+21.1,29.7,13.6,red,rice,120.0,52.7,60.0,DAP
+24.6,40.4,14.5,black,cotton,127.5,115.0,45.0,No Fertilizer Needed
+12.9,67.1,51.7,clay,potato,137.4,121.0,60.0,DAP
+38.2,50.5,18.9,black,coffee,100.0,108.1,52.9,Urea
+23.5,76.8,54.1,clay,coffee,186.3,134.8,40.0,No Fertilizer Needed
+13.2,58.7,44.1,sandy,groundnut,37.8,40.0,40.0,10-26-26
+13.8,79.1,17.1,red,onion,90.0,87.6,40.0,DAP
+38.1,23.5,41.6,clay,coffee,100.0,91.0,52.7,Urea
+23.8,34.8,16.8,clay,groundnut,177.4,72.5,42.2,No Fertilizer Needed
+28.3,82.1,54.3,red,potato,120.0,100.0,60.0,DAP
+15.5,68.2,45.9,red,beans,47.7,59.8,40.0,DAP
+37.7,75.6,28.7,red,watermelon,80.0,60.0,40.0,DAP
+30.9,86.4,14.6,alluvial,sweet potato,101.5,96.9,48.6,No Fertilizer Needed
+39.4,66.0,25.7,clay,chickpea,120.7,57.4,54.6,No Fertilizer Needed
+38.4,80.4,32.0,sandy,grapes,60.0,80.0,40.0,10-26-26
+34.3,61.6,44.0,clay,chickpea,63.6,154.4,42.8,No Fertilizer Needed
+36.3,60.2,25.6,clay,beans,159.0,78.0,52.5,No Fertilizer Needed
+33.9,56.5,30.7,sandy,beans,46.0,59.6,40.0,DAP
+27.9,39.5,33.6,sandy,grapes,60.0,80.0,40.0,10-26-26
+25.4,29.9,33.7,alluvial,tea,124.0,80.0,43.1,10-26-26
+17.7,23.2,27.6,clay,maize,138.8,77.5,48.5,No Fertilizer Needed
+24.0,40.8,58.5,clay,potato,168.8,101.8,60.0,No Fertilizer Needed
+20.1,84.3,31.0,sandy,sorghum,80.0,65.1,40.0,Urea
+32.4,51.3,39.4,clay,onion,92.6,80.8,53.3,No Fertilizer Needed
+25.1,58.3,58.4,red,banana,100.0,200.0,40.0,10-26-26
+22.2,29.7,12.4,loamy,beans,72.1,68.3,40.0,No Fertilizer Needed
+11.5,45.2,41.0,alluvial,groundnut,79.9,77.7,40.0,No Fertilizer Needed
+15.5,77.7,39.7,red,tomato,100.0,100.0,50.0,DAP
+24.8,69.0,46.5,clay,cotton,152.9,152.6,48.0,No Fertilizer Needed
+39.9,52.4,35.4,clay,cotton,115.4,129.8,48.0,No Fertilizer Needed
+34.2,69.3,32.3,loamy,sugarcane,150.0,60.0,60.0,Urea
+22.2,63.5,56.0,clay,beans,105.5,82.7,62.4,No Fertilizer Needed
+15.3,20.0,14.1,alluvial,maize,80.0,70.2,40.0,Urea
+36.2,24.2,17.9,loamy,coffee,100.0,103.9,40.0,Urea
+13.3,35.0,46.0,loamy,maize,80.0,107.5,40.4,Urea
+30.6,38.2,41.7,alluvial,beans,105.7,67.4,40.0,No Fertilizer Needed
+32.9,69.3,52.2,clay,pearl millet,125.6,157.2,45.8,No Fertilizer Needed
+21.0,22.0,21.5,alluvial,coffee,118.7,60.0,40.0,10-26-26
+38.7,63.5,58.5,loamy,watermelon,111.6,86.8,40.0,DAP
+10.1,44.4,56.9,clay,coffee,181.6,109.5,40.3,No Fertilizer Needed
+12.2,41.0,40.7,clay,banana,100.0,200.0,40.0,10-26-26
+36.8,87.2,28.0,red,tea,120.0,80.0,40.0,Urea
+14.4,45.3,13.5,loamy,coffee,100.0,77.7,42.9,Urea
+29.3,47.8,31.4,clay,coffee,186.4,60.0,58.1,No Fertilizer Needed
+31.5,53.4,12.2,black,sweet potato,122.0,127.7,40.0,No Fertilizer Needed
+30.4,70.2,57.8,alluvial,groundnut,110.1,68.0,40.0,No Fertilizer Needed
+38.9,46.2,21.3,alluvial,coffee,100.0,75.9,40.0,Urea
+19.8,35.3,41.6,loamy,potato,120.0,100.0,60.0,10-26-26
+17.7,82.9,19.2,loamy,watermelon,80.0,60.0,40.0,Urea
+15.6,86.3,45.1,alluvial,wheat,100.0,69.7,50.0,Urea
+10.5,75.1,38.6,clay,cotton,149.8,146.9,61.2,No Fertilizer Needed
+17.3,64.6,58.0,loamy,wheat,100.0,54.0,50.0,DAP
+36.6,28.2,29.2,sandy,rice,120.0,48.7,60.0,Urea
+36.9,43.4,58.8,loamy,rice,124.1,100.7,60.0,DAP
+33.7,58.0,26.2,red,coffee,100.0,60.0,40.0,DAP
+19.4,47.7,21.5,black,coffee,137.5,171.6,40.0,No Fertilizer Needed
+36.5,29.9,28.5,clay,potato,133.3,104.5,60.0,DAP
+30.8,28.8,55.4,clay,chickpea,78.5,147.2,57.1,No Fertilizer Needed
+32.6,20.4,19.5,alluvial,soybean,113.8,100.2,40.0,No Fertilizer Needed
+29.8,24.7,55.3,alluvial,tea,120.0,93.6,40.0,DAP
+10.1,45.6,14.7,alluvial,pearl millet,60.0,81.3,30.0,DAP
+20.0,58.5,46.5,loamy,sweet potato,121.3,80.0,40.0,10-26-26
+31.1,26.6,37.8,sandy,pearl millet,60.0,65.7,30.0,Urea
+24.4,73.6,45.0,sandy,mango,60.0,65.1,30.0,DAP
+25.3,60.7,55.0,sandy,tea,120.0,80.0,40.0,Urea
+29.7,89.7,16.9,clay,banana,160.5,200.0,42.5,10-26-26
+16.4,40.6,16.4,red,potato,120.0,100.0,60.0,10-26-26
+17.6,39.4,34.4,clay,sugarcane,150.0,67.3,60.0,Urea
+13.3,49.5,57.7,alluvial,sorghum,80.6,59.7,40.0,DAP
+13.8,63.9,10.7,alluvial,rice,120.0,46.6,60.0,Urea
+35.6,29.1,31.9,sandy,sugarcane,150.0,60.0,60.0,Urea
+21.2,33.6,54.9,sandy,cotton,90.0,40.0,45.0,DAP
+17.6,33.8,44.1,black,wheat,135.6,170.1,50.0,DAP
+23.7,44.9,55.2,black,soybean,59.1,80.8,40.0,No Fertilizer Needed
+10.7,31.3,39.9,alluvial,maize,86.0,103.7,45.6,No Fertilizer Needed
+19.0,80.6,12.0,black,maize,148.2,192.0,40.0,No Fertilizer Needed
+38.3,22.0,22.4,clay,tomato,193.3,100.0,50.0,No Fertilizer Needed
+21.8,30.6,14.1,black,tea,140.2,119.7,52.7,No Fertilizer Needed
+11.7,48.4,54.2,red,rice,120.0,97.0,60.0,DAP
+38.6,81.4,12.0,black,watermelon,80.0,83.7,40.0,DAP
+34.1,45.3,13.0,red,coffee,100.0,84.4,40.0,Urea
+11.1,87.6,29.6,alluvial,banana,100.0,200.0,40.0,10-26-26
+22.5,20.6,42.4,red,soybean,56.9,40.2,40.0,DAP
+14.0,81.7,15.9,black,potato,120.0,100.0,60.0,DAP
+14.1,78.0,27.2,alluvial,onion,109.3,66.0,40.0,No Fertilizer Needed
+30.4,79.5,41.8,clay,sugarcane,191.9,108.0,60.0,DAP
+28.5,71.8,56.5,alluvial,tea,120.0,80.0,40.0,Urea
+28.0,67.8,23.2,alluvial,maize,80.0,63.5,40.0,DAP
+39.0,89.3,57.4,alluvial,sugarcane,150.0,74.9,60.0,DAP
+25.9,35.7,23.0,loamy,wheat,100.0,95.7,50.0,Urea
+12.4,78.4,52.4,clay,soybean,134.4,94.6,40.0,No Fertilizer Needed
+35.9,74.5,29.5,loamy,groundnut,104.1,72.5,40.0,No Fertilizer Needed
+27.6,82.6,49.9,black,chickpea,77.2,184.7,46.5,No Fertilizer Needed
+38.4,45.2,22.0,loamy,beans,75.4,99.3,40.0,No Fertilizer Needed
+37.9,61.6,35.1,black,watermelon,150.0,91.2,40.0,No Fertilizer Needed
+12.4,44.0,28.5,sandy,groundnut,45.1,46.8,40.0,DAP
+25.2,77.0,19.3,loamy,tea,120.0,94.0,40.0,Urea
+21.4,41.1,32.3,red,grapes,60.0,80.0,40.0,10-26-26
+17.2,74.4,39.4,sandy,groundnut,26.3,40.0,40.0,DAP
+39.9,86.8,42.5,clay,banana,141.8,200.0,40.0,10-26-26
+19.0,42.2,25.4,clay,onion,160.0,116.2,40.0,No Fertilizer Needed
+33.1,35.8,58.1,alluvial,soybean,111.9,90.1,40.0,No Fertilizer Needed
+13.7,85.8,51.1,alluvial,pigeon peas,135.2,52.8,40.0,No Fertilizer Needed
+26.5,26.5,56.6,alluvial,grapes,72.9,80.0,40.0,DAP
+32.2,32.3,54.5,loamy,pigeon peas,87.5,55.0,40.0,No Fertilizer Needed
+36.7,54.9,15.6,alluvial,pigeon peas,64.4,120.3,48.3,No Fertilizer Needed
+30.7,48.8,27.1,clay,pigeon peas,163.2,154.3,40.0,No Fertilizer Needed
+14.0,50.1,44.1,black,chickpea,91.7,63.5,40.0,No Fertilizer Needed
+29.4,23.3,48.2,clay,groundnut,157.5,144.0,57.7,No Fertilizer Needed
+10.7,85.5,26.3,clay,sweet potato,133.1,80.0,65.3,No Fertilizer Needed
+35.7,32.5,16.4,black,sugarcane,150.0,152.4,60.0,Urea
+22.8,62.3,21.3,clay,tomato,140.4,139.0,56.6,No Fertilizer Needed
+25.9,63.9,14.3,black,tomato,153.3,100.0,51.6,No Fertilizer Needed
+28.7,44.6,17.7,black,tomato,130.4,160.3,50.0,DAP
+15.6,70.8,52.8,alluvial,tea,121.9,106.7,40.0,DAP
+34.8,80.2,44.1,loamy,tea,123.9,80.0,40.0,10-26-26
+31.0,33.3,36.1,sandy,chickpea,48.4,37.4,40.0,DAP
+30.8,82.6,51.6,alluvial,pearl millet,121.7,62.4,30.0,No Fertilizer Needed
+25.2,88.0,33.5,clay,onion,90.0,162.3,40.0,DAP
+15.6,62.5,49.4,red,wheat,100.0,42.2,50.0,Urea
+11.2,21.0,16.2,black,tomato,100.0,177.1,50.0,DAP
+36.8,59.1,38.0,sandy,sweet potato,64.3,80.0,40.0,10-26-26
+33.8,64.1,56.2,alluvial,pearl millet,119.8,65.2,33.8,No Fertilizer Needed
+16.0,51.0,23.1,black,watermelon,80.0,193.2,54.2,Urea
+38.6,84.4,35.4,sandy,sugarcane,150.0,60.0,60.0,Urea
+26.8,66.9,47.0,loamy,sugarcane,150.0,109.3,60.0,Urea
+15.4,87.1,30.3,sandy,beans,38.0,48.8,40.0,DAP
+21.1,23.5,29.5,sandy,mango,60.0,53.5,30.0,DAP
+35.7,28.0,12.8,clay,soybean,116.6,83.5,56.7,No Fertilizer Needed
+24.6,42.1,52.8,clay,soybean,191.2,126.0,55.7,No Fertilizer Needed
+10.4,66.2,21.0,sandy,mango,60.0,40.0,30.0,DAP
+22.0,60.0,46.0,alluvial,banana,109.5,200.0,40.0,10-26-26
+11.4,42.3,38.4,black,groundnut,132.9,152.1,52.6,No Fertilizer Needed
+22.8,70.4,13.6,clay,grapes,139.4,91.0,62.3,No Fertilizer Needed
+10.5,85.3,14.6,loamy,onion,106.9,60.0,40.0,10-26-26
+26.4,45.0,19.2,black,mango,99.1,81.5,30.0,DAP
+23.0,31.1,10.7,sandy,groundnut,49.0,40.0,40.0,10-26-26
+14.5,25.1,20.1,clay,pigeon peas,95.9,154.4,53.2,No Fertilizer Needed
+23.9,59.7,32.7,black,tea,120.0,127.1,53.3,Urea
+22.8,82.5,21.6,sandy,maize,80.0,30.0,40.0,Urea
+21.7,73.5,33.0,alluvial,chickpea,78.6,89.7,40.0,No Fertilizer Needed
+29.5,49.4,21.9,black,tea,120.0,148.2,40.0,DAP
+30.8,34.2,40.1,alluvial,coffee,106.9,69.8,40.0,DAP
+30.2,75.0,41.8,red,rice,120.0,40.0,60.0,Urea
+12.1,79.0,48.7,red,cotton,90.0,98.5,45.0,DAP
+23.7,84.5,34.0,alluvial,coffee,114.8,79.9,40.0,DAP
+21.9,41.6,43.3,black,sweet potato,94.7,140.3,40.0,No Fertilizer Needed
+37.7,81.9,14.5,black,coffee,134.7,109.9,40.0,No Fertilizer Needed
+35.7,22.3,30.3,loamy,wheat,100.0,70.3,50.0,Urea
+32.2,88.3,38.3,red,wheat,100.0,61.3,50.0,Urea
+27.0,45.1,38.5,alluvial,cotton,90.0,46.5,45.0,DAP
+24.0,20.6,28.4,red,grapes,60.0,80.0,40.0,14-35-14
+22.8,36.4,13.9,sandy,pigeon peas,35.1,44.6,40.0,DAP
+32.9,62.8,27.4,red,sweet potato,60.0,80.0,40.0,10-26-26
+36.2,85.9,24.6,loamy,mango,61.9,93.9,35.3,No Fertilizer Needed
+13.6,59.9,40.2,red,banana,100.0,200.0,40.0,10-26-26
+27.3,40.0,38.7,loamy,groundnut,66.3,40.0,40.0,10-26-26
+31.0,32.0,21.2,alluvial,pigeon peas,103.3,53.5,40.0,No Fertilizer Needed
+38.1,89.2,43.5,alluvial,pearl millet,97.5,89.0,41.8,No Fertilizer Needed
+17.5,27.3,10.4,clay,groundnut,183.7,67.0,46.7,No Fertilizer Needed
+35.8,73.3,33.9,clay,potato,120.0,100.0,60.0,Urea
+31.3,48.9,26.8,alluvial,banana,123.5,200.0,40.0,10-26-26
+10.3,41.1,38.3,sandy,wheat,100.0,40.0,50.0,DAP
+27.0,77.6,17.1,sandy,tea,120.0,80.0,40.0,Urea
+32.0,52.3,52.9,sandy,cotton,90.0,47.8,45.0,DAP
+27.5,64.0,52.0,loamy,tomato,128.7,100.0,50.0,10-26-26
+28.3,86.1,23.1,red,maize,80.0,49.0,40.0,DAP
+21.6,25.9,21.1,black,mango,105.9,182.5,31.4,No Fertilizer Needed
+15.7,48.5,56.6,sandy,banana,100.0,200.0,40.0,10-26-26
+18.8,38.6,20.4,black,banana,100.0,200.0,40.0,10-26-26
+25.1,68.5,50.0,black,coffee,100.0,175.2,48.3,Urea
+33.7,89.2,42.6,red,wheat,100.0,69.9,50.0,DAP
+32.6,87.1,17.6,black,groundnut,133.5,152.5,40.0,No Fertilizer Needed
+36.7,24.5,23.2,black,pearl millet,153.3,176.6,30.0,No Fertilizer Needed
+16.9,75.6,51.7,sandy,wheat,100.0,57.7,50.0,DAP
+22.7,43.7,32.4,loamy,tea,120.0,104.2,40.2,Urea
+16.0,56.4,17.7,sandy,potato,120.0,100.0,60.0,10-26-26
+27.2,27.5,20.2,black,mango,60.0,89.6,30.0,DAP
+23.2,71.4,16.1,black,onion,143.6,112.3,46.9,No Fertilizer Needed
+35.7,29.9,33.9,black,rice,120.0,105.6,60.0,DAP
+18.3,45.9,12.8,sandy,wheat,100.0,40.0,50.0,DAP
+33.1,77.1,18.5,red,coffee,100.0,93.5,40.0,Urea
+13.8,40.7,13.4,clay,sugarcane,194.2,135.9,60.0,No Fertilizer Needed
+23.6,31.4,18.2,clay,rice,170.6,151.6,60.0,DAP
+34.4,70.6,55.8,black,wheat,100.0,125.4,50.6,Urea
+29.3,68.4,26.1,black,cotton,90.0,169.2,45.0,DAP
+37.8,23.5,28.0,sandy,tea,120.0,80.0,40.0,Urea
+24.1,30.4,35.3,alluvial,sugarcane,150.0,70.5,60.0,DAP
+33.5,44.0,29.7,red,wheat,100.0,93.3,50.0,Urea
+24.6,63.9,32.6,sandy,sugarcane,150.0,60.0,60.0,Urea
+12.6,23.3,36.5,clay,sugarcane,193.4,130.9,60.0,DAP
+34.2,72.0,12.5,black,sweet potato,145.2,80.0,54.1,No Fertilizer Needed
+18.7,22.5,41.5,black,wheat,100.0,77.0,50.0,DAP
+17.6,44.8,39.9,red,tea,120.0,80.0,40.0,Urea
+15.3,83.4,57.3,sandy,cotton,90.0,46.1,45.0,DAP
+10.6,80.0,17.5,sandy,potato,120.0,100.0,60.0,Urea
+27.7,65.2,52.5,loamy,pigeon peas,59.3,90.2,40.0,DAP
+16.1,40.3,25.1,sandy,sweet potato,60.5,80.0,40.0,10-26-26
+25.3,60.6,26.5,black,sorghum,80.0,85.4,40.0,DAP
+30.5,73.6,44.2,red,grapes,60.0,80.0,40.0,10-26-26
+24.9,63.7,55.2,black,pigeon peas,90.7,91.2,41.3,No Fertilizer Needed
+19.5,36.3,19.2,alluvial,tea,135.3,113.5,40.0,DAP
+27.0,21.2,14.0,loamy,potato,120.0,100.0,60.0,10-26-26
+10.8,45.8,46.3,sandy,tea,120.0,80.0,40.0,Urea
+16.6,30.6,25.9,black,mango,128.5,117.3,43.8,No Fertilizer Needed
+23.9,70.4,17.7,sandy,onion,90.0,60.0,40.0,Urea
+11.3,46.4,26.8,sandy,pigeon peas,32.7,50.1,40.0,DAP
+12.9,34.3,15.3,loamy,sweet potato,100.9,80.0,40.0,10-26-26
+26.0,79.6,45.2,red,groundnut,42.1,40.0,40.0,10-26-26
+38.5,32.1,13.8,clay,sugarcane,164.1,155.1,60.0,DAP
+21.2,30.8,31.8,alluvial,cotton,90.0,78.1,45.0,DAP
+32.9,27.7,26.3,clay,rice,138.1,87.3,60.0,DAP
+35.1,67.2,12.1,sandy,banana,100.0,200.0,40.0,10-26-26
+29.1,53.6,51.6,black,pearl millet,103.7,192.6,46.6,No Fertilizer Needed
+18.5,80.9,47.4,black,beans,130.4,121.8,40.0,No Fertilizer Needed
+18.9,32.6,40.5,sandy,sugarcane,150.0,60.0,60.0,Urea
+15.5,41.4,13.2,sandy,maize,80.0,44.9,40.0,Urea
+32.0,85.6,55.9,loamy,cotton,93.2,99.9,45.0,DAP
+35.9,51.3,51.3,black,maize,91.7,194.9,40.4,No Fertilizer Needed
+30.7,26.8,18.0,red,groundnut,78.6,68.6,40.0,DAP
+36.3,49.6,11.0,sandy,wheat,100.0,40.0,50.0,DAP
+38.1,72.4,37.0,loamy,rice,120.0,100.5,60.0,Urea
+29.0,42.9,19.0,loamy,rice,120.0,52.6,60.0,Urea
+26.6,31.3,30.9,loamy,rice,120.0,93.4,60.0,DAP
+11.8,47.9,44.9,clay,tea,120.0,101.6,41.6,Urea
+15.3,58.9,54.5,sandy,soybean,60.7,61.2,40.0,DAP
+16.4,53.9,55.0,sandy,pigeon peas,24.7,30.0,40.0,DAP
+37.4,72.5,48.4,red,beans,43.4,48.2,40.0,DAP
+39.0,27.6,58.7,loamy,sweet potato,60.0,94.3,40.0,DAP
+31.5,30.7,43.7,sandy,tomato,100.0,100.0,50.0,10-26-26
+32.1,71.0,13.2,black,potato,120.0,166.2,60.0,DAP
+38.6,53.8,29.3,black,rice,120.0,147.9,60.0,DAP
+15.0,64.4,56.7,red,grapes,66.8,86.4,40.0,DAP
+28.6,52.7,32.2,clay,soybean,118.3,109.1,41.7,No Fertilizer Needed
+39.1,49.3,52.7,loamy,cotton,99.9,57.4,45.0,DAP
+15.3,67.3,59.5,black,pigeon peas,135.3,115.8,40.0,No Fertilizer Needed
+38.6,47.9,29.2,alluvial,grapes,62.2,93.7,45.1,No Fertilizer Needed
+19.7,34.3,40.8,sandy,cotton,90.0,40.0,45.0,Urea
+28.1,67.0,41.4,sandy,mango,60.0,40.0,30.0,Urea
+35.8,21.6,23.4,red,sugarcane,150.0,60.0,60.0,Urea
+11.9,50.7,40.9,loamy,coffee,100.0,76.5,40.0,DAP
+19.2,67.6,22.7,black,tea,120.0,140.1,40.7,Urea
+12.3,55.6,50.1,loamy,watermelon,114.2,60.0,40.0,10-26-26
+18.7,52.1,57.2,sandy,chickpea,36.5,47.2,40.0,DAP
+39.9,40.5,39.2,clay,sweet potato,66.8,80.0,40.0,10-26-26
+29.9,56.0,29.7,sandy,tea,120.0,80.0,40.0,Urea
+22.0,87.3,12.0,sandy,wheat,100.0,61.6,50.0,Urea
+15.4,57.4,22.6,red,rice,120.0,40.0,60.0,Urea
+26.7,81.2,50.2,red,sweet potato,60.0,86.5,40.0,DAP
+28.6,71.6,23.1,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+10.4,84.8,32.4,sandy,onion,90.0,60.0,40.0,Urea
+20.3,47.3,43.9,alluvial,wheat,100.0,112.1,50.0,Urea
+16.1,83.8,57.5,alluvial,grapes,83.3,80.0,40.0,10-26-26
+34.8,88.5,43.2,sandy,coffee,100.0,60.0,40.0,DAP
+32.8,84.0,55.6,red,wheat,100.0,42.4,50.0,DAP
+10.9,64.2,20.2,clay,beans,113.3,57.9,52.0,No Fertilizer Needed
+19.1,87.8,16.6,loamy,groundnut,95.6,71.3,40.0,DAP
+38.6,59.1,56.5,loamy,pigeon peas,115.7,57.6,40.0,No Fertilizer Needed
+14.3,74.5,15.8,black,wheat,144.6,121.9,50.0,No Fertilizer Needed
+19.5,49.8,18.9,sandy,pearl millet,63.3,48.4,30.0,DAP
+16.5,64.5,43.0,sandy,mango,60.0,43.5,30.0,DAP
+19.1,40.2,49.3,black,pearl millet,88.1,122.0,30.0,No Fertilizer Needed
+35.4,77.2,36.7,clay,potato,120.0,100.0,60.0,10-26-26
+20.0,44.3,15.1,loamy,sugarcane,150.0,79.7,60.0,Urea
+17.5,28.9,19.2,alluvial,rice,120.0,125.6,60.0,Urea
+37.7,64.8,41.7,sandy,pearl millet,60.0,55.8,30.0,DAP
+26.4,37.2,27.3,alluvial,sweet potato,76.8,91.9,40.0,No Fertilizer Needed
+27.5,41.4,44.1,sandy,potato,120.0,100.0,60.0,Urea
+39.3,42.9,28.4,clay,watermelon,80.0,90.3,40.0,DAP
+35.6,23.3,25.4,red,wheat,100.0,52.2,50.0,Urea
+32.9,64.7,27.8,sandy,pearl millet,60.0,44.8,30.0,Urea
+35.0,79.1,16.0,clay,banana,141.4,200.0,52.6,10-26-26
+17.8,79.3,40.2,sandy,chickpea,22.6,44.0,40.0,DAP
+15.9,57.1,31.1,sandy,rice,120.0,40.0,60.0,DAP
+37.6,88.6,31.4,red,beans,34.0,67.6,40.0,DAP
+12.0,75.6,34.0,red,potato,120.0,100.0,60.0,DAP
+19.5,24.4,19.1,sandy,onion,90.0,60.0,40.0,Urea
+37.8,71.0,34.1,sandy,pigeon peas,57.3,30.0,40.0,DAP
+20.7,68.0,19.4,clay,coffee,100.7,62.4,40.0,DAP
+32.3,85.3,39.6,black,pearl millet,90.7,196.2,52.5,No Fertilizer Needed
+34.4,29.6,40.2,sandy,soybean,32.6,56.7,40.0,DAP
+11.6,61.1,39.3,loamy,groundnut,44.6,40.0,40.0,DAP
+20.2,36.0,10.8,red,tea,120.0,80.0,40.0,Urea
+12.9,25.9,39.7,sandy,mango,60.0,40.0,30.0,DAP
+21.7,71.5,35.7,loamy,beans,88.5,105.4,40.0,No Fertilizer Needed
+31.7,60.8,31.9,red,pigeon peas,69.4,87.1,40.0,No Fertilizer Needed
+29.1,60.0,47.7,loamy,pearl millet,60.0,43.3,30.0,Urea
+15.4,25.0,47.3,clay,coffee,125.5,126.8,45.2,No Fertilizer Needed
+35.2,77.4,25.0,alluvial,pigeon peas,98.2,123.7,40.0,No Fertilizer Needed
+23.9,84.8,47.5,clay,chickpea,134.4,82.1,62.2,No Fertilizer Needed
+33.7,75.6,20.3,clay,mango,130.0,111.3,60.3,No Fertilizer Needed
+13.1,32.8,20.9,red,watermelon,80.0,60.0,40.0,Urea
+13.4,25.7,22.3,red,onion,98.1,67.9,40.0,DAP
+27.3,82.1,11.1,loamy,groundnut,113.5,100.0,40.0,No Fertilizer Needed
+35.4,78.3,32.3,alluvial,coffee,101.8,60.0,40.0,DAP
+27.6,35.5,49.5,black,onion,90.0,105.3,48.6,Urea
+32.5,72.8,33.2,red,sorghum,82.1,76.7,40.0,DAP
+30.2,21.4,47.2,sandy,tomato,100.0,100.0,50.0,Urea
+38.8,57.3,52.6,sandy,rice,120.0,50.1,60.0,DAP
+13.6,70.6,12.1,loamy,mango,60.0,97.0,30.0,Urea
+31.5,23.0,26.4,red,cotton,90.9,79.7,45.0,DAP
+12.1,44.0,44.9,black,tomato,131.6,114.2,50.0,DAP
+37.5,25.5,44.5,sandy,watermelon,80.0,60.0,40.0,Urea
+17.3,63.3,45.2,loamy,tomato,100.0,108.2,50.0,DAP
+21.0,86.9,32.5,clay,onion,96.3,149.3,50.3,No Fertilizer Needed
+27.5,59.8,27.9,sandy,watermelon,80.0,60.0,40.0,DAP
+38.7,62.9,43.0,black,soybean,137.0,126.7,51.7,No Fertilizer Needed
+10.8,31.1,39.7,black,potato,153.7,118.3,60.0,DAP
+18.8,56.5,28.9,sandy,mango,60.0,52.7,30.0,DAP
+11.0,27.3,60.0,clay,onion,125.3,123.9,63.7,No Fertilizer Needed
+26.1,77.3,56.0,loamy,tomato,100.0,108.1,50.0,DAP
+15.7,59.2,10.1,clay,cotton,129.2,82.2,45.0,DAP
+16.3,29.4,52.9,black,pearl millet,140.6,98.0,30.0,No Fertilizer Needed
+13.5,72.8,21.5,black,groundnut,82.3,65.9,40.0,No Fertilizer Needed
+33.9,49.3,30.1,red,onion,90.0,76.0,40.0,Urea
+39.0,84.4,38.5,alluvial,tea,120.0,119.2,40.0,Urea
+23.6,38.9,26.0,red,tea,120.0,80.0,40.0,DAP
+32.5,51.8,52.3,red,mango,60.0,44.8,30.0,Urea
+34.2,87.2,59.3,black,beans,131.8,176.3,45.9,No Fertilizer Needed
+33.0,22.5,25.3,alluvial,groundnut,65.8,89.0,40.0,No Fertilizer Needed
+24.8,58.4,32.2,red,maize,82.0,46.5,40.0,DAP
+22.1,73.3,32.5,sandy,soybean,58.3,53.3,40.0,DAP
+28.7,27.9,57.6,clay,tea,120.0,150.8,58.2,Urea
+26.3,47.7,27.4,sandy,rice,120.0,62.6,60.0,Urea
+35.4,80.4,21.6,alluvial,maize,80.0,100.7,40.0,DAP
+14.0,38.8,24.0,black,chickpea,51.1,129.8,44.0,No Fertilizer Needed
+18.2,59.6,18.0,alluvial,coffee,100.0,117.6,42.1,Urea
+11.8,53.8,40.8,clay,beans,76.3,68.7,49.5,No Fertilizer Needed
+38.6,22.0,46.5,red,groundnut,69.2,57.8,40.0,DAP
+22.2,32.8,28.7,red,groundnut,98.5,85.1,40.0,No Fertilizer Needed
+10.4,78.3,44.7,loamy,potato,120.0,100.0,60.0,10-26-26
+11.5,33.5,29.1,red,sweet potato,60.6,80.0,40.0,10-26-26
+14.5,48.0,44.7,clay,pearl millet,85.9,69.5,63.0,No Fertilizer Needed
+27.8,74.6,21.8,clay,wheat,183.6,67.7,50.0,No Fertilizer Needed
+15.9,87.1,39.2,loamy,coffee,100.0,80.4,40.0,Urea
+12.9,37.0,26.7,clay,rice,170.7,55.4,64.5,No Fertilizer Needed
+28.5,26.3,47.6,sandy,chickpea,22.6,30.0,40.0,DAP
+26.2,46.6,12.1,sandy,cotton,90.0,50.5,45.0,Urea
+15.6,21.7,51.2,sandy,pearl millet,60.0,55.8,30.0,Urea
+40.0,27.8,18.4,clay,onion,172.0,105.8,64.4,No Fertilizer Needed
+17.7,37.1,12.7,black,rice,151.7,165.5,60.0,DAP
+15.5,30.1,42.4,sandy,banana,100.0,200.0,40.0,10-26-26
+32.7,29.9,46.6,loamy,coffee,126.3,78.8,40.0,No Fertilizer Needed
+34.7,75.8,33.7,alluvial,banana,100.0,200.0,40.0,10-26-26
+29.2,44.7,14.7,black,potato,145.9,100.0,60.0,10-26-26
+34.6,70.4,11.2,red,chickpea,97.0,95.5,40.0,DAP
+26.2,27.8,11.9,red,grapes,60.0,80.0,40.0,10-26-26
+37.7,26.4,50.3,red,sweet potato,68.0,82.6,40.0,DAP
+28.2,57.5,30.7,alluvial,banana,100.0,200.0,40.0,10-26-26
+22.6,35.0,29.0,alluvial,sorghum,80.0,89.3,40.0,DAP
+17.8,55.8,21.5,black,banana,135.2,200.0,40.0,10-26-26
+27.2,54.3,41.0,clay,coffee,139.6,86.3,40.0,DAP
+27.1,70.8,36.5,black,wheat,135.5,194.6,51.0,No Fertilizer Needed
+38.9,63.8,51.7,red,watermelon,84.5,60.0,40.0,10-26-26
+23.1,51.4,57.5,red,groundnut,65.5,70.3,40.0,DAP
+19.6,50.2,17.4,black,sorghum,138.8,197.7,40.0,No Fertilizer Needed
+31.8,68.0,47.1,alluvial,tomato,130.0,100.0,50.0,10-26-26
+10.1,21.4,37.4,sandy,tomato,100.0,100.0,50.0,Urea
+17.2,27.8,10.2,black,watermelon,103.2,168.0,40.0,No Fertilizer Needed
+17.6,48.4,10.1,clay,maize,141.3,62.9,59.5,No Fertilizer Needed
+28.8,77.4,16.9,alluvial,coffee,100.0,108.8,47.3,Urea
+26.0,74.1,46.3,alluvial,coffee,117.7,76.9,40.0,No Fertilizer Needed
+20.1,58.0,52.1,alluvial,sweet potato,60.0,123.9,44.6,Urea
+40.0,47.2,12.0,black,onion,90.0,176.6,40.0,Urea
+18.3,35.3,31.7,red,coffee,100.0,60.0,40.0,10-26-26
+37.9,56.6,14.3,clay,chickpea,75.5,125.1,48.2,No Fertilizer Needed
+25.0,73.1,58.1,loamy,groundnut,69.8,49.2,43.2,No Fertilizer Needed
+10.4,45.4,26.2,alluvial,groundnut,68.8,44.7,40.0,No Fertilizer Needed
+38.3,62.5,22.5,black,mango,110.1,179.5,43.9,No Fertilizer Needed
+14.4,23.8,12.9,black,onion,90.0,160.3,50.5,Urea
+33.1,83.7,44.4,alluvial,sugarcane,150.0,62.0,60.0,Urea
+37.7,40.2,10.1,red,chickpea,96.4,33.8,40.0,No Fertilizer Needed
+36.6,54.8,44.4,red,grapes,92.6,84.8,40.0,DAP
+39.1,48.8,18.0,alluvial,grapes,136.2,82.9,40.0,No Fertilizer Needed
+12.6,63.4,59.6,loamy,rice,120.0,87.6,60.0,DAP
+13.5,49.3,13.5,red,cotton,90.0,53.6,45.0,Urea
+18.6,80.6,29.9,clay,coffee,182.3,120.2,40.0,No Fertilizer Needed
+17.9,48.6,12.7,clay,soybean,80.3,68.6,40.0,No Fertilizer Needed
+12.7,81.5,55.4,clay,maize,90.1,116.4,61.7,No Fertilizer Needed
+12.1,26.3,11.5,black,beans,144.0,159.6,53.0,No Fertilizer Needed
+32.1,50.5,26.3,black,rice,149.4,161.6,60.0,DAP
+21.5,23.2,53.8,loamy,groundnut,101.0,108.4,40.8,No Fertilizer Needed
+35.6,41.0,51.3,sandy,onion,90.0,60.0,40.0,Urea
+25.0,72.0,41.3,loamy,rice,120.0,71.9,60.0,Urea
+17.0,59.1,31.1,loamy,sugarcane,150.0,60.0,60.0,Urea
+32.5,28.8,32.9,clay,mango,191.6,163.5,38.7,No Fertilizer Needed
+35.4,69.3,29.4,black,sorghum,85.9,117.0,43.7,No Fertilizer Needed
+18.3,25.4,56.3,sandy,sugarcane,150.0,60.0,60.0,Urea
+25.3,79.1,49.5,black,sweet potato,79.8,80.0,40.0,10-26-26
+11.8,34.5,10.8,red,potato,120.0,100.0,60.0,Urea
+27.0,89.5,58.7,red,banana,100.0,200.0,40.0,10-26-26
+11.6,70.8,53.9,loamy,tomato,109.9,106.1,50.0,DAP
+20.1,64.6,52.2,clay,sugarcane,150.0,70.9,60.0,DAP
+33.6,21.2,30.0,red,groundnut,78.1,74.9,40.0,No Fertilizer Needed
+13.0,69.7,34.7,clay,maize,89.4,112.3,45.8,No Fertilizer Needed
+10.1,66.8,21.7,sandy,chickpea,31.1,56.5,40.0,DAP
+34.2,70.7,36.4,red,sorghum,80.0,67.7,40.0,Urea
+17.8,74.2,27.4,black,watermelon,80.0,68.9,40.0,DAP
+34.5,46.0,19.8,sandy,maize,80.0,53.7,40.0,DAP
+13.6,48.1,25.5,clay,soybean,163.4,53.0,44.8,No Fertilizer Needed
+14.3,69.9,42.1,black,soybean,102.0,70.9,40.0,No Fertilizer Needed
+40.0,34.1,39.7,clay,potato,137.4,120.5,60.0,DAP
+12.7,39.3,56.9,clay,wheat,100.0,105.9,62.4,Urea
+13.2,68.3,47.4,sandy,cotton,90.0,50.4,45.0,DAP
+33.4,27.3,41.5,clay,onion,115.4,138.1,62.7,No Fertilizer Needed
+31.5,88.4,59.5,alluvial,grapes,115.9,94.4,40.0,No Fertilizer Needed
+24.0,56.7,53.4,alluvial,banana,135.3,200.0,40.0,10-26-26
+16.7,57.1,45.3,loamy,chickpea,44.0,76.9,41.7,No Fertilizer Needed
+25.7,20.2,16.9,black,pigeon peas,98.1,159.5,46.0,No Fertilizer Needed
+38.4,27.4,11.4,clay,chickpea,156.2,121.8,40.0,No Fertilizer Needed
+36.8,67.4,54.0,sandy,sugarcane,150.0,60.0,60.0,Urea
+26.1,54.0,51.9,clay,pearl millet,68.4,115.5,60.5,No Fertilizer Needed
+15.5,40.1,10.7,clay,cotton,160.6,140.7,45.7,No Fertilizer Needed
+10.9,31.9,22.8,red,chickpea,90.1,83.3,40.0,DAP
+38.9,31.4,51.2,black,tomato,100.0,197.1,50.0,DAP
+32.9,58.6,52.3,alluvial,tea,120.0,80.0,40.0,Urea
+30.5,24.6,41.0,alluvial,chickpea,57.0,130.4,40.0,No Fertilizer Needed
+32.5,81.4,17.1,alluvial,grapes,76.9,117.5,40.6,No Fertilizer Needed
+21.7,20.3,56.4,sandy,banana,100.0,200.0,40.0,10-26-26
+33.0,82.5,17.8,red,beans,88.8,78.4,40.0,No Fertilizer Needed
+36.0,60.5,24.4,red,tea,120.0,80.0,40.0,10-26-26
+37.4,71.7,40.0,loamy,rice,120.0,58.7,60.0,DAP
+14.4,45.8,13.6,clay,soybean,127.3,143.3,40.0,No Fertilizer Needed
+30.9,48.3,49.7,black,sweet potato,73.3,146.0,50.0,No Fertilizer Needed
+19.3,26.4,10.2,sandy,mango,60.0,55.2,30.0,Urea
+17.8,89.6,34.5,black,pearl millet,135.1,120.3,39.4,No Fertilizer Needed
+24.2,58.6,26.0,loamy,cotton,110.8,45.3,45.0,No Fertilizer Needed
+37.2,43.1,14.9,black,maize,80.0,139.0,40.0,DAP
+20.2,38.2,28.8,clay,sorghum,189.7,128.0,40.0,No Fertilizer Needed
+14.8,71.4,10.9,black,tea,120.0,165.4,40.0,Urea
+22.7,52.4,17.1,loamy,grapes,74.2,80.0,40.0,10-26-26
+34.8,52.5,28.1,clay,tomato,171.7,106.6,55.0,No Fertilizer Needed
+24.4,70.6,20.8,sandy,beans,42.9,40.0,40.0,DAP
+36.7,40.8,13.6,sandy,rice,120.0,52.8,60.0,Urea
+21.5,31.3,18.6,sandy,pigeon peas,32.7,51.8,40.0,DAP
+36.8,33.0,35.8,sandy,watermelon,80.0,60.0,40.0,DAP
+10.3,65.7,28.9,sandy,groundnut,30.3,40.0,40.0,10-26-26
+16.2,58.4,56.0,loamy,tomato,100.0,100.0,50.0,10-26-26
+36.8,50.2,35.2,sandy,sugarcane,150.0,61.3,60.0,Urea
+25.5,85.5,59.7,loamy,rice,120.0,40.0,60.0,DAP
+33.3,38.2,27.3,loamy,mango,60.0,97.6,30.0,Urea
+16.0,49.3,14.2,black,sugarcane,150.0,123.7,60.0,DAP
+19.4,67.7,46.9,clay,groundnut,118.6,105.8,40.0,No Fertilizer Needed
+25.0,43.7,22.7,black,tea,120.0,158.1,40.0,DAP
+34.9,56.9,17.4,sandy,rice,120.0,40.0,60.0,Urea
+31.9,32.6,45.3,black,sugarcane,150.0,128.1,60.0,Urea
+35.1,78.1,42.6,clay,cotton,129.2,161.5,48.3,No Fertilizer Needed
+14.9,74.6,17.9,black,cotton,141.7,102.0,45.0,No Fertilizer Needed
+27.3,36.3,28.7,black,sweet potato,147.7,192.0,48.8,No Fertilizer Needed
+27.5,76.5,19.4,sandy,rice,120.0,65.8,60.0,DAP
+10.4,89.8,54.5,red,coffee,100.0,64.9,40.0,Urea
+22.7,21.8,13.6,clay,maize,125.7,54.7,60.9,No Fertilizer Needed
+22.0,33.6,54.4,clay,tomato,100.0,100.0,50.0,10-26-26
+27.5,34.6,30.7,loamy,wheat,100.0,56.0,50.0,DAP
+35.6,80.4,32.0,sandy,coffee,100.0,60.0,40.0,Urea
+10.2,35.6,38.1,red,soybean,81.5,53.4,40.0,No Fertilizer Needed
+36.4,63.1,40.6,sandy,wheat,100.0,52.4,50.0,DAP
+28.1,28.9,45.0,alluvial,soybean,142.2,90.7,40.0,No Fertilizer Needed
+36.8,28.3,29.4,sandy,maize,80.0,64.9,40.0,DAP
+11.8,78.1,45.9,black,coffee,100.0,174.2,41.7,Urea
+26.6,41.3,58.9,sandy,chickpea,47.5,54.7,40.0,DAP
+10.7,70.6,35.3,loamy,coffee,100.0,60.0,40.0,10-26-26
+32.6,79.3,11.1,loamy,pearl millet,60.0,88.6,30.0,DAP
+38.8,79.1,39.8,red,cotton,90.0,92.5,45.0,Urea
+28.6,39.6,37.1,sandy,banana,100.0,200.0,40.0,10-26-26
+38.7,37.3,18.7,loamy,potato,128.2,100.0,60.0,10-26-26
+37.2,76.4,27.2,loamy,sugarcane,150.0,101.4,60.0,DAP
+18.5,75.7,44.1,loamy,soybean,45.0,78.6,40.0,No Fertilizer Needed
+18.5,74.8,41.2,red,sweet potato,82.5,90.6,40.0,DAP
+21.8,31.4,31.3,sandy,banana,100.0,200.0,40.0,10-26-26
+16.9,28.8,58.3,alluvial,sweet potato,71.8,80.0,40.0,10-26-26
+23.3,43.3,39.9,clay,coffee,105.3,120.1,60.4,No Fertilizer Needed
+13.5,37.0,34.8,clay,sugarcane,150.0,87.3,60.0,Urea
+14.8,83.4,29.2,loamy,grapes,95.6,83.1,40.0,No Fertilizer Needed
+37.1,43.9,59.3,sandy,coffee,100.0,60.0,40.0,Urea
+16.9,53.7,21.6,alluvial,maize,84.6,118.9,47.6,No Fertilizer Needed
+19.6,66.7,35.4,black,groundnut,145.4,76.9,40.0,No Fertilizer Needed
+10.8,63.5,16.0,alluvial,sugarcane,150.0,60.0,60.0,DAP
+29.8,81.6,55.1,sandy,coffee,100.0,60.0,40.0,Urea
+13.2,44.8,21.5,alluvial,potato,120.0,100.0,60.0,10-26-26
+33.2,27.0,42.0,alluvial,tomato,100.0,100.0,50.0,10-26-26
+37.5,52.3,17.0,black,chickpea,97.9,113.5,54.0,No Fertilizer Needed
+14.6,26.5,37.3,sandy,groundnut,52.9,56.9,40.0,DAP
+38.0,75.4,39.5,alluvial,mango,117.3,69.2,48.5,No Fertilizer Needed
+24.8,50.2,41.7,black,sweet potato,136.1,91.2,40.0,No Fertilizer Needed
+27.7,89.0,31.5,sandy,soybean,25.3,63.4,40.0,DAP
+24.0,58.0,24.5,loamy,potato,120.0,100.0,60.0,DAP
+33.6,45.1,36.4,red,beans,44.5,43.1,40.0,DAP
+23.1,75.6,16.7,alluvial,mango,122.4,87.7,30.0,No Fertilizer Needed
+13.8,60.9,18.4,black,watermelon,81.0,168.3,40.0,DAP
+21.2,75.0,29.6,alluvial,mango,99.7,120.3,30.0,No Fertilizer Needed
+26.0,44.7,49.8,clay,rice,189.1,137.7,60.0,No Fertilizer Needed
+15.2,48.8,39.4,black,banana,100.0,200.0,40.0,10-26-26
+17.4,39.1,24.4,sandy,potato,120.0,100.0,60.0,Urea
+29.7,47.6,51.6,alluvial,tea,120.0,80.0,40.0,DAP
+34.8,23.7,39.0,loamy,groundnut,80.7,70.8,40.0,DAP
+11.2,70.2,40.7,alluvial,banana,100.0,200.0,41.4,10-26-26
+32.9,57.7,18.9,loamy,soybean,56.4,42.0,40.0,No Fertilizer Needed
+21.5,20.4,12.3,sandy,coffee,100.0,60.0,40.0,Urea
+11.1,48.0,30.0,alluvial,pearl millet,135.5,116.8,41.0,No Fertilizer Needed
+39.3,80.9,29.5,black,wheat,100.0,189.8,50.0,Urea
+27.2,36.0,18.7,clay,rice,120.0,145.4,60.0,DAP
+35.7,67.1,20.3,sandy,pigeon peas,60.0,39.5,40.0,DAP
+38.1,63.2,24.2,alluvial,rice,120.0,54.3,60.0,Urea
+13.0,44.4,55.0,alluvial,tomato,100.0,100.0,50.0,10-26-26
+24.1,82.6,36.2,black,potato,120.0,187.0,60.0,DAP
+35.8,34.6,22.6,black,wheat,100.0,69.1,50.0,Urea
+34.3,53.1,52.9,black,groundnut,59.5,65.7,40.0,No Fertilizer Needed
+28.6,59.5,18.6,black,maize,122.2,85.8,40.0,DAP
+23.4,38.7,23.4,sandy,sweet potato,60.0,80.0,40.0,10-26-26
+33.9,55.1,29.4,loamy,onion,90.0,109.8,40.0,Urea
+36.2,74.1,28.5,loamy,potato,120.0,100.0,60.0,Urea
+11.2,68.2,18.6,red,sweet potato,66.3,80.0,40.0,10-26-26
+39.4,20.2,26.9,clay,beans,130.6,152.1,40.0,No Fertilizer Needed
+38.3,32.2,29.5,alluvial,pearl millet,72.7,95.1,30.0,No Fertilizer Needed
+27.4,35.4,36.7,clay,rice,120.0,86.8,60.0,DAP
+22.3,26.6,21.1,alluvial,beans,94.8,65.6,46.3,No Fertilizer Needed
+11.5,70.9,14.1,black,tomato,128.0,193.0,50.0,No Fertilizer Needed
+17.7,49.0,33.4,black,grapes,120.3,94.6,40.0,No Fertilizer Needed
+21.0,40.8,44.7,clay,sweet potato,133.1,136.5,57.7,No Fertilizer Needed
+38.2,30.4,33.8,clay,coffee,156.9,64.9,47.0,No Fertilizer Needed
+20.0,68.8,42.5,loamy,sorghum,117.4,56.8,40.0,DAP
+22.4,81.8,11.7,loamy,soybean,122.9,53.6,40.0,No Fertilizer Needed
+27.8,37.2,11.4,black,groundnut,99.7,91.5,40.0,No Fertilizer Needed
+31.0,82.1,16.0,black,watermelon,147.0,87.8,40.0,No Fertilizer Needed
+37.3,65.0,48.8,black,onion,113.5,124.0,46.4,No Fertilizer Needed
+22.9,35.3,48.0,red,beans,77.1,40.0,40.0,No Fertilizer Needed
+27.2,34.3,44.0,sandy,pearl millet,60.0,48.8,30.0,Urea
+39.6,21.7,52.2,black,sorghum,132.9,177.5,41.4,No Fertilizer Needed
+19.1,29.7,51.4,alluvial,pigeon peas,113.2,100.3,40.0,No Fertilizer Needed
+32.9,73.5,37.3,black,sweet potato,91.2,80.0,44.6,No Fertilizer Needed
+15.6,24.3,13.5,sandy,watermelon,80.0,64.3,40.0,DAP
+15.7,76.7,39.1,black,rice,129.5,146.1,60.0,DAP
+34.5,85.1,34.5,red,pigeon peas,69.4,53.3,40.0,DAP
+23.9,52.0,55.7,sandy,tomato,100.0,100.0,50.0,Urea
+15.1,61.1,17.9,loamy,tea,120.0,80.0,40.0,Urea
+39.2,26.1,48.6,sandy,pigeon peas,64.1,65.5,40.0,DAP
+10.6,39.8,48.8,alluvial,tea,120.0,80.0,40.0,10-26-26
+15.4,63.2,51.0,red,watermelon,80.0,60.0,40.0,DAP
+14.9,90.0,21.6,red,tea,120.0,80.0,40.0,10-26-26
+30.9,74.8,44.7,clay,soybean,174.0,134.0,40.0,No Fertilizer Needed
+24.1,80.2,10.3,black,cotton,115.6,99.6,53.3,No Fertilizer Needed
+13.4,81.8,36.4,alluvial,soybean,129.7,124.9,41.4,No Fertilizer Needed
+29.5,37.7,48.6,black,cotton,145.7,184.7,45.0,No Fertilizer Needed
+12.8,20.1,57.0,red,beans,83.8,40.0,40.0,10-26-26
+22.4,40.9,32.3,sandy,tea,120.0,80.0,40.0,Urea
+29.2,80.6,53.0,red,wheat,100.0,67.2,50.0,DAP
+26.5,65.6,48.5,black,tea,136.5,107.0,49.1,No Fertilizer Needed
+35.5,52.0,35.8,alluvial,rice,120.0,127.6,60.0,DAP
+29.4,64.2,14.4,alluvial,potato,120.0,126.3,60.0,DAP
+31.6,81.9,29.2,clay,pigeon peas,77.9,98.2,57.0,No Fertilizer Needed
+26.7,57.1,52.0,clay,sugarcane,150.0,60.0,60.0,DAP
+15.8,83.1,23.2,black,potato,120.0,143.3,60.0,DAP
+15.5,37.7,59.9,alluvial,beans,111.8,123.0,45.3,No Fertilizer Needed
+10.3,72.2,50.5,sandy,maize,80.0,30.0,40.0,DAP
+22.2,21.3,14.5,sandy,grapes,62.7,80.0,40.0,10-26-26
+15.5,83.7,38.5,clay,soybean,117.7,131.7,57.7,No Fertilizer Needed
+21.3,73.3,10.0,red,soybean,93.5,56.8,40.0,No Fertilizer Needed
+19.3,44.6,21.1,alluvial,sugarcane,150.0,109.9,60.0,DAP
+33.7,74.5,23.9,black,sweet potato,60.0,117.0,40.0,DAP
+26.4,28.3,53.7,red,groundnut,70.0,48.3,40.0,No Fertilizer Needed
+38.2,48.0,17.6,loamy,grapes,60.0,80.0,40.0,DAP
+34.2,62.3,41.2,black,watermelon,104.5,72.9,40.0,DAP
+19.3,77.2,58.4,red,grapes,89.2,80.0,40.0,10-26-26
+15.6,56.7,19.2,loamy,wheat,128.5,44.7,50.0,DAP
+21.9,87.7,57.4,black,watermelon,108.8,88.5,40.0,No Fertilizer Needed
+28.3,61.3,54.5,black,grapes,112.1,142.4,48.3,No Fertilizer Needed
+26.4,35.1,47.6,alluvial,tea,120.0,80.0,44.9,Urea
+31.3,51.6,19.4,black,sorghum,145.2,103.6,40.0,No Fertilizer Needed
+25.8,23.4,57.4,loamy,soybean,114.7,96.0,40.9,No Fertilizer Needed
+16.0,57.0,19.5,loamy,cotton,110.8,109.3,45.0,DAP
+10.9,82.8,24.5,clay,watermelon,80.0,131.1,65.0,Urea
+35.2,70.7,57.2,sandy,watermelon,80.0,60.0,40.0,DAP
+36.1,71.2,38.2,clay,soybean,92.4,75.5,40.0,No Fertilizer Needed
+19.6,83.1,52.2,black,coffee,100.0,145.7,40.0,DAP
+19.8,67.0,24.9,alluvial,onion,117.9,104.8,40.0,No Fertilizer Needed
+19.9,87.9,42.4,clay,banana,100.0,200.0,40.0,10-26-26
+27.1,53.9,31.3,clay,soybean,145.2,122.5,57.0,No Fertilizer Needed
+37.2,48.0,55.8,red,groundnut,69.9,83.9,40.0,No Fertilizer Needed
+39.6,45.9,36.7,alluvial,wheat,131.2,101.3,50.0,DAP
+38.1,51.4,30.4,alluvial,soybean,55.3,93.5,40.0,No Fertilizer Needed
+32.7,65.6,46.6,sandy,pearl millet,64.4,59.1,30.0,DAP
+33.9,41.5,22.9,sandy,banana,100.0,200.0,40.0,10-26-26
+24.5,63.3,52.5,sandy,pigeon peas,25.4,43.1,40.0,DAP
+15.1,54.7,58.5,alluvial,tomato,100.0,110.2,50.0,Urea
+39.0,30.3,26.7,sandy,pigeon peas,49.0,47.9,40.0,DAP
+15.9,53.9,20.5,red,maize,80.0,43.9,40.0,Urea
+18.3,51.4,37.5,loamy,banana,100.0,200.0,40.0,10-26-26
+38.8,49.1,16.4,alluvial,chickpea,67.5,125.1,49.0,No Fertilizer Needed
+35.1,48.9,13.8,alluvial,rice,120.0,84.4,60.0,DAP
+26.7,74.7,27.9,alluvial,wheat,100.0,101.2,50.0,DAP
+20.4,38.8,29.2,red,sweet potato,97.1,86.4,40.0,DAP
+25.3,44.1,37.2,loamy,sweet potato,60.0,80.0,40.0,10-26-26
+18.1,76.1,29.6,loamy,chickpea,74.9,43.8,40.0,No Fertilizer Needed
+29.4,77.5,10.1,clay,watermelon,101.5,152.9,47.5,No Fertilizer Needed
+19.3,82.5,15.9,alluvial,rice,120.0,110.5,60.0,DAP
+26.4,32.5,50.2,alluvial,tea,120.0,80.0,40.0,Urea
+31.9,36.7,28.6,alluvial,potato,125.5,103.6,60.0,DAP
+39.2,72.1,43.0,alluvial,groundnut,97.6,77.3,40.0,No Fertilizer Needed
+30.9,26.3,55.1,red,potato,120.0,100.0,60.0,Urea
+17.1,70.5,16.6,alluvial,tomato,100.0,130.7,50.0,Urea
+35.5,55.2,35.4,loamy,banana,100.0,200.0,40.0,10-26-26
+31.6,62.4,34.1,red,wheat,100.0,40.0,50.0,DAP
+13.5,69.0,14.6,alluvial,pigeon peas,127.3,98.6,43.5,No Fertilizer Needed
+12.4,34.0,52.8,sandy,banana,100.0,200.0,40.0,10-26-26
+18.3,43.7,12.4,red,mango,60.0,44.1,30.0,Urea
+27.8,48.2,24.8,clay,cotton,124.4,163.6,51.8,No Fertilizer Needed
+19.4,62.0,33.5,clay,sugarcane,150.0,83.2,60.0,Urea
+24.4,68.9,49.5,loamy,groundnut,119.7,85.9,40.0,No Fertilizer Needed
+36.9,25.6,47.5,alluvial,sugarcane,150.0,116.1,60.0,Urea
+31.9,60.4,31.1,loamy,coffee,113.3,109.8,40.0,No Fertilizer Needed
+15.4,42.9,47.9,black,sugarcane,150.0,94.3,60.0,DAP
+32.5,25.2,36.7,sandy,rice,120.0,57.6,60.0,Urea
+16.5,47.2,30.1,clay,chickpea,107.6,96.8,57.6,No Fertilizer Needed
+21.9,50.4,10.4,black,wheat,100.0,182.8,50.0,Urea
+29.0,38.6,10.4,alluvial,maize,98.6,119.4,40.0,DAP
+27.8,89.2,12.9,clay,coffee,163.0,68.6,49.8,No Fertilizer Needed
+28.2,43.7,44.4,clay,sugarcane,166.6,94.2,60.0,DAP
+27.9,36.2,15.6,alluvial,chickpea,108.8,77.3,40.0,No Fertilizer Needed
+31.5,50.1,16.7,red,wheat,100.0,86.5,50.0,DAP
+29.8,38.0,23.7,loamy,pearl millet,98.7,38.3,42.6,No Fertilizer Needed
+26.7,62.3,44.7,alluvial,banana,135.8,200.0,40.0,10-26-26
+28.9,28.5,37.4,clay,sweet potato,115.6,112.1,49.3,No Fertilizer Needed
+32.9,47.9,30.3,loamy,banana,120.0,200.0,40.0,10-26-26
+24.8,54.7,25.7,clay,sugarcane,150.0,161.6,60.0,DAP
+34.3,78.8,25.5,clay,onion,120.1,85.8,41.1,No Fertilizer Needed
+32.7,83.1,30.3,sandy,beans,26.9,65.7,40.0,DAP
+21.0,25.0,57.7,red,grapes,77.5,80.0,40.0,10-26-26
+22.7,76.6,25.8,clay,beans,70.3,116.9,44.7,No Fertilizer Needed
+15.4,41.2,20.5,sandy,grapes,60.0,80.0,40.0,10-26-26
+21.3,38.5,47.3,alluvial,wheat,100.0,70.8,50.0,Urea
+11.6,70.6,16.2,red,chickpea,94.5,74.9,40.0,DAP
+27.3,47.9,58.2,alluvial,sorghum,136.8,78.4,44.4,No Fertilizer Needed
+19.9,82.0,37.7,black,tomato,100.0,145.0,50.0,DAP
+30.1,52.2,37.3,alluvial,groundnut,46.2,46.4,40.0,No Fertilizer Needed
+39.8,68.6,52.4,sandy,potato,120.0,100.0,60.0,10-26-26
+13.0,33.0,11.3,alluvial,rice,120.0,61.5,60.0,DAP
+31.2,68.9,20.6,alluvial,sugarcane,150.0,131.8,60.0,DAP
+17.8,33.0,38.0,loamy,watermelon,80.0,60.0,40.0,DAP
+21.3,80.2,42.6,black,watermelon,80.0,187.0,40.0,DAP
+14.8,70.5,53.4,alluvial,tea,120.0,80.0,40.0,DAP
+27.3,37.6,59.6,clay,potato,120.0,100.0,60.0,Urea
+18.4,29.7,58.1,red,potato,120.0,100.0,60.0,DAP
+10.3,67.1,26.6,red,sugarcane,150.0,88.4,60.0,Urea
+36.9,24.0,56.3,sandy,mango,60.0,48.4,30.0,Urea
+26.5,35.5,11.5,sandy,maize,80.0,33.8,40.0,DAP
+30.2,32.9,47.9,sandy,soybean,65.7,40.0,40.0,10-26-26
+23.5,52.7,20.2,black,sugarcane,150.0,131.3,60.0,Urea
+22.1,40.9,33.9,black,wheat,146.2,91.0,50.0,DAP
+17.1,75.8,26.8,clay,grapes,105.3,142.1,49.1,No Fertilizer Needed
+18.6,71.0,11.9,alluvial,sugarcane,150.0,107.5,60.0,Urea
+18.1,67.3,53.4,black,sugarcane,150.0,131.4,60.0,Urea
+22.6,46.0,56.3,black,onion,137.4,84.6,40.0,No Fertilizer Needed
+31.2,33.4,35.4,sandy,wheat,100.0,56.7,50.0,DAP
+38.4,71.0,24.1,loamy,watermelon,82.3,71.4,40.0,DAP
+13.1,84.8,59.0,sandy,coffee,100.0,60.0,40.0,Urea
+31.2,78.9,39.9,red,coffee,100.0,79.2,40.0,Urea
+27.7,63.4,25.7,clay,onion,105.3,119.7,60.0,No Fertilizer Needed
+14.3,49.2,53.6,sandy,pigeon peas,34.3,54.5,40.0,DAP
+36.8,27.1,15.0,loamy,coffee,106.7,105.1,40.0,DAP
+12.2,80.7,15.2,alluvial,sweet potato,105.6,80.0,40.0,No Fertilizer Needed
+10.1,25.1,44.3,clay,groundnut,122.0,155.9,52.5,No Fertilizer Needed
+37.3,77.2,58.6,sandy,potato,120.0,100.0,60.0,10-26-26
+14.8,47.8,33.1,alluvial,potato,120.0,118.3,60.0,DAP
+14.2,87.6,20.3,red,sorghum,80.0,64.1,40.0,DAP
+26.4,79.3,13.4,alluvial,mango,96.4,48.9,30.0,No Fertilizer Needed
+31.7,60.3,28.5,alluvial,tomato,100.0,100.0,50.0,Urea
+21.7,72.7,26.2,loamy,sweet potato,80.6,80.0,40.0,10-26-26
+36.5,57.9,58.6,sandy,watermelon,80.0,60.0,40.0,10-26-26
+34.1,23.5,37.2,black,tomato,109.3,100.0,50.0,10-26-26
+10.2,49.3,27.8,sandy,watermelon,80.0,60.0,40.0,Urea
+25.0,84.9,57.4,loamy,groundnut,71.0,61.9,40.0,No Fertilizer Needed
+13.0,87.6,22.7,loamy,pearl millet,80.8,38.9,30.0,DAP
+20.1,75.1,30.7,black,sorghum,104.8,155.2,40.0,DAP
+22.4,44.7,26.3,clay,grapes,83.8,149.4,61.1,No Fertilizer Needed
+33.1,61.2,33.6,clay,groundnut,103.0,147.9,40.0,No Fertilizer Needed
+25.9,83.9,59.9,sandy,tomato,100.0,100.0,50.0,Urea
+31.9,51.7,57.9,clay,pearl millet,118.1,122.5,30.0,No Fertilizer Needed
+37.5,55.9,30.6,sandy,groundnut,28.8,40.0,40.0,DAP
+28.3,57.4,11.5,red,wheat,100.0,81.9,50.0,Urea
+30.0,20.8,48.5,loamy,tomato,100.0,100.0,50.0,10-26-26
+36.3,29.4,23.6,red,pearl millet,98.3,38.9,30.0,No Fertilizer Needed
+28.3,56.9,24.9,black,grapes,145.0,110.8,40.0,No Fertilizer Needed
+24.8,89.1,58.7,alluvial,watermelon,80.0,99.6,40.0,Urea
+17.5,21.3,26.8,red,soybean,87.4,40.0,40.0,No Fertilizer Needed
+10.0,70.2,22.5,black,pigeon peas,64.4,178.6,50.2,No Fertilizer Needed
+20.6,57.1,58.7,clay,soybean,81.9,121.2,44.4,No Fertilizer Needed
+15.7,41.9,12.0,black,rice,120.0,152.8,60.0,Urea
+26.0,52.2,40.5,loamy,pearl millet,128.0,58.2,30.0,No Fertilizer Needed
+32.1,89.5,44.3,black,sorghum,124.8,130.6,40.0,DAP
+19.6,64.9,53.7,red,sugarcane,150.0,60.0,60.0,Urea
+14.8,65.3,21.0,black,coffee,151.0,162.5,40.0,No Fertilizer Needed
+26.5,70.2,47.8,alluvial,grapes,61.7,85.3,40.0,DAP
+13.0,88.8,19.6,sandy,sorghum,80.0,59.0,40.0,Urea
+39.0,84.0,14.3,alluvial,tomato,100.0,125.1,50.0,Urea
+26.2,30.5,48.9,black,maize,142.1,173.9,48.4,No Fertilizer Needed
+22.4,58.4,51.8,loamy,coffee,126.0,60.0,41.8,No Fertilizer Needed
+14.3,65.8,16.0,alluvial,chickpea,106.4,44.4,47.7,No Fertilizer Needed
+16.8,67.6,38.7,sandy,sugarcane,150.0,60.0,60.0,Urea
+34.7,81.1,45.7,loamy,onion,98.5,85.3,40.0,DAP
+34.3,88.9,39.0,loamy,sweet potato,105.3,94.3,40.0,DAP
+19.4,34.2,36.2,black,onion,152.8,136.5,50.4,No Fertilizer Needed
+11.2,51.7,20.5,alluvial,tea,120.0,80.0,40.0,10-26-26
+11.7,60.7,28.5,red,pearl millet,98.2,73.8,32.3,No Fertilizer Needed
+34.8,34.7,23.2,black,potato,120.0,133.9,60.0,DAP
+30.6,47.9,17.5,clay,sugarcane,150.0,72.8,60.0,DAP
+28.1,64.2,26.7,alluvial,beans,54.1,91.2,45.4,No Fertilizer Needed
+29.4,57.8,42.2,red,sugarcane,150.0,60.0,60.0,Urea
+29.5,54.2,55.8,clay,sugarcane,150.0,161.1,60.0,Urea
+11.4,61.0,21.0,clay,wheat,168.2,68.7,50.0,No Fertilizer Needed
+36.8,35.7,55.3,red,sweet potato,66.0,80.0,40.0,10-26-26
+37.1,84.5,22.1,red,banana,100.0,200.0,40.0,10-26-26
+22.4,56.3,46.5,red,sorghum,80.0,54.3,40.0,Urea
+34.0,51.0,47.0,clay,chickpea,166.4,126.5,58.8,No Fertilizer Needed
+19.7,43.8,12.1,clay,tomato,177.0,128.6,50.0,No Fertilizer Needed
+13.8,26.6,33.9,loamy,wheat,100.0,51.7,50.0,DAP
+34.7,38.4,25.6,alluvial,groundnut,141.2,51.4,40.0,No Fertilizer Needed
+11.9,82.1,57.5,loamy,maize,100.6,91.4,40.0,No Fertilizer Needed
+33.8,79.6,19.9,alluvial,soybean,97.7,71.2,40.0,No Fertilizer Needed
+28.1,72.1,39.1,red,watermelon,80.0,73.2,40.0,Urea
+36.2,29.9,41.9,clay,sweet potato,103.8,82.5,56.0,No Fertilizer Needed
+18.8,48.8,33.7,red,onion,90.0,82.9,40.0,DAP
+31.8,49.9,24.9,black,soybean,51.3,189.6,40.0,No Fertilizer Needed
+24.4,73.1,35.3,loamy,tea,120.0,80.0,40.0,Urea
+23.6,84.2,40.1,loamy,pearl millet,105.3,67.9,30.0,No Fertilizer Needed
+21.8,59.2,47.2,red,cotton,90.0,87.5,45.0,DAP
+21.0,69.4,25.2,red,mango,60.0,46.8,33.8,Urea
+21.3,89.5,28.6,clay,banana,137.2,200.0,49.2,10-26-26
+23.0,47.2,57.3,red,soybean,93.0,85.1,40.0,No Fertilizer Needed
+17.6,32.4,16.1,alluvial,pearl millet,117.9,91.0,35.1,No Fertilizer Needed
+37.6,54.1,47.0,clay,beans,187.7,100.3,48.4,No Fertilizer Needed
+20.1,86.4,54.9,clay,chickpea,73.4,98.0,50.9,No Fertilizer Needed
+29.4,86.0,54.6,clay,sweet potato,76.3,86.2,56.4,No Fertilizer Needed
+24.4,68.9,12.9,alluvial,groundnut,103.1,60.3,43.3,No Fertilizer Needed
+18.6,71.5,16.4,black,pearl millet,134.1,135.4,49.7,No Fertilizer Needed
+29.1,36.9,20.1,alluvial,banana,136.6,200.0,43.2,10-26-26
+39.1,72.4,38.8,loamy,beans,100.1,96.4,40.0,No Fertilizer Needed
+36.7,49.1,32.6,red,cotton,90.0,98.3,45.0,Urea
+38.6,20.1,59.9,black,onion,127.4,100.5,51.8,No Fertilizer Needed
